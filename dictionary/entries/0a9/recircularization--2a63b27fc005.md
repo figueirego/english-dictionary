@@ -1,0 +1,72 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-2a63b27fc005cab6e639"
+headword: "recircularization"
+language: "en"
+source_records: 1
+sense_count: 1
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/recircularization#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=recircularization&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["c3779d15fc8d9d5713e1ff318dbb82598416274310bb9e3478b4c8e2f895e3f8"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "2be5b8c65a5da723d315014ce9a686b84a108542b25c52426d1b490052ce427c"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 27, "examples_withheld": 0}
+parent_source_record_sha256: ["fbf51059f8bf4a8283b3b04a8410cb838b955936ed3bf93ab53b1e32ca048eef"]
+---
+
+# recircularization
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Forms
+
+- recircularizations — plural
+- recircularisation — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. The restoration of circularity (especially of a plasmid).
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; eligible usage examples absent in 1 of 1 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/recircularization#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=recircularization&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

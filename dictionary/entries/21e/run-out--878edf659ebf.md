@@ -1,0 +1,198 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-878edf659ebfdbe65c06"
+headword: "run out"
+language: "en"
+source_records: 2
+sense_count: 12
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/run%20out#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=run%20out&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["801eaa29253303126d7f937d473d8f5f9f2238e3ebcd50335d82d43d1d3f8d7f", "2a464826265e0980bc024fdfbbdfd5b4c2ff8251edf51a79f3dc6534abd0fd65"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 2, "source_relation_groups_labelled": 1, "source_topic_labels_restored": 9}
+editorial_change_count: 12
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "bd68fd2560def9aa683aee0d45b56cbaf59b87c7b281428c808626d5af7f97cf"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["801eaa29253303126d7f937d473d8f5f9f2238e3ebcd50335d82d43d1d3f8d7f", "2a464826265e0980bc024fdfbbdfd5b4c2ff8251edf51a79f3dc6534abd0fd65"]
+---
+
+# run out
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Forms
+
+- run outs — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Alternative form of runout.
+
+   **Usage:** alt-of; alternative
+
+   **Alternative form of:** [runout](../2cf/runout--b3d8eecc0699.md)
+
+<a id="r2"></a>
+
+## Verb · Record 2
+
+### Forms
+
+- runs out — present; singular; third-person
+- running out — participle; present
+- ran out — past
+- run out — participle; past
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. To use up or consume all
+
+   **Usage:** idiomatic; intransitive; transitive
+
+   **Example:** Get some more beer out of the fridge before we run out.
+
+   **Example:** If this hot weather continues, we will run out of ice cream.
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. To expire; to come to an end.
+
+   **Usage:** intransitive
+
+   **Example:** My driving licence runs out next week, so I had better renew it now.
+
+   **Example:** The option will run out next week and I can't get it extended.
+
+<a id="r2-s3"></a>
+
+**Source sense R2.S3**
+
+3. To expire; to come to an end.
+   1. To be completely used up or consumed.
+
+      **Usage:** intransitive
+
+      **Example:** Time is running out.
+
+      **Example:** Oh no! The wine has run out!
+
+      **Example:** His string of bad luck has hopefully run out.
+
+<a id="r2-s4"></a>
+
+**Source sense R2.S4**
+
+4. To expire; to come to an end.
+   1. To continue a streak or string.
+
+      **Usage:** intransitive
+
+      **Example:** After that series of confidence-giving wins, I think the team is going to run out their streak.
+
+<a id="r2-s5"></a>
+
+**Source sense R2.S5**
+
+5. To get a batsman out (dismissed from play) via a runout.
+
+   **Example:** Jackson was run out for a duck in the first over.
+
+   **Source topics (extractor hierarchy; not curated):** ball-games; cricket; games; hobbies; lifestyle; sports
+
+<a id="r2-s6"></a>
+
+**Source sense R2.S6**
+
+6. To extend a piece of material, or clothing.
+
+   **Usage:** transitive
+
+   **Example:** If I run out these curtains, they will fit the windows in the drawing room.
+
+<a id="r2-s7"></a>
+
+**Source sense R2.S7**
+
+7. To conclude in, to end up.
+
+   **Usage:** intransitive
+
+<a id="r2-s8"></a>
+
+**Source sense R2.S8**
+
+8. To force (someone or something) out of a location or state of being.
+
+   **Example:** If the mob thinks you did it, they'll run you out of town.
+
+   **Example:** They'll run us out of business doing that!
+
+<a id="r2-s9"></a>
+
+**Source sense R2.S9**
+
+9. To grow poor over time by spending all of one's money.
+
+   **Usage:** archaic
+
+<a id="r2-s10"></a>
+
+**Source sense R2.S10**
+
+10. To fill a line with quadrats or full points.
+
+   **Usage:** obsolete
+
+   **Source topics (extractor hierarchy; not curated):** media; printing; publishing
+
+<a id="r2-s11"></a>
+
+**Source sense R2.S11**
+
+11. Used other than figuratively or idiomatically&#58; see run, out.
+
+   **Example:** She ran out of the room in tears.
+
+   **Source synonyms:** 23 skidoo (archaic; idiomatic); beat it (idiomatic); bug off; remove; egress (US; formal); bugger off (Commonwealth; idiomatic; vulgar); book; bounce (slang); buzz off; chuck (South-Africa; slang); cut one's stick (idiomatic); dash; depart; [duck out](../316/duck-out--c58e48693dbb.md); exit; get away; get out; go; go away; go out; GTFO (vulgar); leave; make tracks (idiomatic); move on; namous (obsolete); part; piss off (Commonwealth; idiomatic; vulgar); pull up stakes; put out; start; start out; set forth; set off; set out; run along; sling one's hook (idiomatic); split; take off; take leave; take one's leave; take wing; quit
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 2 of 2 source records; eligible usage examples absent in 4 of 12 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/run%20out#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=run%20out&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

@@ -1,0 +1,99 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-3d20baf31571bb9381a1"
+headword: "in the dark"
+language: "en"
+source_records: 1
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/in%20the%20dark#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=in%20the%20dark&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["67c03136e1ecf2850a0d015cbb156276d90f443aae00405be34c1d5331eede2a"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 2, "source_topic_labels_restored": 2, "unspecified_pronunciations_labelled": 1}
+editorial_change_count: 5
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "c876da0b9beaec455ec26bc46f02a1d6b7bd06e37786623ac31f8c6af3f16c06"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["67c03136e1ecf2850a0d015cbb156276d90f443aae00405be34c1d5331eede2a"]
+---
+
+# in the dark
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Prep\_phrase
+
+### Pronunciation
+
+- enPR: ĭn thə därk — variety unspecified in the source labels
+- IPA: /ɪn ðə dɑːk/ — source labels: Received-Pronunciation
+- IPA: /ɪn ðə dɑɹk/ — source labels: Canada; General-American
+- IPA: /ɪn ðə dɐːk/ — source labels: Australia
+- IPA: /ən ðə dɐːk/ — source labels: New-Zealand
+- IPA: /ɪn ðə daɹk/ — source labels: Scotland
+- IPA: /ɪn d̪e ɖaːʳk/ — source labels: India
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Without information.
+
+   **Usage:** idiomatic
+
+   **Example:** Management kept the board of directors completely in the dark.
+
+   **Example:** They remained in the dark until the newspaper story came out.
+
+   **Source synonyms:** out of the loop; out of touch
+
+   **Source antonyms:** in the know; in the loop
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Without looking at one's hole cards, thus not knowing what they are.
+
+   **Usage:** slang
+
+   **Source topics (extractor hierarchy; not curated):** card-games; poker
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. Used other than figuratively or idiomatically&#58; see in, the, dark; without light, somewhere that is dark.
+
+   **Example:** I tripped over his suitcase in the dark.
+
+## Source gaps
+
+etymology absent in 1 of 1 source records; eligible usage examples absent in 1 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/in%20the%20dark#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=in%20the%20dark&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

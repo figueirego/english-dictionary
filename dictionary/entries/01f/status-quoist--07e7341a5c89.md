@@ -1,0 +1,71 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-07e7341a5c89a8ff1e90"
+headword: "status quoist"
+language: "en"
+source_records: 1
+sense_count: 1
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/status%20quoist#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=status%20quoist&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["48ebc53f29c9a29d06df74c04fba6f0df862330e4a327061ae33f46cdffa88e8"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "e07eb2d069632694443fbe084e70304213844962d3f95d7a867d8938d1eba6f9"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 23, "examples_withheld": 0}
+parent_source_record_sha256: ["1e013c75e7332172256da4f57a1913f341b654a0d7c45abc1d22ec265a15f779"]
+---
+
+# status quoist
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Forms
+
+- status quoists — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A supporter of the status quo.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; eligible usage examples absent in 1 of 1 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/status%20quoist#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=status%20quoist&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

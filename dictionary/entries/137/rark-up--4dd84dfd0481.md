@@ -1,0 +1,122 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-4dd84dfd0481631b2065"
+headword: "rark up"
+language: "en"
+source_records: 2
+sense_count: 5
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/rark%20up#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=rark%20up&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["020b131043071ce947114d67af0f7da26cabf34fe48741b1257a6c9690597eab", "6504314f81dc5d5cfcf6ce5356cef2658f5e9fcd3c0713cfd1bbf8a16a62acb8"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "9c9cf8cef5f307c5b5a0331ab529076aaefee3df34c0299efbf25d3c2e3b874f"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 34, "examples_withheld": 0}
+parent_source_record_sha256: ["f7b8a9737e3cfb5867c27eca07c3a9d719b013e8f9840ef5ddaaa4c8353895dc", "a78d9cfc6138deeab18017830e9dfa871b2b5e32223d8d31f42d95ed16e2b965"]
+---
+
+# rark up
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Verb · Record 1
+
+### Forms
+
+- rarks up — present; singular; third-person
+- rarking up — participle; present
+- rarked up — participle; past
+- rarked up — past
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. To tell (someone) off.
+
+   **Usage:** New-Zealand; slang; transitive
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. To provoke or hurry (someone) into doing something.
+
+   **Usage:** New-Zealand; slang; transitive
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. To make (someone) angry or annoyed.
+
+   **Usage:** New-Zealand; slang; transitive
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Noun · Record 2
+
+### Forms
+
+- rark ups — plural
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. A telling off.
+
+   **Usage:** New-Zealand; slang
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. A provocation.
+
+   **Usage:** New-Zealand; slang
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; eligible usage examples absent in 5 of 5 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/rark%20up#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=rark%20up&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

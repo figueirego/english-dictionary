@@ -1,0 +1,81 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-da83cfd56e835332cb56"
+headword: "repriming"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/repriming#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=repriming&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["d9aee81cf9a0e5e72c8a02a47f3a0598285a24f8aac6f0d563361be59c5d009b", "94ce2418c3e3b0cd9147addd0a324f6311737f7b6800fbfa6fd5c2924f376f86"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "4722178b12d0f8a072c0def841eb10b6ec471622dcc60d0fc0572dd2f33651ee"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["d9aee81cf9a0e5e72c8a02a47f3a0598285a24f8aac6f0d563361be59c5d009b", "94ce2418c3e3b0cd9147addd0a324f6311737f7b6800fbfa6fd5c2924f376f86"]
+---
+
+# repriming
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Verb · Record 1
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. present participle and gerund of reprime
+
+   **Usage:** form-of; gerund; participle; present
+
+   **Form of:** [reprime](../1fe/reprime--7f82b5ceef4b.md)
+
+<a id="r2"></a>
+
+## Noun · Record 2
+
+### Forms
+
+- reprimings — plural
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. The act of priming something again.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 2 of 2 source records; eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/repriming#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=repriming&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

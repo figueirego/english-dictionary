@@ -1,0 +1,103 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-2adbc5b40a46ba4945a6"
+headword: "beat off"
+language: "en"
+source_records: 1
+sense_count: 4
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/beat%20off#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=beat%20off&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["63815790ee0a008de794d892fb96356f7449753a5398dc231e65d1756497cff4"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "8f9498434caa973c99cca80b79f7d9edd64dc1aa1d1972f4434c3248ef96ff02"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["63815790ee0a008de794d892fb96356f7449753a5398dc231e65d1756497cff4"]
+---
+
+# beat off
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Verb
+
+### Forms
+
+- beats off — present; singular; third-person
+- beating off — participle; present
+- beat off — past
+- beaten off — participle; past
+- beat off — participle; past
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. To drive something away with blows or military force.
+
+   **Usage:** figuratively; often; transitive
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. To masturbate by stimulating one's own penis.
+
+   **Usage:** Canada; US; colloquial; idiomatic; intransitive; vulgar
+
+   **Example:** She so bad, she make me wanna beat my shit off til' it's purple.
+
+   **Source synonyms:** abuse (reflexive); bash one out; bate; beat it; beat off; crank one out; fap; frig; goon; jack off (US); jack it; jerk; jerk it; jerk the gherkin; jerk off (US); jerk one off; jerk one out; jork it; knock one out; make the bald man cry; masturbate; mastuprate; play pocket pool (Britain); play with oneself; pleasure oneself; rub one off; rub one out; self-abuse; self-pollute; service oneself; skeet (Canada); stroke (uncommon); toss (Britain); toss off (UK); touch oneself; wank (Britain); wank off (Britain); whack off; yank
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. To waste time.
+
+   **Usage:** colloquial; idiomatic; intransitive; vulgar
+
+   **Example:** I beat off at work all day; I didn't get anything done.
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. To shoot (a gun).
+
+   **Usage:** slang; transitive; African-American Vernacular
+
+   **Example:** He beat his pistol off into the air.
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; etymology absent in 1 of 1 source records; eligible usage examples absent in 1 of 4 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/beat%20off#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=beat%20off&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

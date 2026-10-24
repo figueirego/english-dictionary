@@ -1,0 +1,98 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-9c0a2c8e1b0309ec2cbc"
+headword: "confusing"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/confusing#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=confusing&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["d74357d01d1d813719f5040f9d175d98cdc9226212f1ef743b5121398de8af11", "6409ecb8c6c1a3321a41c19489f2d279d7be7dcdc053b6bfe5da43180dcfae1c"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1, "source_relation_groups_labelled": 2, "unspecified_pronunciations_labelled": 2}
+editorial_change_count: 5
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "168204030b1d622bc86eb5e212da6139eb5af09e92e783e58c1ab176667e5f19"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["d74357d01d1d813719f5040f9d175d98cdc9226212f1ef743b5121398de8af11", "6409ecb8c6c1a3321a41c19489f2d279d7be7dcdc053b6bfe5da43180dcfae1c"]
+---
+
+# confusing
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective · Record 1
+
+### Pronunciation
+
+- IPA: /kənˈfjuːzɪŋ/ — variety unspecified in the source labels
+
+### Forms
+
+- more confusing — comparative
+- most confusing — superlative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. difficult to understand; not clear as lacking order, chaotic, etc.
+
+   **Example:** Several sections in that book are really confusing.
+
+### Related words
+
+**Source synonyms:** muddlesome; mistakable; misleading; baffling; bemusing; befuddling; bewildering; cattywampus; clear as mud; confounding; confusing; confuzzling; complicated; disordered; flabbergasting; incomprehensible; inexplicable; insensible; jumbled; mystifying; nonplussing (uncommon); perplexing; puzzling; unintelligible; uninterpretable; vague
+
+**Source antonyms:** judicious; obvious; sensible
+
+<a id="r2"></a>
+
+## Verb · Record 2
+
+### Pronunciation
+
+- IPA: /kənˈfjuːzɪŋ/ — variety unspecified in the source labels
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. present participle and gerund of confuse
+
+   **Usage:** form-of; gerund; participle; present
+
+   **Form of:** [confuse](../104/confuse--41364e7a52d1.md)
+
+## Source gaps
+
+etymology absent in 2 of 2 source records; eligible usage examples absent in 1 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/confusing#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=confusing&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

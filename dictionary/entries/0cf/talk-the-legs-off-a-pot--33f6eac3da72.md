@@ -1,0 +1,74 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-33f6eac3da72f06561d7"
+headword: "talk the legs off a pot"
+language: "en"
+source_records: 1
+sense_count: 1
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/talk%20the%20legs%20off%20a%20pot#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=talk%20the%20legs%20off%20a%20pot&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["5dee24399fe2be4da7c8bec62d3c3bef0113328e4427361173845273cc059ec4"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "53608736ee684e1e55ed247a9da16d6c677275a5b39486f74aa6681b07c5ceaa"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["5dee24399fe2be4da7c8bec62d3c3bef0113328e4427361173845273cc059ec4"]
+---
+
+# talk the legs off a pot
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Verb
+
+### Forms
+
+- talk the legs off a pots — present; singular; third-person
+- talk the legs off a potting — participle; present
+- talk the legs off a potted — participle; past
+- talk the legs off a potted — past
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. To talk a lot.
+
+   **Usage:** Ireland; humorous; idiomatic
+
+   **Example:** I thought John would never shut up. He could talk the legs off a pot.
+
+   **Source synonyms:** talk the ears off a donkey; talk the hind leg off a donkey; talk the hind legs off a donkey; talk the leg off the Lamb of God; talk someone's head off; talk someone's arm off; talk someone's leg off; talk the ears off someone; talk someone under the table
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; etymology absent in 1 of 1 source records.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/talk%20the%20legs%20off%20a%20pot#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=talk%20the%20legs%20off%20a%20pot&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

@@ -1,0 +1,73 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-21b7b2d0be6049958570"
+headword: "dioxanone"
+language: "en"
+source_records: 1
+sense_count: 1
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/dioxanone#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=dioxanone&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["c97386822547ab32b0e6818c1229ef4916e1479534f4a93bef886b8ce41cf555"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_topic_labels_restored": 4}
+editorial_change_count: 4
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "8f1cd4e487e9f10da4537af63c351a5b6047625289395820fb4d78b443d80267"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 114, "examples_withheld": 0}
+parent_source_record_sha256: ["af74f94154862a09cd5b5bc41c035e6553e57fb46d479296bd40b275e95c4e0f"]
+---
+
+# dioxanone
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Forms
+
+- dioxanones — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. An organic compound formally derived from a dioxane by replacing a methylene group with a carbonyl group
+
+   **Source topics (extractor hierarchy; not curated):** chemistry; natural-sciences; organic-chemistry; physical-sciences
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; eligible usage examples absent in 1 of 1 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/dioxanone#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=dioxanone&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

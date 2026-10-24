@@ -1,0 +1,147 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-2e82f7b219abf71f3c09"
+headword: "thrang"
+language: "en"
+source_records: 3
+sense_count: 4
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/thrang#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=thrang&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["cb729df11de0bd9cc0f883719fc2af1eecd97a230590cd07c5e546b1882b748e", "e4573321d826e397039672fa0055193191df89273a226b154768cd800c815e36", "a742c9c5f60e6b12016a9798202b8cb03f51611f6aef1a97e4e0a339f6c5c27b"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1, "source_relation_groups_labelled": 1, "unspecified_pronunciations_labelled": 9}
+editorial_change_count: 11
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "904202bbc2e03e16d79b5ca0045c5b11d4019a86aafce0bb8c8c7338e9ed5eee"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 3, "etymology_sections_withheld": 3, "etymology_utf8_bytes_withheld": 404, "examples_withheld": 0}
+parent_source_record_sha256: ["d47909131d1e766e589f4d0a3fa8727982a3b3c7a896500d51ea7a4013ffa5b5", "b8510b62a10f080f53b7d31b72d3d5d9e8e7e77f2d9c6bba474dd0152c9f1755", "e82dc49356ca11efe2395e5615ee9ac22e2b2df440a7bc9d49da32ff386cb290"]
+---
+
+# thrang
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective · Etymology 1 · Record 1
+
+### Pronunciation
+
+- IPA: /ˈθɹæŋ/ — variety unspecified in the source labels
+- IPA: /ˈθɹeɪ̯ŋ/ — variety unspecified in the source labels
+- IPA: /ˈθɹɛ̃ŋ/ — variety unspecified in the source labels
+
+### Forms
+
+- more thrang — comparative
+- most thrang — superlative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Busy, preoccupied.
+
+   **Usage:** Northern-England; Scotland; dialectal; rare
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Crowded, busy.
+
+   **Usage:** Northern-England; Scotland; dialectal; rare
+
+   **Source synonyms:** throng
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Verb · Etymology 1 · Record 2
+
+### Pronunciation
+
+- IPA: /ˈθɹæŋ/ — variety unspecified in the source labels
+- IPA: /ˈθɹeɪ̯ŋ/ — variety unspecified in the source labels
+- IPA: /ˈθɹɛ̃ŋ/ — variety unspecified in the source labels
+
+### Forms
+
+- thrangs — present; singular; third-person
+- thranging — participle; present
+- thranged — participle; past
+- thranged — past
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. To throng.
+
+   **Usage:** Scotland
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r3"></a>
+
+## Verb · Etymology 2 · Record 3
+
+### Pronunciation
+
+- IPA: /ˈθɹæŋ/ — variety unspecified in the source labels
+- IPA: /ˈθɹeɪ̯ŋ/ — variety unspecified in the source labels
+- IPA: /ˈθɹɛ̃ŋ/ — variety unspecified in the source labels
+
+### Senses
+
+<a id="r3-s1"></a>
+
+**Source sense R3.S1**
+
+1. simple past of thring
+
+   **Usage:** form-of; past
+
+   **Form of:** [thring](../00c/thring--030c228f3f9a.md)
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 4 of 4 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/thrang#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=thrang&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

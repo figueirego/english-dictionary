@@ -1,0 +1,322 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-39ae78ec341cd996f93d"
+headword: "Alexandria"
+language: "en"
+source_records: 1
+sense_count: 35
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Alexandria#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Alexandria&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["972baeb67dfd3b08c436d4521bbf40456670718495317a4912ce33d5acc79f16"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1, "source_relation_groups_labelled": 1}
+editorial_change_count: 2
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "1b80b117aa548ebbd27ed8989988d3c782b473f6343759aab9a96c527ae598db"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 1391, "examples_withheld": 0}
+parent_source_record_sha256: ["8be960d415c6ec61abeb0feae0f3f50e2501b10660e0e6445302da5bceb0545d"]
+---
+
+# Alexandria
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Proper noun
+
+### Pronunciation
+
+- IPA: /æləkˈzændɹi.ə/ — source labels: General-American
+- IPA: /æləɡˈzændɹi.ə/ — source labels: General-American
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A city, port, and former capital of Egypt famed for its ancient library and lighthouse.
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Various other former cities in West Asia founded by Alexander the Great, including
+   1. Former name of Iskandariya&#58; a city in central Iraq.
+
+      **Usage:** historical
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. Various other former cities in West Asia founded by Alexander the Great, including
+   1. Former name of Iskenderun&#58; a city in southeastern Turkey.
+
+      **Usage:** historical
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. Various other former cities in West Asia founded by Alexander the Great, including
+   1. Former name of Kandahar&#58; a city in southern Afghanistan.
+
+      **Usage:** historical
+
+<a id="r1-s5"></a>
+
+**Source sense R1.S5**
+
+5. Various other former cities in West Asia founded by Alexander the Great, including
+   1. Former name of Bagram&#58; a city in eastern Afghanistan.
+
+      **Usage:** historical
+
+<a id="r1-s6"></a>
+
+**Source sense R1.S6**
+
+6. Various other former cities in West Asia founded by Alexander the Great, including
+   1. Former name of Ghazni&#58; a city in eastern Afghanistan.
+
+      **Usage:** historical
+
+<a id="r1-s7"></a>
+
+**Source sense R1.S7**
+
+7. Various other former cities in West Asia founded by Alexander the Great, including
+   1. Former name of Mary&#58; a city in Turkmenistan.
+
+      **Usage:** historical
+
+<a id="r1-s8"></a>
+
+**Source sense R1.S8**
+
+8. Various other former cities in West Asia founded by Alexander the Great, including
+   1. Former name of Khujand&#58; a city in Tajikistan.
+
+      **Usage:** historical
+
+<a id="r1-s9"></a>
+
+**Source sense R1.S9**
+
+9. Alternative form of Alessandria&#58; a city in Piedmont, Italy.
+
+   **Usage:** alt-of; alternative
+
+   **Alternative form of:** [Alessandria](../1bf/alessandria--6fef4b375870.md)
+
+<a id="r1-s10"></a>
+
+**Source sense R1.S10**
+
+10. A governorate of Egypt around the city.
+
+<a id="r1-s11"></a>
+
+**Source sense R1.S11**
+
+11. A number of places in the United States&#58;
+   1. A census-designated place in Calhoun County, Alabama.
+
+<a id="r1-s12"></a>
+
+**Source sense R1.S12**
+
+12. A number of places in the United States&#58;
+   1. A city in Monroe Township, Madison County, Indiana.
+
+<a id="r1-s13"></a>
+
+**Source sense R1.S13**
+
+13. A number of places in the United States&#58;
+   1. A city in Kentucky, and one of the two county seats of Campbell County.
+
+<a id="r1-s14"></a>
+
+**Source sense R1.S14**
+
+14. A number of places in the United States&#58;
+   1. A city, the parish seat of Rapides Parish, Louisiana.
+
+<a id="r1-s15"></a>
+
+**Source sense R1.S15**
+
+15. A number of places in the United States&#58;
+   1. A city, the county seat of Douglas County, Minnesota.
+
+<a id="r1-s16"></a>
+
+**Source sense R1.S16**
+
+16. A number of places in the United States&#58;
+   1. A township in Douglas County, Minnesota.
+
+<a id="r1-s17"></a>
+
+**Source sense R1.S17**
+
+17. A number of places in the United States&#58;
+   1. A city in Clark County, Missouri.
+
+<a id="r1-s18"></a>
+
+**Source sense R1.S18**
+
+18. A number of places in the United States&#58;
+   1. A village in Thayer County, Nebraska.
+
+<a id="r1-s19"></a>
+
+**Source sense R1.S19**
+
+19. A number of places in the United States&#58;
+   1. A town in Grafton County, New Hampshire.
+
+<a id="r1-s20"></a>
+
+**Source sense R1.S20**
+
+20. A number of places in the United States&#58;
+   1. A township in Hunterdon County, New Jersey.
+
+<a id="r1-s21"></a>
+
+**Source sense R1.S21**
+
+21. A number of places in the United States&#58;
+   1. A town in Jefferson County, New York.
+
+<a id="r1-s22"></a>
+
+**Source sense R1.S22**
+
+22. A number of places in the United States&#58;
+   1. A village in Licking County, Ohio.
+
+<a id="r1-s23"></a>
+
+**Source sense R1.S23**
+
+23. A number of places in the United States&#58;
+   1. An unincorporated community in Scioto County, Ohio.
+
+<a id="r1-s24"></a>
+
+**Source sense R1.S24**
+
+24. A number of places in the United States&#58;
+   1. A borough of Huntingdon County, Pennsylvania.
+
+<a id="r1-s25"></a>
+
+**Source sense R1.S25**
+
+25. A number of places in the United States&#58;
+   1. A minor city, the county seat of Hanson County, South Dakota.
+
+<a id="r1-s26"></a>
+
+**Source sense R1.S26**
+
+26. A number of places in the United States&#58;
+   1. A town in DeKalb County, Tennessee.
+
+<a id="r1-s27"></a>
+
+**Source sense R1.S27**
+
+27. A number of places in the United States&#58;
+   1. An independent city in Virginia, next to Arlington County, Fairfax County and Washington, D.C.
+
+<a id="r1-s28"></a>
+
+**Source sense R1.S28**
+
+28. A former town in the United Counties of Stormont, Dundas and Glengarry, Ontario, Canada; now a part of the township of North Glengarry.
+
+<a id="r1-s29"></a>
+
+**Source sense R1.S29**
+
+29. A suburb of Sydney in the Sydney council area, New South Wales, Australia.
+
+<a id="r1-s30"></a>
+
+**Source sense R1.S30**
+
+30. A ghost town in British Columbia, Canada.
+
+<a id="r1-s31"></a>
+
+**Source sense R1.S31**
+
+31. A town in Sarah Baartman District Municipality, Eastern Cape, South Africa.
+
+<a id="r1-s32"></a>
+
+**Source sense R1.S32**
+
+32. A town in Ehlanzeni District Municipality, Mpumalanga, South Africa.
+
+<a id="r1-s33"></a>
+
+**Source sense R1.S33**
+
+33. A town in West Dunbartonshire council area, Scotland (OS grid ref NS3980).
+
+<a id="r1-s34"></a>
+
+**Source sense R1.S34**
+
+34. A city in Teleorman County, Romania.
+
+<a id="r1-s35"></a>
+
+**Source sense R1.S35**
+
+35. A female given name from Ancient Greek.
+
+### Related words
+
+**Source synonyms:** Alexandretta — ancient &amp; medieval Iskenderun, Turkey; Merv — ancient &amp; medieval Mary, Turkmenistan
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 35 of 35 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Alexandria#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Alexandria&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

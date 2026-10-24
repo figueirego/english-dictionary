@@ -1,0 +1,152 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-779e6186bbfcf9160046"
+headword: "massacre"
+language: "en"
+source_records: 2
+sense_count: 7
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/massacre#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=massacre&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["479122bcd9efc9ca66fcb5c5782a0e612cfd24d539893a57cf807caf92964d0a", "7eab82e9cee1c6e2ce4b2a61f764b1af0810e74b40fa625ac242380f14c20b17"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1, "unspecified_pronunciations_labelled": 2}
+editorial_change_count: 3
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "7f7621cd2a19fc9b6052e32d598bb2f1cd83745d2fbd66c39e4052f05e9d95e1"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 2298, "examples_withheld": 0}
+parent_source_record_sha256: ["c17d12a544d2570e65549e82a63e5dac002a543c1a9a265543cd36de4e50c37d", "8bfeca39b450ef27b982ac936590cfc5f62473ef1327efa0faf25c8bf34f5f02"]
+---
+
+# massacre
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Pronunciation
+
+- IPA: /ˈmæs.ə.kə(ɹ)/ — variety unspecified in the source labels
+
+### Forms
+
+- massacres — plural
+- massacer — alternative; archaic
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. The killing of a considerable number (usually limited to people) where little or no resistance can be made, with indiscriminate violence, without necessity, and/or contrary to civilized norms.
+
+   **Usage:** countable; uncountable
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Murder.
+
+   **Usage:** countable; obsolete; uncountable
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. Any overwhelming defeat, as in a game or sport.
+
+   **Usage:** countable; figuratively; uncountable
+
+### Related words
+
+**Source synonyms:** butchery — mass killing contrary to civilized norms; slaughter — mass killing contrary to civilized norms; decimation — mass killing contrary to civilized norms
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Verb · Record 2
+
+### Pronunciation
+
+- IPA: /ˈmæs.ə.kə(ɹ)/ — variety unspecified in the source labels
+
+### Forms
+
+- massacres — present; singular; third-person
+- massacring — participle; present
+- massacred — participle; past
+- massacred — past
+- massacer — alternative; archaic
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. To kill in considerable numbers where little or no resistance can be made, with indiscriminate violence, without necessity, and contrary to civilized norms. (Often limited to the killing of human beings.)
+
+   **Usage:** transitive
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. To win against (an opponent) very decisively.
+
+   **Usage:** figuratively; transitive
+
+<a id="r2-s3"></a>
+
+**Source sense R2.S3**
+
+3. To perform (a work, such as a musical piece or a play) very poorly.
+
+   **Usage:** figuratively; transitive
+
+<a id="r2-s4"></a>
+
+**Source sense R2.S4**
+
+4. To kill with great force or brutality.
+
+   **Usage:** proscribed; transitive
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 7 of 7 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/massacre#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=massacre&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

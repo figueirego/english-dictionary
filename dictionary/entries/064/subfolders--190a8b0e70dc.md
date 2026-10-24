@@ -1,0 +1,65 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-190a8b0e70dcf2cd68b7"
+headword: "subfolders"
+language: "en"
+source_records: 1
+sense_count: 1
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/subfolders#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=subfolders&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["72d19f5552c285f3b5a056792e2cfd2ad1b6cbd9b3e1f89d002c0e3c878e3b8b"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "efea084c36d1c786d521d16b88b9d8e1763b9bdbeb0b1a339a48344635b3e525"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["72d19f5552c285f3b5a056792e2cfd2ad1b6cbd9b3e1f89d002c0e3c878e3b8b"]
+---
+
+# subfolders
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. plural of subfolder
+
+   **Usage:** form-of; plural
+
+   **Form of:** [subfolder](../35d/subfolder--d778c0f52ee1.md)
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; etymology absent in 1 of 1 source records; eligible usage examples absent in 1 of 1 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/subfolders#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=subfolders&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

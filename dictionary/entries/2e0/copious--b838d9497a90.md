@@ -1,0 +1,90 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-b838d9497a90f5ff6e33"
+headword: "copious"
+language: "en"
+source_records: 1
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/copious#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=copious&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["31cbefe1f6a3045d8a3d684e0c1879e1c78594680e565461d44c76547bc83f85"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "85f8f33e2c295e3cdd6e26a829159549d35a9c82377427f58428b90523f97d11"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 177, "examples_withheld": 0}
+parent_source_record_sha256: ["6f07f2b7761f3666889d9db701502bee2469ad18eab50e0197113a75587b7ca9"]
+---
+
+# copious
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective
+
+### Pronunciation
+
+- IPA: /ˈkoʊ.pi.əs/ — source labels: US
+
+### Forms
+
+- more copious — comparative
+- most copious — superlative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Vast in quantity or number, profuse, abundant; taking place on a large scale.
+
+   **Example:** He drank a copious amount of vodka, and passed out.
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Having an abundant supply.
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. Full of thought, information, or matter; exuberant in words, expression, or style.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 2 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/copious#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=copious&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

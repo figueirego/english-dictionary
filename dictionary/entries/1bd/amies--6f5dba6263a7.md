@@ -1,0 +1,97 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-6f5dba6263a7f0d55cd0"
+headword: "Amies"
+language: "en"
+source_records: 2
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Amies#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Amies&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["fe78cd2f1e11c77301372fa74273a3db7be2a48a29e0ae8488b22cb15a29f3da", "fd6dd4f3ada16a0b63bbb673265ea129a1e99118e0512fd9fd0bbd70a4808aa5"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 2}
+editorial_change_count: 2
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "5780aa052b3a7809d29a7d08b7a71eb17f609c3b67714ef787edc7093da72f1e"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 57, "examples_withheld": 0}
+parent_source_record_sha256: ["24bb0301be32f98205ee51df8c10f4a29b8f23fd6e728cd29c80f6dc5cc1cd04", "fd6dd4f3ada16a0b63bbb673265ea129a1e99118e0512fd9fd0bbd70a4808aa5"]
+---
+
+# Amies
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Proper noun · Etymology 1 · Record 1
+
+### Forms
+
+- Amieses — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A surname from Old French.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Proper noun · Etymology 2 · Record 2
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. plural of Amie
+
+   **Usage:** form-of; plural
+
+   **Form of:** [Amie](../0c1/amie--306d3f0de2e5.md)
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. plural of Amy
+
+   **Usage:** form-of; plural
+
+   **Form of:** [Amy](../190/amy--6410ef0d3a6d.md)
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 1 of 2 source records; eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Amies#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Amies&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

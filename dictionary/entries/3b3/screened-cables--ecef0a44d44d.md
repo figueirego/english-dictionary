@@ -1,0 +1,65 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-ecef0a44d44dffc45581"
+headword: "screened cables"
+language: "en"
+source_records: 1
+sense_count: 1
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/screened%20cables#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=screened%20cables&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["a369351fb760a13deef990e5127ba4de8b139b2a1d003cc929f7104b46e4b2ac"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "ca43ca32ae10db07df1b01d31dc85ed009ee2fba7cf6deb2df2123a281511f70"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["a369351fb760a13deef990e5127ba4de8b139b2a1d003cc929f7104b46e4b2ac"]
+---
+
+# screened cables
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. plural of screened cable
+
+   **Usage:** form-of; plural
+
+   **Form of:** [screened cable](../17f/screened-cable--5fec323c92c6.md)
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; etymology absent in 1 of 1 source records; eligible usage examples absent in 1 of 1 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/screened%20cables#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=screened%20cables&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

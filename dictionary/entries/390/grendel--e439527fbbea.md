@@ -1,0 +1,75 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-e439527fbbea2c7fab3e"
+headword: "Grendel"
+language: "en"
+source_records: 1
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Grendel#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Grendel&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["2c775e03ec67ba13137a19fd7c739e285ee06d38772d42b91ca1cdba27071e15"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_topic_labels_restored": 5}
+editorial_change_count: 5
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "1c255d3aedc1b694b89dfbda7314799b231285de2335f8db67e7b4cfeb7a522f"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 34, "examples_withheld": 0}
+parent_source_record_sha256: ["f6a9eb24941c1077551047d72c46e5193c0e677d365c364b3b55ff83a92b5ce8"]
+---
+
+# Grendel
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Proper noun
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A monster or giant slain by Beowulf in the Anglo-Saxon epic poem.
+
+   **Source topics (extractor hierarchy; not curated):** human-sciences; mysticism; mythology; philosophy; sciences
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A male given name.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Grendel#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Grendel&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

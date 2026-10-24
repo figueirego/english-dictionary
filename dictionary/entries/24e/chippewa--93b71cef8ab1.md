@@ -1,0 +1,105 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-93b71cef8ab1c5386199"
+headword: "Chippewa"
+language: "en"
+source_records: 2
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Chippewa#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Chippewa&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["cdd2c49e93def5c01fc3c8c92411a98c28bec8f0634fe858ca927a7c4502a280", "10bd69acb0630464905e1d0bc6f5418c725dfbb04eb52029285946509d20b49d"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "77976da1adc24fa88ee6b620aa01fdcf636062deb2a8bab4b3077460047a27ec"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 360, "examples_withheld": 0}
+parent_source_record_sha256: ["768ab48a3942712f1dd068b0d702a4004f1654bcd745a29ed4045b401aba4dbc", "9e1548587eb5dce0d43bb10fac6b5676748be4d195ce65afe0869bb3b6507b4f"]
+---
+
+# Chippewa
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Forms
+
+- Chippewas — plural
+- Chippewa — plural
+- Chippeway — alternative
+- Chippewe — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A member of the Ojibwe people.
+
+   **Usage:** US
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Proper noun · Record 2
+
+### Forms
+
+- Chippeway — alternative
+- Chippewe — alternative
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. The Ojibwe language.
+
+   **Usage:** US
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. Any of four rivers, one each in Michigan, Minnesota, and Wisconsin, and a river in Ontario.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Chippewa#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Chippewa&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

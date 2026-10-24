@@ -1,0 +1,89 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-b900b14ec61b8fa997e3"
+headword: "vasoplegic"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/vasoplegic#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=vasoplegic&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["5f75c2f926226ec024c9154eb132e3691364551b548abc44e47caf9c64dbcb1d", "2a6b0d217966d6cdd962a201405d426363def204f1e2d9c6946f743cbd0fc507"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "a2369e8a0fb55c121daea2bb819095e4d0b2e4e44d2a9d84b825b5b341fc3af3"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 42, "examples_withheld": 0}
+parent_source_record_sha256: ["ca228f39b4015973e17ab616b033f40f19237eb6186fb9f3f7de0215bcee6df7", "939c5eaddeca29e3ac708bd3fe56cdb088371356829c210429f70157647341d1"]
+---
+
+# vasoplegic
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective · Record 1
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Relating to vasoplegia.
+
+   **Usage:** not-comparable
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Noun · Record 2
+
+### Forms
+
+- vasoplegics — plural
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. A substance that causes vasoplegia.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/vasoplegic#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=vasoplegic&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

@@ -1,0 +1,119 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-fa0b3f2b76109c995aa4"
+headword: "aseptic"
+language: "en"
+source_records: 2
+sense_count: 4
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/aseptic#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=aseptic&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["69935a061b5f266bd2945408d98e3eb04523a7ad1132a0b170187c637b052802", "b4b57a246a43ad023e67f3136832a2aac5eeb08b59a1241ec3b721d3eb1cbdc8"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_topic_labels_restored": 2, "unspecified_pronunciations_labelled": 2}
+editorial_change_count: 4
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "3d288afd36c1f185993bfc5871907c2852c5ced3454d83fadce1bee52a2b758b"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 346, "examples_withheld": 0}
+parent_source_record_sha256: ["814f6362ed589a06bf2895d49e3639d3dedf8b006dcd56b445f7a6edd5bd74da", "02ff7e3e09213a726855f339255f788566f6f303469b0d1d0d6476dad7935709"]
+---
+
+# aseptic
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective · Record 1
+
+### Pronunciation
+
+- IPA: /əˈsɛptɪk/ — variety unspecified in the source labels
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Free of disease-causing microbes.
+
+   **Usage:** not-comparable
+
+   **Example:** The lack of aseptic tools during surgery has resulted in many deaths.
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Used to protect against infection by disease-causing microbes.
+
+   **Usage:** not-comparable
+
+   **Example:** Pharmaceuticals are packaged using aseptic techniques.
+
+   **Source topics (extractor hierarchy; not curated):** medicine; sciences
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. pasteurised.
+
+   **Usage:** not-comparable; food industry
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Noun · Record 2
+
+### Pronunciation
+
+- IPA: /əˈsɛptɪk/ — variety unspecified in the source labels
+
+### Forms
+
+- aseptics — plural
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. An antiseptic.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 2 of 4 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/aseptic#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=aseptic&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

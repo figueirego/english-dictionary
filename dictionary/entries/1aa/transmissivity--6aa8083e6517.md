@@ -1,0 +1,85 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-6aa8083e651714a8e048"
+headword: "transmissivity"
+language: "en"
+source_records: 1
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/transmissivity#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=transmissivity&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["b2fc227a2eb4d78fe06a692e73fc939b71e23a9350aaed56810fea86361f4273"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_topic_labels_restored": 6}
+editorial_change_count: 6
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "768e8029bd02711e69447bc3e1df560da224345f5fd114a94ee5aabec6ed691d"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 25, "examples_withheld": 0}
+parent_source_record_sha256: ["2f0cf480d75b878ecf3ce59a10b03124c1d5276f77b61aa32ba1d363b585fbd2"]
+---
+
+# transmissivity
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Forms
+
+- transmissivities — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A measure of the capacity of a material to transmit radiation (the ratio of the amounts of energy transmitted and received)
+
+   **Usage:** countable; uncountable
+
+   **Source topics (extractor hierarchy; not curated):** natural-sciences; physical-sciences; physics
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A measure of the capacity of a saturated aquifer to transmit water horizontally. SI units&#58; m²/s. Symbol&#58; T.
+
+   **Usage:** countable; uncountable
+
+   **Source topics (extractor hierarchy; not curated):** geography; geology; natural-sciences
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/transmissivity#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=transmissivity&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

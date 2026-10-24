@@ -1,0 +1,104 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-257c4a121ae568ba528f"
+headword: "nutrition"
+language: "en"
+source_records: 1
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/nutrition#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=nutrition&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["0cc7cc0430b56bd170eb5d4c404005586e98b1355052b0b8275d3644ff1f50a7"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_topic_labels_restored": 2}
+editorial_change_count: 2
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "4ebb0e617c9d84bad8d0e3031dcab063b4d0b1d2e6f3d396e0daeb8021bfc773"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 86, "examples_withheld": 0}
+parent_source_record_sha256: ["5014e1c11cf26921d76d10189f1673422275a7663e1083aad26c94c9880d63cd"]
+---
+
+# nutrition
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Pronunciation
+
+- enPR: nyo͞o-trĭshʹ-ən — source labels: UK
+- IPA: /njuːˈtɹɪʃ.ən/ — source labels: UK
+- enPR: no͞o-trĭshʹ-ən — source labels: Canada; US
+- enPR: nyo͞o-trĭshʹ-ən — source labels: Canada; US
+- IPA: /nuˈtɹɪʃ.ən/ — source labels: Canada; US
+- IPA: /njuˈtɹɪʃ.ən/ — source labels: Canada; US
+- enPR: nyo͞o-trĭshʹ-ən — source labels: Australia
+- IPA: /njʉːˈtɹɪʃ.ən/ — source labels: Australia
+
+### Forms
+
+- nutritions — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. The organic process by which an organism assimilates food and uses it for growth and maintenance.
+
+   **Usage:** uncountable; usually
+
+   **Source topics (extractor hierarchy; not curated):** biology; natural-sciences
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. The academic discipline around the scientific study of this process.
+
+   **Usage:** uncountable; usually
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. That which nourishes; nutriment.
+
+   **Usage:** uncountable; usually
+
+   **Example:** I accidentally ate a worm which was in my apple - my uncle said the extra nutrition would do me good.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 2 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/nutrition#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=nutrition&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

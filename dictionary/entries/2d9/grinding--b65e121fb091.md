@@ -1,0 +1,193 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-b65e121fb0911ca52f7f"
+headword: "grinding"
+language: "en"
+source_records: 3
+sense_count: 9
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/grinding#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=grinding&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["15b5881ba010b83cd04796913bb341b22e97c15f67c175786eec956de4d82db8", "ee1725a928ac5108a28bf617954ae47477a56fe943bb9143e42ddb9eb474c953", "82183aef330a397497dbeb303263f81df42c59abd696b9edcf95b8ae93810456"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1, "source_topic_labels_restored": 10, "unspecified_pronunciations_labelled": 3}
+editorial_change_count: 14
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "44e31467223b40e60e9b9dc15250695c9868f751f08fa967b3ad53f117eefe00"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 3, "etymology_sections_withheld": 3, "etymology_utf8_bytes_withheld": 225, "examples_withheld": 0}
+parent_source_record_sha256: ["7e33a6a1b75c0f84dccf81417eebb2a115dc77941df1df6f8fa23ab17399c91a", "5431913a4ef1363d06606271f2c49434580f98ae8ad1b3e5225a1cd52c5d1642", "a4634d9b4df6359da26d49f52b3ceef4235de3a90413236772e67a1490e2a11c"]
+---
+
+# grinding
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Verb · Record 1
+
+### Pronunciation
+
+- IPA: /ˈɡɹaɪnd.ɪŋ/ — variety unspecified in the source labels
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. present participle and gerund of grind
+
+   **Usage:** form-of; gerund; participle; present
+
+   **Form of:** [grind](../0c0/grind--3026fac023c6.md)
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Noun · Record 2
+
+### Pronunciation
+
+- IPA: /ˈɡɹaɪnd.ɪŋ/ — variety unspecified in the source labels
+
+### Forms
+
+- grindings — plural
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. The action of grinding together or crushing into small particles; the sound of this action.
+
+   **Usage:** countable; uncountable
+
+   **Example:** Ominous creakings and grindings came from the innards of the machine.
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. The action of grinding a workpiece to change its size, shape, and surface finish.
+
+   **Usage:** countable; uncountable; repair
+
+   **Example:** Grinding sometimes involves tight tolerances on the order of a few microns.
+
+   **Source topics (extractor hierarchy; not curated):** business; manufacturing
+
+<a id="r2-s3"></a>
+
+**Source sense R2.S3**
+
+3. A form of dance in which two people rub their bodies together.
+
+   **Usage:** countable; uncountable
+
+   **Example:** No grinding is allowed on the dance floor at the junior prom&#58; it isn't age-appropriate.
+
+   **Source topics (extractor hierarchy; not curated):** dance; dancing; hobbies; lifestyle; sports
+
+<a id="r2-s4"></a>
+
+**Source sense R2.S4**
+
+4. Repeatedly performing the same quest or similar in-game activity in order to amass points or wealth.
+
+   **Usage:** countable; uncountable; roleplaying games
+
+   **Example:** I really hate the grinding to get that 1% chance item.
+
+   **Source topics (extractor hierarchy; not curated):** games; gaming
+
+<a id="r2-s5"></a>
+
+**Source sense R2.S5**
+
+5. The act of doing the daily grind.
+
+   **Usage:** countable; informal; uncountable
+
+   **Example:** A&#58; Hey Bob, how's it goin? B&#58; Meh, I'm tired of grinding, man.
+
+   **Source topics (extractor hierarchy; not curated):** business
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r3"></a>
+
+## Adjective · Record 3
+
+### Pronunciation
+
+- IPA: /ˈɡɹaɪnd.ɪŋ/ — variety unspecified in the source labels
+
+### Senses
+
+<a id="r3-s1"></a>
+
+**Source sense R3.S1**
+
+1. Of or pertaining to the act or gratingly sound of grinding.
+
+   **Usage:** not-comparable
+
+   **Example:** The meeting came to a grinding halt when the two sides could not agree.
+
+<a id="r3-s2"></a>
+
+**Source sense R3.S2**
+
+2. Relentlessly taxing; burdensome; exacting to the point of exhaustion.
+
+   **Usage:** not-comparable
+
+   **Example:** A week of filled with grinding toil.
+
+<a id="r3-s3"></a>
+
+**Source sense R3.S3**
+
+3. Crushing; oppressive; overwhelming.
+
+   **Usage:** not-comparable; obsolete
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 2 of 9 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/grinding#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=grinding&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

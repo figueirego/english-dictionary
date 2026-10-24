@@ -1,0 +1,102 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-11b27c7b0e8faba197f7"
+headword: "cacky"
+language: "en"
+source_records: 2
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/cacky#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=cacky&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["e4a25aec7d3a3336bf420c80bfedf1a053f008e806392abd9f91b54f81575b08", "7acd5c3f1b6d51959ba14a1633a416bc038be41ffdd07cf06d85ddf0eb1fccdd"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1, "source_relation_groups_labelled": 2}
+editorial_change_count: 3
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "a1093e623aebf1a46be3101a4c2ebc7015c63f06c50b9465607872636f812a29"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 15, "examples_withheld": 0}
+parent_source_record_sha256: ["432f0a0af4e03892a338d1f3674310f9bfa7136a7e6a97a8336fe45f0fc77284", "7acd5c3f1b6d51959ba14a1633a416bc038be41ffdd07cf06d85ddf0eb1fccdd"]
+---
+
+# cacky
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective · Etymology 1 · Record 1
+
+### Forms
+
+- cackier — comparative
+- cackiest — superlative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Characterized by or pertaining to excrement.
+
+   **Usage:** UK; slang
+
+   **Source synonyms:** excremental; shitten; shitty
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Worthless or no-good; rubbishy.
+
+   **Usage:** UK; slang; vulgar
+
+   **Source synonyms:** junky; no good; shitey; bastardly; blown (obsolete); cacky (UK; slang; vulgar); chaffy (obsolete); cocking (vulgar); crapalicious (rare; slang); cruddy (slang); cullionly (obsolete); draffish; draffy (obsolete); dreckish; drecky; duffing (UK; obsolete; slang); floccinaucinihilipilificatious (humorous; rare); for the birds (informal); fucking (vulgar); garbagey; good-for-naught; good-for-nothing; goodless; ineffectual; invaluable (obsolete); jabberwocky; junky; mouldy (UK); mucid (figuratively; rare); naughty (obsolete); no-account (UK; US); no good / no-good; nonvaluable; not worth a damn; not worth a dime; not worth a plug nickel; not worth a brass farthing; not worth a cent; not worth a cress; not worth a curse; not worth a Continental; not worth a farthing; not worth hell room (US; dated; idiomatic; slang); not worth a nickel; not worth a penny; not worth salt; not worth a whistle; nought (obsolete); of no value; pissass (idiomatic; vulgar); punk (US); putid; rubbishly (archaic); rubbishy; sixpenny (dated); scabbed; screwy (archaic); scummy (slang); shand (Scotland); shit; shitey (slang; vulgar); shitstained (vulgar); shitty-ass (US; slang; vulgar); sorry-ass (slang; vulgar); strawlike (figuratively); suckworthy; tenth-rate; toshy (US; slang); trinkety; triobolar (obsolete); tripy; two-bit (US; idiomatic; slang); unappreciated; unvaluable (rare); vain; valueless; worthless; worth nothing; wutless (Caribbean)
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Adjective · Etymology 2 · Record 2
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Misspelling of khaki.
+
+   **Usage:** alt-of; misspelling
+
+   **Alternative form of:** [khaki](../053/khaki--14f93e806e22.md)
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 1 of 2 source records; eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/cacky#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=cacky&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

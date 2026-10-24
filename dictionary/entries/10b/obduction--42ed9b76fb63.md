@@ -1,0 +1,91 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-42ed9b76fb6373d848dc"
+headword: "obduction"
+language: "en"
+source_records: 1
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/obduction#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=obduction&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["202a220975b6e27d1c68010914bf74bbf18bf9c5029aa7baad7511e2dd8206cc"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_topic_labels_restored": 3}
+editorial_change_count: 3
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "0bf35160f32a989d928a04274791c3fddf0bf510465a45a427ebd5619a6a2c14"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 37, "examples_withheld": 0}
+parent_source_record_sha256: ["498197b2b9b8af1b5017ca7793a5902f3dfc79a7bd9a6126b3c2a4ee46e730d0"]
+---
+
+# obduction
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Forms
+
+- obductions — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. The act of drawing or laying over, as a covering.
+
+   **Usage:** countable; obsolete; uncountable
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. An autopsy.
+
+   **Usage:** countable; uncountable; largely obsolete
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. The overthrusting of continental crust by oceanic crust or rocks from the mantle, such that the oceanic crust is thrust onto the continental crust, as occurs at a convergent plate boundary when the continental crust is caught in a subduction zone.
+
+   **Usage:** countable; uncountable
+
+   **Source topics (extractor hierarchy; not curated):** geography; geology; natural-sciences
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/obduction#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=obduction&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

@@ -1,0 +1,122 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-84aa7743e2633f55a8a9"
+headword: "brainfuck"
+language: "en"
+source_records: 3
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/brainfuck#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=brainfuck&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["30464a853020ddcbb34a1e6c47631d49730c132da472dcfb6a8e25017b588d40", "499b52789c64b8d0c2dbbe323b9670da6900a6dc0732168d518165539a8e60d8", "832e37c9bf080c1fe619055994ea356621aeda3e5eb326070574c00f74e1e3c9"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1, "source_relation_groups_labelled": 1}
+editorial_change_count: 2
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "357c42f1f350b1911ee0d8e4258cfaa961e8b91a9ba019a521178bf4efd4a441"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 3, "etymology_sections_withheld": 3, "etymology_utf8_bytes_withheld": 150, "examples_withheld": 0}
+parent_source_record_sha256: ["e738b423c46fe2575b133031bd88e569283c081adaec1310041a05f556f15d9f", "d68ce732ed9b08b18f504ac4e4cb1a8c21ad407175adcf8981425b1f35f0adc9", "87d6530a0dbf493b4be4debd8f134f4306358d3a7a82fa7e149bbc89d85860c6"]
+---
+
+# brainfuck
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Forms
+
+- brainfucks — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Something that destabilizes, confuses, or manipulates a person's mind.
+
+   **Usage:** vulgar
+
+### Related words
+
+**Source synonyms:** headfuck (vulgar); mindfuck (vulgar); mindscrew
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Proper noun · Record 2
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Alternative letter-case form of Brainfuck.
+
+   **Usage:** alt-of
+
+   **Alternative form of:** [Brainfuck](../304/brainfuck--c138e2fb2b11.md)
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r3"></a>
+
+## Verb · Record 3
+
+### Forms
+
+- brainfucks — present; singular; third-person
+- brainfucking — participle; present
+- brainfucked — participle; past
+- brainfucked — past
+
+### Senses
+
+<a id="r3-s1"></a>
+
+**Source sense R3.S1**
+
+1. To destabilize, confuse, or manipulate a person's mind.
+
+   **Usage:** vulgar
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 3 of 3 source records; eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/brainfuck#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=brainfuck&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

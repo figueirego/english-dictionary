@@ -1,0 +1,78 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-e31a3a4bab2f01d1e0d9"
+headword: "smell of the lamp"
+language: "en"
+source_records: 1
+sense_count: 1
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/smell%20of%20the%20lamp#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=smell%20of%20the%20lamp&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["cc6703db4e852f915a216c20d4604a80ed18e4eed33246572d6577e2abc7159b"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "ce612f04c7d5d4fe95b4937f0b16c4c8ee8f3043d525d346e1883f612f53254d"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 71, "examples_withheld": 0}
+parent_source_record_sha256: ["906540d67daeb75784ca221040350bb20ab149c65f0fe0396141352a4ba01129"]
+---
+
+# smell of the lamp
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Verb
+
+### Forms
+
+- smells of the lamp — present; singular; third-person
+- smelling of the lamp — participle; present
+- smelled of the lamp — participle; past
+- smelled of the lamp — past
+- smelt of the lamp — participle; past
+- smelt of the lamp — past
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. To bear marks of great study and labor.
+
+   **Usage:** archaic; idiomatic
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; eligible usage examples absent in 1 of 1 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/smell%20of%20the%20lamp#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=smell%20of%20the%20lamp&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

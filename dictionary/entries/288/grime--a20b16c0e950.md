@@ -1,0 +1,114 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-a20b16c0e950d83cb9a2"
+headword: "grime"
+language: "en"
+source_records: 2
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/grime#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=grime&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["852d161cc729137d20dd488b1c645c3124894be97ea80e22277f553f7f3dd1e8", "0ed17538db24fed3337b1a4bca1c0ebe66903969074685c049e663039020fe03"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_topic_labels_restored": 3, "unspecified_pronunciations_labelled": 2}
+editorial_change_count: 5
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "23a6e928136fb544d090d55ccaee0adc7c1ecc89a7d61b1a3b01c65e6f7ae067"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 1098, "examples_withheld": 0}
+parent_source_record_sha256: ["9f95f09ef568767d0fb580707e591ba8cfe832ecbbb10ee6afaaae0cf95147fa", "7d1e9b85816ceb13f760ddbb10fa5ae0d21fc8f2e4a71c8209e138a9f92dcd34"]
+---
+
+# grime
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Pronunciation
+
+- IPA: /ɡɹaɪm/ — variety unspecified in the source labels
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Dirt, grease, soot, etc. that is ingrained and difficult to remove.
+
+   **Usage:** uncountable
+
+   **Example:** Underneath all that soot, dirt and grime is the true beauty of the church in soft shades of sandstone.
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A genre of urban music that emerged in London, England, in the early 2000s, primarily a development of UK garage, dancehall, and hip hop.
+
+   **Usage:** uncountable
+
+   **Source topics (extractor hierarchy; not curated):** entertainment; lifestyle; music
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Verb · Record 2
+
+### Pronunciation
+
+- IPA: /ɡɹaɪm/ — variety unspecified in the source labels
+
+### Forms
+
+- grimes — present; singular; third-person
+- griming — participle; present
+- grimed — participle; past
+- grimed — past
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. To begrime; to cake with dirt.
+
+   **Usage:** transitive
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 2 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/grime#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=grime&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

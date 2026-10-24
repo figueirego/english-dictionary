@@ -1,0 +1,141 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-08346adf1ff67f4f9971"
+headword: "footstep"
+language: "en"
+source_records: 1
+sense_count: 7
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/footstep#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=footstep&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["e1e3e92b01f52097277fd7159664a96c974a05056ddb102b9dde5bb57b35dcbf"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 6, "unspecified_pronunciations_labelled": 1}
+editorial_change_count: 7
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "6beef39d61e1253eb862a04b89e88ab1f26b42bc669a4e42c6c324b4b5ac133f"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 300, "examples_withheld": 0}
+parent_source_record_sha256: ["4d46a1ddfe49aaf858b72d01279643aaa5cea879324e9bd3666b29853dd264a3"]
+---
+
+# footstep
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Pronunciation
+
+- IPA: /ˈfʊtstɛp/ — variety unspecified in the source labels
+
+### Forms
+
+- footsteps — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. The mark or impression left by a foot; a track.
+
+   **Example:** The child watched as his footsteps in the sand were washed away by the waves.
+
+   **Source synonyms:** footprint; step; track
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. The indications or waypoints of a course or direction taken.
+
+   **Usage:** broadly; figuratively; sometimes
+
+   **Example:** To walk the footsteps of greatness requires that you start at the bottom of a long stair.
+
+   **Example:** follow in someone's footsteps
+
+   **Source synonyms:** point; path; step; trail
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. The sound made by walking, running etc.
+
+   **Example:** The footsteps of the students echoed in the empty hall.
+
+   **Source synonyms:** footfall; plod; step; tread
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. A step, as in a stair.
+
+   **Example:** The garden path had a small footstep down to the main walkway.
+
+   **Source synonyms:** riser; step
+
+<a id="r1-s5"></a>
+
+**Source sense R1.S5**
+
+5. The distance between one foot and the next when walking; a pace.
+
+   **Example:** Mere footsteps away from the victim lay the murder weapon.
+
+   **Source synonyms:** pace; step; stride
+
+<a id="r1-s6"></a>
+
+**Source sense R1.S6**
+
+6. The act of taking a step.
+
+   **Example:** Take one more footstep towards me, and I'll make you sorry!
+
+   **Source synonyms:** pace; plod; step; stride; tread
+
+<a id="r1-s7"></a>
+
+**Source sense R1.S7**
+
+7. An inclined plane under a hand printing press.
+
+   **Usage:** obsolete
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 1 of 7 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/footstep#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=footstep&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

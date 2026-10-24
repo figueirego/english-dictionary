@@ -1,0 +1,117 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-82d048d26ee2fdd4122f"
+headword: "weekday"
+language: "en"
+source_records: 1
+sense_count: 5
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/weekday#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=weekday&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["7b9c08116929b04966f0ba118a00026197955e7dbdb97566aafbedb1e3f07f8d"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1, "source_topic_labels_restored": 3, "unspecified_pronunciations_labelled": 2}
+editorial_change_count: 6
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "132cc1712db27040897cfeae96518c95d300e02902832785428e466c074af7f8"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 535, "examples_withheld": 0}
+parent_source_record_sha256: ["41876b3191184e05c19ba1d5ab0126c8dea0dbb02280dc7c4de609c5d0114e50"]
+---
+
+# weekday
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Pronunciation
+
+- IPA: /ˈwiːkdeɪ̯/ — variety unspecified in the source labels
+- IPA: \[ˈwɪi̯kdeɪ̯\] — variety unspecified in the source labels
+- IPA: /ˈwiːkdæ̝ɪ̯/ — source labels: Australia
+- IPA: \[ˈwɪi̯kdæ̝ɪ̯\] — source labels: Australia
+
+### Forms
+
+- weekdays — plural
+- week-day — alternative; archaic
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Any individual day of the week, except those which form the weekend or the single weekly day off; that is&#58;
+   1. Monday, Tuesday, Wednesday, Thursday or Friday, but not Saturday or Sunday.
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Any individual day of the week, except those which form the weekend or the single weekly day off; that is&#58;
+   1. Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, but not Friday.
+
+      **Source topics (extractor hierarchy; not curated):** Islam; lifestyle; religion
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. Any individual day of the week, except those which form the weekend or the single weekly day off; that is&#58;
+   1. Monday, Tuesday, Wednesday, Thursday, Friday, or Saturday, but not Sunday. (e.g. in Vietnam)
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. Any individual day of the week, except those which form the weekend or the single weekly day off; that is&#58;
+   1. Sunday, Monday, Tuesday, Wednesday, Thursday or Friday, but not Saturday.
+
+      **Usage:** Judaism
+
+<a id="r1-s5"></a>
+
+**Source sense R1.S5**
+
+5. Any day of the week (Monday through Sunday).
+
+   **Usage:** archaic
+
+### Related words
+
+**Source synonyms:** workday; working day; business day — day on which work is done in legal and official usage
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 5 of 5 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/weekday#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=weekday&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

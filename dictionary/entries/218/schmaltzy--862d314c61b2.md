@@ -1,0 +1,80 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-862d314c61b2a6503368"
+headword: "schmaltzy"
+language: "en"
+source_records: 1
+sense_count: 1
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/schmaltzy#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=schmaltzy&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["7ffd1fe46fb94acf14e30d87c1abaa52ddc33a63358f151a8a588de0628b988f"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1, "unspecified_pronunciations_labelled": 1}
+editorial_change_count: 2
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "40e132175d0ece0de1ab59e5f888dd25db72f752413b3b99a47bdff6262d9a73"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 19, "examples_withheld": 0}
+parent_source_record_sha256: ["d7b31df1eb5911cce34b5ce5c2c9b2e7843f06780b0e58109286518c9f246f06"]
+---
+
+# schmaltzy
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective
+
+### Pronunciation
+
+- IPA: /ˈʃmɒltsi/ — variety unspecified in the source labels
+
+### Forms
+
+- schmaltzier — comparative
+- schmaltziest — superlative
+- schmalzy — alternative
+- shmaltzy — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Overly sentimental, emotional, maudlin or bathetic.
+
+   **Source synonyms:** kitschy; mushy; sappy; bathetic; cheesy; squishy; corny; drippy; gooey (figuratively); hokey (US; informal); icky; kitsch; kitschy; maudlin; mawkish; mushy; overemotional; oversentimental; overwrought; sappy (US; figuratively); schmaltzy; sickly sweet; slushy; soppy (UK; figuratively); soupy; syrupy (figuratively); treacly (figuratively)
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 1 of 1 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/schmaltzy#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=schmaltzy&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

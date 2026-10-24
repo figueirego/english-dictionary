@@ -1,0 +1,79 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-7b5b1a4c3629a64d8eec"
+headword: "answerphone"
+language: "en"
+source_records: 1
+sense_count: 1
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/answerphone#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=answerphone&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["567d46859147764b2361c4435e623d6f85b1a5c9dab9d123d5db013c78defdd9"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "db1a8ea9bddbb430f0a1dbc2e84fb596193dce57ccac4e67ca45831576d9e583"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 26, "examples_withheld": 0}
+parent_source_record_sha256: ["89b1beb5490aff52b019088e6a65aef92506133fd7432cc83542d66b4d2e2b15"]
+---
+
+# answerphone
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Pronunciation
+
+- IPA: /ˈæn.sɜː(ɹ)ˌfəʊn/ — source labels: UK
+- IPA: /ˈæn.səˌfəʊn/ — source labels: UK
+
+### Forms
+
+- answerphones — plural
+- ansaphone — alternative
+- ansafone — alternative
+- answer phone — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Synonym of answering machine, especially one built into a telephone.
+
+   **Usage:** Commonwealth; Ireland; UK
+
+   **Example:** I keep trying to call her, but all I get is the answerphone.
+
+   **Source synonyms:** answering machine (synonym; synonym-of)
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/answerphone#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=answerphone&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

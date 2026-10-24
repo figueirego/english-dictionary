@@ -1,0 +1,88 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-2683bc53101f66cd3538"
+headword: "inadvertent"
+language: "en"
+source_records: 1
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/inadvertent#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=inadvertent&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["f8ee2f60b4ea35570008c95b6db4793ddd5e11d0ab79ad7401a1d8082c983e16"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "18a52f114d44d46d99e8ba031521c695c5e947999938110811d7419ba3b55999"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 224, "examples_withheld": 0}
+parent_source_record_sha256: ["6731fd03154fe8fc054a949186a082ca2524e2c0976a76d92816ece16f3f339d"]
+---
+
+# inadvertent
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective
+
+### Pronunciation
+
+- IPA: /ˌɪnədˈvɜːtn̩t/ — source labels: Received-Pronunciation
+- IPA: /ˌɪnədˈvɝtn̩t/ — source labels: General-American
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Not intentional; not on purpose; not conscious.
+
+   **Usage:** not-comparable
+
+   **Example:** We check everything because an inadvertent error could be disastrous.
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Inattentive.
+
+   **Usage:** not-comparable; obsolete
+
+### Related words
+
+**Source synonyms:** designless — not intentional; unintended; accidental; absent-minded — inattentive; distracted — inattentive
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 1 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/inadvertent#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=inadvertent&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

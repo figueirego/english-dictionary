@@ -1,0 +1,65 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-1ea58ab50893e4c0acc4"
+headword: "Chinese fermented rice"
+language: "en"
+source_records: 1
+sense_count: 1
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Chinese%20fermented%20rice#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Chinese%20fermented%20rice&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["e01c20aa19ba47512603f9703cdb6e71bf0abeead75548a6d448c290d9c46693"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "00516297140e0276352be1a568174c5b095911b534b0dd5695e1dfe44a877e25"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["e01c20aa19ba47512603f9703cdb6e71bf0abeead75548a6d448c290d9c46693"]
+---
+
+# Chinese fermented rice
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Synonym of sweet fermented rice (“a traditional food of China”).
+
+   **Usage:** uncountable
+
+   **Source synonyms:** sweet fermented rice (synonym; synonym-of)
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; etymology absent in 1 of 1 source records; eligible usage examples absent in 1 of 1 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Chinese%20fermented%20rice#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Chinese%20fermented%20rice&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

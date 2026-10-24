@@ -1,0 +1,120 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-4c3e2718d0bc242351ff"
+headword: "Accadian"
+language: "en"
+source_records: 3
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Accadian#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Accadian&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["5365a62d75f190037565a3908af3fa557611297ddecb7f39a7c72e6029595bd2", "41d7b0d3861d4f52974596aff5309dc9292b62ec35f59fd78689fc0a292fb85d", "68b5fc535c5e0e516ada5f14482c00dd2c59583f11a1b48fe84ec47d97408cdc"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 3}
+editorial_change_count: 3
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "fcaa9d732de234e609204dd4918f5ad4dc414960f35a84f813e97990fac92f8d"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 3, "etymology_sections_withheld": 3, "etymology_utf8_bytes_withheld": 150, "examples_withheld": 0}
+parent_source_record_sha256: ["e600c4e97d571a44d69320b86dc5ab6d28c9f531e5ccfc8d5a0e7335f1b43232", "e8d56335b925f662f42163e69540de55603301f0140b3b959c7f25301b7ed135", "4e5db0bcb910f7921abd6da8c9a3a0da414c7137cda45061bceecada4ac8f5b0"]
+---
+
+# Accadian
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective · Record 1
+
+### Forms
+
+- more Accadian — comparative
+- most Accadian — superlative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Alternative spelling of Akkadian.
+
+   **Usage:** alt-of; alternative
+
+   **Alternative form of:** [Akkadian](../078/akkadian--1e169bc08ecb.md)
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Noun · Record 2
+
+### Forms
+
+- Accadians — plural
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Alternative spelling of Akkadian.
+
+   **Usage:** alt-of; alternative
+
+   **Alternative form of:** [Akkadian](../078/akkadian--1e169bc08ecb.md)
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r3"></a>
+
+## Proper noun · Record 3
+
+### Senses
+
+<a id="r3-s1"></a>
+
+**Source sense R3.S1**
+
+1. Alternative spelling of Akkadian.
+
+   **Usage:** alt-of; alternative
+
+   **Alternative form of:** [Akkadian](../078/akkadian--1e169bc08ecb.md)
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 3 of 3 source records; eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Accadian#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Accadian&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

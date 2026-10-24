@@ -1,0 +1,133 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-bcd1f1a32f723f012216"
+headword: "Turanian"
+language: "en"
+source_records: 3
+sense_count: 4
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Turanian#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Turanian&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["8abe9d2d7562e521d416b3b9df95ee9a07e5a60fe25de22507fab2165848d7f5", "cac3a289469dad2d9da5bf01ffb9dc6ba027ec56d6e94701c95ecb42e002d967", "1380045d7a352c41c1a4eeb25f2ddeca321f11fd7ff56f3329c99a4a9b9778f6"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1, "source_topic_labels_restored": 3}
+editorial_change_count: 4
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "d8f3765f538423e3ecc7054940b4a66afe1e4a667bc21aec581e5a29db9280a5"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 3, "etymology_sections_withheld": 3, "etymology_utf8_bytes_withheld": 342, "examples_withheld": 0}
+parent_source_record_sha256: ["fc4ca32f56ba9af11a549b2b09af336cd7bedf20e0761b5b7fa42e98038fa2f3", "91b20d990802439b88472fa4bba51713eb9cc36b5944e88e2dacae19216c50d8", "173c15012cb301ff24fac317358b346013d05bd7af27adce5ac1f4359cd40aa7"]
+---
+
+# Turanian
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective · Record 1
+
+### Forms
+
+- Tooranian — alternative; archaic
+- Touranian — alternative; archaic
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Of or pertaining to Turan.
+
+   **Usage:** not-comparable
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Of or pertaining to the Turanians.
+
+   **Usage:** not-comparable
+
+### Related words
+
+**Source synonyms:** Turanic
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Noun · Record 2
+
+### Forms
+
+- Turanians — plural
+- Tooranian — alternative; archaic
+- Touranian — alternative; archaic
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. A member of any of the Asian peoples who speak Uralic or Altaic (or Turan) languages.
+
+   **Usage:** obsolete; racial theories
+
+   **Source topics (extractor hierarchy; not curated):** human-sciences; linguistics; sciences
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r3"></a>
+
+## Proper noun · Record 3
+
+### Forms
+
+- Tooranian — alternative; archaic
+- Touranian — alternative; archaic
+
+### Senses
+
+<a id="r3-s1"></a>
+
+**Source sense R3.S1**
+
+1. A proposed language family (now generally rejected) encompassing the Uralic and Altaic languages; Ural-Altaic.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 3 of 3 source records; eligible usage examples absent in 4 of 4 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Turanian#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Turanian&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

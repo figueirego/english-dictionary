@@ -1,0 +1,97 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-84cc73ad7c05823f9559"
+headword: "Kollywood"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Kollywood#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Kollywood&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["f20e402ac0ce19adce23781b955575064102d7708dc4f916485ddbcea7444f9a", "c64d0dd79d168c1dddb84acff6c069a4c6329f94be2c47b6b657674937b92538"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "183fc7ddf3ad8a63ff580289a55a5aa1725a2e39553c22249f64ec4be5ed1f30"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 64, "examples_withheld": 0}
+parent_source_record_sha256: ["67531a435f6608af7383094092f5b481340c42b09afab5427157d5b91f03d9eb", "cde750b48248c2eb4559a9e3c54e1d96f3c8ea3eaf539a6d990b32b04172c584"]
+---
+
+# Kollywood
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Proper noun · Etymology 1 · Record 1
+
+### Pronunciation
+
+- IPA: /ˈkɒ.li.wʊd/ — source labels: Received-Pronunciation
+- IPA: /ˈkɑ.li.wʊd/ — source labels: General-American
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. The Tamil film industry located in Kodambakkam in Chennai, southern India.
+
+   **Usage:** informal
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Proper noun · Etymology 2 · Record 2
+
+### Pronunciation
+
+- IPA: /ˈkɒ.li.wʊd/ — source labels: Received-Pronunciation
+- IPA: /ˈkɑ.li.wʊd/ — source labels: General-American
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. The Nepali film industry located in Kathmandu, Nepal.
+
+   **Usage:** informal
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Kollywood#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Kollywood&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

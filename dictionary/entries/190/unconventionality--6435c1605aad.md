@@ -1,0 +1,80 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-6435c1605aad03fb9853"
+headword: "unconventionality"
+language: "en"
+source_records: 1
+sense_count: 1
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/unconventionality#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=unconventionality&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["64a8916874cf506b57b753de646bb621a85844c00179f55441150f248ee2a757"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"partial_pronunciations_labelled": 1, "source_relation_groups_labelled": 2}
+editorial_change_count: 3
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "74b18e5c6d52c0313bbf59d0cd09f7dfc801b2dd29a082f540e691d02a6ccd6b"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 235, "examples_withheld": 0}
+parent_source_record_sha256: ["8351cfc6be834628a2f7685c481a71c77bb82ffda0fd3ae5bca6bc7f6c21d5f1"]
+---
+
+# unconventionality
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Pronunciation
+
+- IPA: /ˌʌnkənˌvɛn(t)ʃəˈnaləti/ — source labels: UK
+- IPA: /ˌʌnkənˌvɛn(t)ʃəˈnalɪti/ — source labels: UK
+- IPA: /ˌʌŋ-/ — source labels: UK — **partial source transcription; not a complete pronunciation**
+- IPA: /ˌʌnkənˌvɛn(t)ʃəˈnaləti/ — source labels: US
+
+### Forms
+
+- unconventionalities — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. The state of being unconventional.
+
+   **Usage:** countable; uncountable
+
+   **Example:** The psychologist regarded Sofie's extreme unconventionality and intelligence as pointing towards very high openness to experience.
+
+   **Source synonyms:** eccentricity; nonconformity; quirkiness
+
+   **Source antonyms:** conventionality; conformity; normalcy; normality
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/unconventionality#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=unconventionality&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

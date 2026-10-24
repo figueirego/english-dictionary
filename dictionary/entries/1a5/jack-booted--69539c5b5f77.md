@@ -1,0 +1,86 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-69539c5b5f77c732f695"
+headword: "jack booted"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/jack%20booted#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=jack%20booted&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["2bf22d51dc9ecaf879266053b6aa4a538aa85937c14e9ee10081e9944ac5465b", "dee6e07aa39079ec5bc81a459fbf99594d9219017e9beaf4e49b548692f55c48"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 2}
+editorial_change_count: 2
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "9a8a8947d3c7f38e1254ec0372593c5e99593720525331d33c0bc78a0e93c35b"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["2bf22d51dc9ecaf879266053b6aa4a538aa85937c14e9ee10081e9944ac5465b", "dee6e07aa39079ec5bc81a459fbf99594d9219017e9beaf4e49b548692f55c48"]
+---
+
+# jack booted
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective · Record 1
+
+### Forms
+
+- more jack booted — comparative
+- most jack booted — superlative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Alternative form of jackbooted.
+
+   **Usage:** alt-of; alternative
+
+   **Alternative form of:** [jackbooted](../293/jackbooted--a4e621378f08.md)
+
+<a id="r2"></a>
+
+## Verb · Record 2
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. simple past and past participle of jack boot
+
+   **Usage:** form-of; participle; past
+
+   **Form of:** [jack boot](../002/jack-boot--00a8cf3ac4be.md)
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 2 of 2 source records; eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/jack%20booted#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=jack%20booted&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

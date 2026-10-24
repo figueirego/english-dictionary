@@ -1,0 +1,119 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-88f100747f63bdabde6b"
+headword: "anthocarp"
+language: "en"
+source_records: 1
+sense_count: 6
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/anthocarp#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=anthocarp&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["7c9b73c8fd05cd55640fcd444382092e34409e11ab87f3ecdd384f11ee3e2e37"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_topic_labels_restored": 18}
+editorial_change_count: 18
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "8cea6efb555814d1622962fd915a5b72590ea043851cf1acf438b22c5dc72dbd"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 20, "examples_withheld": 0}
+parent_source_record_sha256: ["24ca4db21aed88b453f05b30964eee3082478908e3665134e4c298b5e60ac6fe"]
+---
+
+# anthocarp
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Forms
+
+- anthocarps — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Any of various forms of fruits in which part of the perianth tissue remains attached to the fruit, as part of the mechanism of dispersal.
+   1. Lower part of a perianth containing the fruit, the upper part having dropped away, well seen in plants of the family Nyctaginaceae.
+
+      **Source topics (extractor hierarchy; not curated):** biology; botany; natural-sciences
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Any of various forms of fruits in which part of the perianth tissue remains attached to the fruit, as part of the mechanism of dispersal.
+   1. In the Nyctaginaceae, individual apetalous flowers have a tubular, petaloid calyx that resembles a sympetalous corolla. The lower portion of the calyx tightly enwraps the one-seeded achene and is persistent around the fruit as an anthocarp. The calyx base plus the enclosed seed-bearing achene is the unit of dispersal.
+
+      **Source topics (extractor hierarchy; not curated):** biology; botany; natural-sciences
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. Any of various forms of fruits in which part of the perianth tissue remains attached to the fruit, as part of the mechanism of dispersal.
+   1. A collective, composite or aggregated fruit formed from an entire inflorescence, as in the sorosis of a pineapple or the syconus of a fig.
+
+      **Source topics (extractor hierarchy; not curated):** biology; botany; natural-sciences
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. Any of various forms of fruits in which part of the perianth tissue remains attached to the fruit, as part of the mechanism of dispersal.
+   1. A fruit resulting from many flowers, such as the pineapple; a fruit of which the perianth or the torus forms part.
+
+      **Source topics (extractor hierarchy; not curated):** biology; botany; natural-sciences
+
+<a id="r1-s5"></a>
+
+**Source sense R1.S5**
+
+5. Any of various forms of fruits in which part of the perianth tissue remains attached to the fruit, as part of the mechanism of dispersal.
+   1. A composite false fruit, consisting of the actual fruit and the perianth.
+
+      **Source topics (extractor hierarchy; not curated):** biology; botany; natural-sciences
+
+<a id="r1-s6"></a>
+
+**Source sense R1.S6**
+
+6. Any of various forms of fruits in which part of the perianth tissue remains attached to the fruit, as part of the mechanism of dispersal.
+   1. A fruit formed by the union of the floral organs or part of them, with the fruit itself, as in Nyctagineae; also applied to fruits with accessories, sometimes termed pseudocarps, as the strawberry and pineapple.
+
+      **Source topics (extractor hierarchy; not curated):** biology; botany; natural-sciences
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; eligible usage examples absent in 6 of 6 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/anthocarp#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=anthocarp&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

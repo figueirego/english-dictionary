@@ -1,0 +1,120 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-e6900a9e85362dabe07b"
+headword: "panromantic"
+language: "en"
+source_records: 2
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/panromantic#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=panromantic&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["0aa7f4bb94fa50c30669bd3c2508f0875572c4f01db7c9a2ee8c4e70019233ce", "3959bf82202d95b8726cb43433221fb7aa3a553ee34dc5011fe2cd6db98af935"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1, "source_topic_labels_restored": 17}
+editorial_change_count: 18
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "9621b86bfdfa3a98eaf9dc258a55358a3d9fb9bb16724e7734f0b5b4ae9ea6c6"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 1844, "examples_withheld": 0}
+parent_source_record_sha256: ["f6e60d8205d2fb61625680a4c57841b0788ddc8e4f0202372b5eed177ef87f12", "b376dc009e94e960b773a5ba8dc1cca70ed99db359257b7c340b5b4b163f6108"]
+---
+
+# panromantic
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective · Record 1
+
+### Pronunciation
+
+- IPA: /ˌpænɹə(ʊ)ˈmæntɪk/ — source labels: Received-Pronunciation
+- IPA: /ˌpænɹoʊˈmæn(t)ɪk/ — source labels: General-American
+
+### Forms
+
+- more panromantic — comparative
+- most panromantic — superlative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Transcending various forms of Romanticism (“an intellectual (especially artistic, literary, musical, and philosophical) movement that originated in Europe towards the end of the 18th century, characterized by an emphasis on emotion and individualism as well as glorification of nature and the past, preferring the medieval to the classical”).
+
+   **Source topics (extractor hierarchy; not curated):** art; arts; entertainment; human-sciences; lifestyle; literature; media; music; philosophy; publishing; sciences
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Romantically attracted to people regardless of gender identity or sex.
+
+   **Usage:** neologism
+
+   **Source topics (extractor hierarchy; not curated):** lifestyle; sexology; sexuality
+
+   **Source synonyms:** omniromantic; pan
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Noun · Record 2
+
+### Pronunciation
+
+- IPA: /ˌpænɹə(ʊ)ˈmæntɪk/ — source labels: Received-Pronunciation
+- IPA: /ˌpænɹoʊˈmæn(t)ɪk/ — source labels: General-American
+
+### Forms
+
+- panromantics — plural
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. A person who is romantically attracted to people regardless of gender identity or sex.
+
+   **Usage:** neologism
+
+   **Source topics (extractor hierarchy; not curated):** lifestyle; sexology; sexuality
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/panromantic#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=panromantic&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

@@ -1,0 +1,85 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-208bcde0d5f608661061"
+headword: "Wrightstown"
+language: "en"
+source_records: 1
+sense_count: 4
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Wrightstown#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Wrightstown&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["4631e5fdc4f07383e962c844977a1082c461719ba5f073c7e581833efe8e14b5"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "5df96275cd3ebd19b1fb0b7749c46f15922a23065997f374cb7ab4833d8e3092"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 37, "examples_withheld": 0}
+parent_source_record_sha256: ["6b6fe36c4189d45b640beac2a91a02db86993e6a50009315503261a2b9d03dc9"]
+---
+
+# Wrightstown
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Proper noun
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A borough in Burlington County, New Jersey, United States.
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A township and unincorporated community therein, in Bucks County, Pennsylvania, United States.
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. A town in Brown County, Wisconsin, United States.
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. A village in Brown County and Outagamie County, Wisconsin.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; eligible usage examples absent in 4 of 4 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Wrightstown#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Wrightstown&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

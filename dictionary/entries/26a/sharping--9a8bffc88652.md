@@ -1,0 +1,89 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-9a8bffc886523472536a"
+headword: "sharping"
+language: "en"
+source_records: 2
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/sharping#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=sharping&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["f1bfca0ce297d7e30caef1a74aa84797b252a733d1aef549f1c34edb4525e08c", "b0c1961193996dee63d59534484c846e431db8f3aeac62d156f9cb20a3c9533a"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1, "source_topic_labels_restored": 3}
+editorial_change_count: 4
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "bd34673147afbdc20ad3bd9c28bda396cb9a74a630a22cb0e1c35f4c9ed8bbff"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["f1bfca0ce297d7e30caef1a74aa84797b252a733d1aef549f1c34edb4525e08c", "b0c1961193996dee63d59534484c846e431db8f3aeac62d156f9cb20a3c9533a"]
+---
+
+# sharping
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Verb · Record 1
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. present participle and gerund of sharp
+
+   **Usage:** form-of; gerund; participle; present
+
+   **Form of:** [sharp](../18c/sharp--632e93023886.md)
+
+<a id="r2"></a>
+
+## Noun · Record 2
+
+### Forms
+
+- sharpings — plural
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. The raising of the pitch of a note by half a step.
+
+   **Source topics (extractor hierarchy; not curated):** entertainment; lifestyle; music
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. Fraud; trickery; the acts of a sharper.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 2 of 2 source records; eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/sharping#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=sharping&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

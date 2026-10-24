@@ -1,0 +1,96 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-d5aa583a286d03581b78"
+headword: "prerun"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/prerun#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=prerun&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["7944c2b3f748cfdcc9fd38e3366f5f1274972ff8de2add9b067ab6390f6c6b9b", "b1fc79fd813a056401aedcb9eb8f92147d5a076c69a6af7ecdf7c9fd63fe0101"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "8b148efb381b1f3dab463642b95b4fa33dba11f88213c70647e2544b6de444c5"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 32, "examples_withheld": 0}
+parent_source_record_sha256: ["d91652b533df33daf500eae604d538f8590faf0594385823898ddbc686db6546", "324223d04592d183bfc2de58d6cb004792d8f3df885993ad16acf83de10de019"]
+---
+
+# prerun
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Forms
+
+- preruns — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. The act of running something in advance.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Verb · Record 2
+
+### Forms
+
+- preruns — present; singular; third-person
+- prerunning — participle; present
+- preran — past
+- prerun — participle; past
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. To run in advance.
+
+   **Usage:** transitive
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/prerun#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=prerun&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

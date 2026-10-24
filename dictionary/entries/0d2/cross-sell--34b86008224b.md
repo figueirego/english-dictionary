@@ -1,0 +1,100 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-34b86008224b83c95400"
+headword: "cross-sell"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/cross-sell#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=cross-sell&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["f527868c6199e0d2bcddf2426d6608b8475a04c55f76d9010eff9e6d46c40fc5", "f9394dffdf0c1fea0657598fc4053d339aac3e5a215c008dfc398e7591610810"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "0a9e205b38451a7d9012ef5f929f7fd40064db30ab53c3137c122997d0f4fffb"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 38, "examples_withheld": 0}
+parent_source_record_sha256: ["44f8b4f51f43e2a3f954cc6a7b633694f406164f6931fcc7f70934bdaf68970a", "450fa4608bb7bed18395d98c9e9377def69956694274bc77a2a1566aeca1b9b5"]
+---
+
+# cross-sell
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Verb · Record 1
+
+### Forms
+
+- cross-sells — present; singular; third-person
+- cross-selling — participle; present
+- cross-sold — participle; past
+- cross-sold — past
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. To sell (additional products) to existing customers.
+
+   **Usage:** ambitransitive
+
+   **Example:** The sales training program on cross-selling our best customers profitable advisory services.
+
+   **Example:** We want salesmen who know how to cross-sell.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Noun · Record 2
+
+### Forms
+
+- cross-sells — plural
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. The act of making such a sale.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; eligible usage examples absent in 1 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/cross-sell#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=cross-sell&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

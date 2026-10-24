@@ -1,0 +1,94 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-6da9ed6526b9382f2bf2"
+headword: "chous"
+language: "en"
+source_records: 2
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/chous#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=chous&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["af31d794073cbecb09335345b5a3e8c990ed5cf564c5d364d0c53c98de342654", "ead5704d10eae68141648f60ca577169346319053761167da0dfe5845edbb053"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "7e47a7f49a3d9d031e5a34033ae129564e5b99d15994ce26a63ce8685ddf8e8b"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 47, "examples_withheld": 0}
+parent_source_record_sha256: ["af31d794073cbecb09335345b5a3e8c990ed5cf564c5d364d0c53c98de342654", "21feded9ce4947cb265c99fd7d97cc1fcc9978cff6acf76a64891c7b1ed21805"]
+---
+
+# chous
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Etymology 1 · Record 1
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. plural of chou
+
+   **Usage:** form-of; plural
+
+   **Form of:** [chou](../287/chou--a1c2fb75a75a.md)
+
+<a id="r2"></a>
+
+## Noun · Etymology 2 · Record 2
+
+### Forms
+
+- choes — plural
+- khous — alternative
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. A squat, rounded form of oenochoe with a trefoil mouth.
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. An Ancient Greek unit of liquid measure correspondent to 12 cotylae.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 1 of 2 source records; eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/chous#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=chous&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

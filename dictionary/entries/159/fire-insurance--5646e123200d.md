@@ -1,0 +1,63 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-5646e123200d69ebd47a"
+headword: "fire insurance"
+language: "en"
+source_records: 1
+sense_count: 1
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/fire%20insurance#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=fire%20insurance&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["37a0782fdf71ab2fdc1df6849b23f6a92fe0d43ee2cfdd162f65facd2b655109"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "6cf3c857829ba07af8b4d9da120140e09fd7a22dff97de5bc4b0ba3434854045"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["37a0782fdf71ab2fdc1df6849b23f6a92fe0d43ee2cfdd162f65facd2b655109"]
+---
+
+# fire insurance
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Insurance that covers loss by fire, such as house fire; in modern insurance practice, it is seldom a standalone policy but rather is usually a component of property insurance with other coverages as well&#58; home insurance for private homes, commercial insurance for businesses and their real estate and physical plant, and auto insurance for motor vehicles.
+
+   **Usage:** uncountable
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; etymology absent in 1 of 1 source records; eligible usage examples absent in 1 of 1 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/fire%20insurance#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=fire%20insurance&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

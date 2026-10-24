@@ -1,0 +1,106 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-629b9abf8190cbb292f5"
+headword: "Jupiter's beard"
+language: "en"
+source_records: 1
+sense_count: 5
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Jupiter%27s%20beard#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Jupiter%27s%20beard&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["3656328b2ea9f89d2d19887c3cb4275a837f73ed9092a09f3c44bf4f033c8007"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "32f3d94b61f2e9a54c47d5add0f2302cfbb3e0ee6b9b51d869f72b149c68bd54"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 28, "examples_withheld": 0}
+parent_source_record_sha256: ["1cf79f39c3504fdb6f57111b506d69df410b3a4e27dd42ca8087c5e39ac3bde9"]
+---
+
+# Jupiter's beard
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A common name for various plants&#58;
+   1. The red valerian, Centranthus ruber
+
+      **Usage:** uncountable
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A common name for various plants&#58;
+   1. Aster linosyris, a European plant with yellow flowers.
+
+      **Usage:** obsolete; uncountable
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. A common name for various plants&#58;
+   1. The silverbush, Anthyllis barba-jovis, a European shrub with silvery leaves.
+
+      **Usage:** uncountable
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. A common name for various plants&#58;
+   1. The common houseleek, Sempervivum tectorum.
+
+      **Usage:** uncountable
+
+<a id="r1-s5"></a>
+
+**Source sense R1.S5**
+
+5. A common name for various plants&#58;
+   1. A white-edged fungus, Hyphodontia barba-jovis.
+
+      **Usage:** uncountable
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; eligible usage examples absent in 5 of 5 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Jupiter%27s%20beard#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Jupiter%27s%20beard&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

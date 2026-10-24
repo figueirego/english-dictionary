@@ -1,0 +1,99 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-9a56bd594d932dd5158d"
+headword: "forty-four"
+language: "en"
+source_records: 3
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/forty-four#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=forty-four&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["b5b5f615533d5be2911484cb8b42f5a02788f84ce11cf6c9ce0dffbc31ae5066", "665486c12774976b1ecf30d492f6eb70cdd7a8daf7bf7e49017fbf120955ce66", "c277cb0638769a7c7bf2ea3a3d67a293136ba91cb61d03e020557d08dcf4319b"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1, "source_topic_labels_restored": 10}
+editorial_change_count: 11
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "13d93fe15360927eab8b9ae8fffbbcdd1e6b12b4e86bb2c1486409ba8b2859ac"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["b5b5f615533d5be2911484cb8b42f5a02788f84ce11cf6c9ce0dffbc31ae5066", "665486c12774976b1ecf30d492f6eb70cdd7a8daf7bf7e49017fbf120955ce66", "c277cb0638769a7c7bf2ea3a3d67a293136ba91cb61d03e020557d08dcf4319b"]
+---
+
+# forty-four
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Numeral · Record 1
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. The cardinal number immediately following forty-three and preceding forty-five.
+
+### Related words
+
+**Source synonyms:** 44 (Arabic; numeral); XLIV (Roman; numeral)
+
+<a id="r2"></a>
+
+## Noun · Record 2
+
+### Forms
+
+- forty-fours — plural
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. A .44 Magnum handgun.
+
+   **Usage:** slang
+
+<a id="r3"></a>
+
+## Adjective · Record 3
+
+### Senses
+
+<a id="r3-s1"></a>
+
+**Source sense R3.S1**
+
+1. (Of a gun) firing a 0.44 inch calibre bullet.
+
+   **Usage:** not-comparable
+
+   **Source topics (extractor hierarchy; not curated):** engineering; firearms; government; military; natural-sciences; physical-sciences; politics; tools; war; weaponry
+
+## Source gaps
+
+IPA pronunciation absent in 3 of 3 source records; etymology absent in 3 of 3 source records; eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/forty-four#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=forty-four&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

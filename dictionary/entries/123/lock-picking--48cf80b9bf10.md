@@ -1,0 +1,81 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-48cf80b9bf109d62417b"
+headword: "lock-picking"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/lock-picking#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=lock-picking&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["025e590f8143cf7aa74a4055cf5cb4682feee73698c2a9598582aa5272029013", "fb57c25b292bc683e3904b8677bfb336427cf6e9f5611691a754186c84f7d77c"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 2}
+editorial_change_count: 2
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "7631294256d001c3f88c7bb9dfb9093d5d585abc063bafcea3c67918cb61468a"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["025e590f8143cf7aa74a4055cf5cb4682feee73698c2a9598582aa5272029013", "fb57c25b292bc683e3904b8677bfb336427cf6e9f5611691a754186c84f7d77c"]
+---
+
+# lock-picking
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Alternative form of lock picking.
+
+   **Usage:** alt-of; alternative; uncountable
+
+   **Alternative form of:** [lock picking](../362/lock-picking--d891de9bf32c.md)
+
+<a id="r2"></a>
+
+## Verb · Record 2
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. present participle and gerund of lock-pick
+
+   **Usage:** form-of; gerund; participle; present
+
+   **Form of:** [lock-pick](../224/lock-pick--891af8cc5788.md)
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 2 of 2 source records; eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/lock-picking#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=lock-picking&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

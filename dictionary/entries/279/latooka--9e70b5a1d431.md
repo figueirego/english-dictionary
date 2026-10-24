@@ -1,0 +1,81 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-9e70b5a1d431db55275a"
+headword: "Latooka"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Latooka#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Latooka&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["60462836124e6ff9b3692f5d9954b7ded18bf9710c4b55c95770aec8472e050e", "0485eb71f39f3eb3f7bf5168238dc04d8e64b630febc7c5b01e1b399ff82a154"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 2}
+editorial_change_count: 2
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "4a1dfd7fd986113b300b50d4fc0044e2c1002133dd54d59a62eaaa8675fc5b3b"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["60462836124e6ff9b3692f5d9954b7ded18bf9710c4b55c95770aec8472e050e", "0485eb71f39f3eb3f7bf5168238dc04d8e64b630febc7c5b01e1b399ff82a154"]
+---
+
+# Latooka
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Alternative form of Lotuko.
+
+   **Usage:** alt-of; alternative; plural; plural-only
+
+   **Alternative form of:** [Lotuko](../101/lotuko--40471f42ae52.md)
+
+<a id="r2"></a>
+
+## Proper noun · Record 2
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Alternative form of Lotuko.
+
+   **Usage:** alt-of; alternative
+
+   **Alternative form of:** [Lotuko](../101/lotuko--40471f42ae52.md)
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 2 of 2 source records; eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Latooka#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Latooka&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

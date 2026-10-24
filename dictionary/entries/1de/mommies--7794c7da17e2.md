@@ -1,0 +1,91 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-7794c7da17e2f7f4ac96"
+headword: "mommies"
+language: "en"
+source_records: 2
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/mommies#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=mommies&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["db0f728ecadd08e4ad04ce1990908ea3f4ab2166719d75ab034e0c267d2ba27b", "95e355d04ba0a7e15b500bdbfebaa9d33256097f72aca100d35cc95d288203b7"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 3}
+editorial_change_count: 3
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "1548109d21d2c834cff7396e47717f667cb1058094a02acbde17a94c5e0df3d3"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["db0f728ecadd08e4ad04ce1990908ea3f4ab2166719d75ab034e0c267d2ba27b", "95e355d04ba0a7e15b500bdbfebaa9d33256097f72aca100d35cc95d288203b7"]
+---
+
+# mommies
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. plural of mommy
+
+   **Usage:** form-of; plural
+
+   **Form of:** [mommy](../04c/mommy--133e3175b965.md)
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. plural of mommie
+
+   **Usage:** form-of; plural
+
+   **Form of:** [mommie](../045/mommie--114591d39d6c.md)
+
+<a id="r2"></a>
+
+## Verb · Record 2
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. third-person singular simple present indicative of mommy
+
+   **Usage:** form-of; indicative; present; singular; third-person
+
+   **Form of:** [mommy](../04c/mommy--133e3175b965.md)
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 2 of 2 source records; eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/mommies#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=mommies&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

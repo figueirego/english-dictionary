@@ -1,0 +1,98 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-e0221d1730bffd4cd31d"
+headword: "got to"
+language: "en"
+source_records: 2
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/got%20to#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=got%20to&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["2983c5ae1fe3a4dca74ec251953c3697c24a0704d2cd13d3798f484780627b3a", "88d3dd82d648a763e149f146ec220a724c07a2f1552d0bbf777bc9d630a67f5e"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 3}
+editorial_change_count: 3
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "a3aa2ee3cb12db567ac5617829223c66f8eb82edbdeda383eb608c2079204ac6"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["2983c5ae1fe3a4dca74ec251953c3697c24a0704d2cd13d3798f484780627b3a", "88d3dd82d648a763e149f146ec220a724c07a2f1552d0bbf777bc9d630a67f5e"]
+---
+
+# got to
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Verb · Record 1
+
+### Forms
+
+- got to — present; singular; third-person
+- gotta — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Alternative form of have got to (“have to; must”).
+
+   **Usage:** alt-of; alternative; informal; no-past; no-present-participle; participle; past
+
+   **Example:** Sorry, but I got to go.
+
+   **Alternative form of:** [have got to](../2eb/have-got-to--bad80bb77fea.md)
+
+<a id="r2"></a>
+
+## Verb · Record 2
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. simple past of get to
+
+   **Usage:** form-of; past
+
+   **Form of:** [get to](../370/get-to--dc2a9e6da2f5.md)
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. past participle of get to
+
+   **Usage:** UK; form-of; participle; past
+
+   **Form of:** [get to](../370/get-to--dc2a9e6da2f5.md)
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 2 of 2 source records; eligible usage examples absent in 2 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/got%20to#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=got%20to&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

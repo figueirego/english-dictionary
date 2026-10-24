@@ -1,0 +1,105 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-168f7e1e1b59ce08b6fa"
+headword: "culver"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/culver#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=culver&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["4688bc0e4ad8f345002d02f0d8edc832a94bf38c23cce1500052ffb56a2aa0be", "a4414f186cc3fb9b78679d0f5d853f1ea8815925b806627454b819f06419a1a2"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1, "unspecified_pronunciations_labelled": 2}
+editorial_change_count: 3
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "ac65819d57cedc4cefe9fb5349bd2cc8c91efb6fd250a7b6e7dc2b0161fbf5e5"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 272, "examples_withheld": 0}
+parent_source_record_sha256: ["b6467cc2611798c416b1dd098fe12b4ac97ccf0d098b7c158b3150ed3d65a529", "21d57654d617b810880a54d2caa1a060a85c44354cbd388f1d52cac74ca68df4"]
+---
+
+# culver
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Etymology 1 · Record 1
+
+### Pronunciation
+
+- IPA: /ˈkʌlvə/ — variety unspecified in the source labels
+
+### Forms
+
+- culvers — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A dove or pigeon, now specifically of the species Columba palumbus.
+
+   **Usage:** UK; south and east dialect or poetic
+
+### Related words
+
+**Source synonyms:** wood pigeon; wood-pigeon; woodpigeon
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Noun · Etymology 2 · Record 2
+
+### Pronunciation
+
+- IPA: /ˈkʌlvə/ — variety unspecified in the source labels
+
+### Forms
+
+- culvers — plural
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. A culverin, a kind of handgun or cannon.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/culver#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=culver&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

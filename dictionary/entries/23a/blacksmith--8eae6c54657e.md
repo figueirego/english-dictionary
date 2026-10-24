@@ -1,0 +1,122 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-8eae6c54657e94be77a2"
+headword: "blacksmith"
+language: "en"
+source_records: 2
+sense_count: 4
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/blacksmith#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=blacksmith&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["9e5a4501dbda2436c46ffbd36715a94dfa538224052b4fa6fda9dd30645e3488", "35b40b91b6726957a975ceac2f17385679d23eed49b8626ffa770c68ec6b382e"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 2, "unspecified_pronunciations_labelled": 2}
+editorial_change_count: 4
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "7946192c94c6e3c07abc5219442d8016eee9bdc4145db4b3bb0747dd7919348e"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 122, "examples_withheld": 0}
+parent_source_record_sha256: ["47919c8e47c1ab44d429f7db718c0a107552a62d9b79b530c63689d6de1a37a6", "23bffce8f934131f496e9c84ad6c7114b60b9d0675884f69fab4efb173cca1b5"]
+---
+
+# blacksmith
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Pronunciation
+
+- IPA: /ˈblæk.smɪθ/ — variety unspecified in the source labels
+
+### Forms
+
+- blacksmiths — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A person who forges iron.
+
+   **Source synonyms:** ironsmith; burn-the-wind
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A person who shoes horses.
+
+   **Usage:** informal
+
+   **Source synonyms:** farrier
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. A blackish fish of the Pacific coast (Chromis punctipinnis).
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Verb · Record 2
+
+### Pronunciation
+
+- IPA: /ˈblæk.smɪθ/ — variety unspecified in the source labels
+
+### Forms
+
+- blacksmiths — present; singular; third-person
+- blacksmithing — participle; present
+- blacksmithed — participle; past
+- blacksmithed — past
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. To work as a blacksmith.
+
+   **Usage:** intransitive
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 4 of 4 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/blacksmith#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=blacksmith&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

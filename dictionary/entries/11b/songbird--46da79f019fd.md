@@ -1,0 +1,97 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-46da79f019fd411c7707"
+headword: "songbird"
+language: "en"
+source_records: 1
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/songbird#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=songbird&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["cd08dca5d2c535d403de5d0839b35086301270ffa4d80dafd1c8eec1c1224c16"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 2}
+editorial_change_count: 2
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "2aad608a044c5ec0ea1bdc4fb5f1dd46189357bbe24bbbe317da6ddbd55f43f5"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 294, "examples_withheld": 0}
+parent_source_record_sha256: ["0bd5cc5ba1201234f1df7f156fe07825c68f7594ce39ddb845b80b7fab3f5a9c"]
+---
+
+# songbird
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Pronunciation
+
+- IPA: /ˈsɒŋˌbɜːd/ — source labels: UK
+- IPA: /ˈsɔŋˌbɝd/ — source labels: General-American
+- IPA: /ˈsɑŋˌbɝd/ — source labels: cot-caught-merger
+
+### Forms
+
+- songbirds — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A bird having a melodious song or call.
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Any bird in the passerine suborder Passeri, which are distinguished by a more sophisticated vocal apparatus.
+
+   **Source synonyms:** oscine
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. A person, especially a woman, with a melodious voice.
+
+   **Usage:** broadly; idiomatic
+
+### Related words
+
+**Source synonyms:** songbird
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/songbird#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=songbird&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

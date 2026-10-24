@@ -1,0 +1,120 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-87946c87d4a2ae80b48b"
+headword: "predial"
+language: "en"
+source_records: 3
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/predial#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=predial&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["ace4e3ed607eedd85663cd0e04477eeda7e27061c8c98ac8a1fab6e57ba21500", "f40e7c0b26d36c2746e21a7843b45f14ecd9e0a0d39ccf6905e78998d21f27e1", "5006957906fbae3afee83f27618ded1a0d5899f54bed4deaefc46ec703c48bba"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 2}
+editorial_change_count: 2
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "43a3734e3edc16dd2b114c0954febd089e8a73f929753799497f37f4dd1dafb1"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 556, "examples_withheld": 0}
+parent_source_record_sha256: ["ace4e3ed607eedd85663cd0e04477eeda7e27061c8c98ac8a1fab6e57ba21500", "f40e7c0b26d36c2746e21a7843b45f14ecd9e0a0d39ccf6905e78998d21f27e1", "dfafe98911fd2d9cb2fca3ead17aaea286198e14690a6b132223073c59b565ae"]
+---
+
+# predial
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective · Etymology 1 · Record 1
+
+### Forms
+
+- more predial — comparative
+- most predial — superlative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Alternative form of praedial.
+
+   **Usage:** alt-of; alternative
+
+   **Alternative form of:** [praedial](../219/praedial--8671c7ff5efd.md)
+
+<a id="r2"></a>
+
+## Noun · Etymology 1 · Record 2
+
+### Forms
+
+- predials — plural
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Alternative form of praedial.
+
+   **Usage:** alt-of; alternative
+
+   **Alternative form of:** [praedial](../219/praedial--8671c7ff5efd.md)
+
+<a id="r3"></a>
+
+## Verb · Etymology 2 · Record 3
+
+### Forms
+
+- predials — present; singular; third-person
+- predialing — US; participle; present
+- predialling — UK; participle; present
+- predialed — US; participle; past
+- predialed — US; past
+- predialled — UK; participle; past
+- predialled — UK; past
+
+### Senses
+
+<a id="r3-s1"></a>
+
+**Source sense R3.S1**
+
+1. To dial in advance.
+
+   **Usage:** transitive
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 3 of 3 source records; etymology absent in 2 of 3 source records; eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/predial#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=predial&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

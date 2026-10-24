@@ -1,0 +1,79 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-87a77a2ca4cc24096849"
+headword: "Smotrich"
+language: "en"
+source_records: 1
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Smotrich#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Smotrich&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["1a90981aea7987a8216912bbd1891764dadeefafe2b5091ed48b8d6b19247a5a"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"unspecified_pronunciations_labelled": 2}
+editorial_change_count: 2
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "4c4460a39fb8028e85e6c45e29952d203883bc9a3d4ff3c03297e3359826bcc3"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 99, "examples_withheld": 0}
+parent_source_record_sha256: ["3428dea9a14d4139c0b3ba8b40822f9afd995fcfa372f84c40b987781f755b09"]
+---
+
+# Smotrich
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Proper noun
+
+### Pronunciation
+
+- enPR: smŏtʹrĭch — variety unspecified in the source labels
+- IPA: /ˈsmɒtɹɪtʃ/ — variety unspecified in the source labels
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. An Israeli Jewish surname from Hebrew
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. An Israeli Jewish surname from Hebrew
+   1. Bezalel Yoel Smotrich (born 1980), Israeli far-right politician and lawyer
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Smotrich#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Smotrich&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

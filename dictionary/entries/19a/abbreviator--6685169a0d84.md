@@ -1,0 +1,87 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-6685169a0d8440b455f4"
+headword: "abbreviator"
+language: "en"
+source_records: 1
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/abbreviator#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=abbreviator&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["091ff189bb51a9e96f3c947040e6160cf4b5a5a209ce18faa1e10179d5bfe55e"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"partial_pronunciations_labelled": 1, "source_topic_labels_restored": 3}
+editorial_change_count: 4
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "5ed606919310b68a70d2fe3eb3a386e0aed472aa633377b11e833243dd4b78ab"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 69, "examples_withheld": 0}
+parent_source_record_sha256: ["3239af4ed934813af1af9a5bb19edbd9eaec19c8d13a8de9552bd123ee4fa329"]
+---
+
+# abbreviator
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Pronunciation
+
+- IPA: /əˈbɹiː.viˌeɪ.tɚ/ — source labels: Received-Pronunciation
+- IPA: /-ɛɪ.tɚ/ — source labels: Received-Pronunciation — **partial source transcription; not a complete pronunciation**
+- IPA: /əˈbɹi.viˌeɪ.tɚ/ — source labels: General-American
+
+### Forms
+
+- abbreviators — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A person who abbreviates or shortens.
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. One of a college of seventy-two officers of the papal court whose duty was to make a short minute of a decision on a petition, or reply of the pope to a letter, and afterwards expand the minute into official form.
+
+   **Usage:** historical
+
+   **Source topics (extractor hierarchy; not curated):** Catholicism; Christianity; Roman-Catholicism
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/abbreviator#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=abbreviator&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

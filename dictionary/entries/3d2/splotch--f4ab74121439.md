@@ -1,0 +1,110 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-f4ab7412143974ee2211"
+headword: "splotch"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/splotch#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=splotch&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["f5b51b7eb2bb548087c41c7960a9bf551da07770b68f4977eba9e41ce7e649dd", "bcf5caccd8b28e6db21ceeb449bc348424bc52c3ee7828afad940b5db7b66e5b"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "34049a3d0513432acd2e566abf9ac6c98656ddc9a3f3c029e0df47bbbb3f898c"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 168, "examples_withheld": 0}
+parent_source_record_sha256: ["032118480a57abedabbcb03349e58ca5ef26d52c4fdf2959e0a96d039b19ea43", "025a2d77c685f292fc79e1bf386fe9e86b1a85b266e24f03f37c46ee29546c2e"]
+---
+
+# splotch
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Pronunciation
+
+- IPA: /splɒt͡ʃ/ — source labels: Received-Pronunciation
+- IPA: /splɑt͡ʃ/ — source labels: General-American
+
+### Forms
+
+- splotches — plural
+- splatch — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. An irregular-shaped spot or stain.
+
+### Related words
+
+**Source synonyms:** splodge
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Verb · Record 2
+
+### Pronunciation
+
+- IPA: /splɒt͡ʃ/ — source labels: Received-Pronunciation
+- IPA: /splɑt͡ʃ/ — source labels: General-American
+
+### Forms
+
+- splotches — present; singular; third-person
+- splotching — participle; present
+- splotched — participle; past
+- splotched — past
+- splatch — alternative
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. To mark with splotches.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/splotch#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=splotch&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

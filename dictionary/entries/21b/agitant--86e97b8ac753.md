@@ -1,0 +1,122 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-86e97b8ac7533fcc5d8e"
+headword: "agitant"
+language: "en"
+source_records: 3
+sense_count: 4
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/agitant#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=agitant&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["d2e524b34d62ae572cc2f422b31d6f056689936f07a70fb01006d05036925afd", "5d18d642b9da3db58bfcb1914669b85414e730d97a07c69dbe37138794db2840", "f7ba64e682534c6992bab7c4df839198655746af48c8489e8e6b72ff98d7c1ac"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1, "source_relation_groups_labelled": 2}
+editorial_change_count: 3
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "1c3216628529b79bb23eadc07ee7b151e21ab42dc5087dc3df1fc5235deac502"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 232, "examples_withheld": 0}
+parent_source_record_sha256: ["6617742e36664e82b065246954357bcfe11934a5eb4ee304aabea0005a2e1410", "19c1dba5e9df61c838d1f575cbff88b0af21f153bba0a14bfa2f2ac6dc979f2b", "f7ba64e682534c6992bab7c4df839198655746af48c8489e8e6b72ff98d7c1ac"]
+---
+
+# agitant
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Etymology 1 · Record 1
+
+### Forms
+
+- agitants — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A person who agitates.
+
+   **Source synonyms:** agitator
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A thing that agitates.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Adjective · Etymology 1 · Record 2
+
+### Forms
+
+- more agitant — comparative
+- most agitant — superlative
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. That agitates.
+
+   **Source synonyms:** agitating
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r3"></a>
+
+## Noun · Etymology 2 · Record 3
+
+### Forms
+
+- agitants — plural
+
+### Senses
+
+<a id="r3-s1"></a>
+
+**Source sense R3.S1**
+
+1. Obsolete spelling of adjutant.
+
+   **Usage:** alt-of; obsolete
+
+   **Alternative form of:** [adjutant](../20f/adjutant--83c772da86fd.md)
+
+## Source gaps
+
+IPA pronunciation absent in 3 of 3 source records; etymology absent in 1 of 3 source records; eligible usage examples absent in 4 of 4 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/agitant#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=agitant&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

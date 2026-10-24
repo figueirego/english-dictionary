@@ -1,0 +1,81 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-351e1a7b84badac2c65a"
+headword: "bonuses"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/bonuses#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=bonuses&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["3f90767617f14d68ef71acceb8b0d96f698c986d4740f9daad4fbe15ae790a08", "dfbb1c816cc2c9a3343236d77c38635771819c6834809afef297d1c1269b2872"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 2}
+editorial_change_count: 2
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "cd69bcdf969801b8eae2b0c01b9883aba57fa89ba7a1595372ab2abc67861a3c"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["3f90767617f14d68ef71acceb8b0d96f698c986d4740f9daad4fbe15ae790a08", "dfbb1c816cc2c9a3343236d77c38635771819c6834809afef297d1c1269b2872"]
+---
+
+# bonuses
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. plural of bonus
+
+   **Usage:** form-of; plural
+
+   **Form of:** [bonus](../17c/bonus--5f220b4a4583.md)
+
+<a id="r2"></a>
+
+## Verb · Record 2
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. third-person singular simple present indicative of bonus
+
+   **Usage:** form-of; indicative; present; singular; third-person
+
+   **Form of:** [bonus](../17c/bonus--5f220b4a4583.md)
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 2 of 2 source records; eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/bonuses#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=bonuses&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

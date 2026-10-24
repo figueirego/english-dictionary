@@ -1,0 +1,105 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-fe9d1ec02ec1a161558f"
+headword: "techy"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/techy#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=techy&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["95ae3e517f22ad4f212e1b75308f6f3d1230a2c9a102371a8a149669fff47019", "d77ad47ed0248912aabc7ce46dccb19900272a2c718a86c729b27736293556d4"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1, "unspecified_pronunciations_labelled": 2}
+editorial_change_count: 3
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "52aba1c8f504b0dd72349a4b6d08005cba1570d0e4a9ab717a9ca4282ef18397"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 73, "examples_withheld": 0}
+parent_source_record_sha256: ["80c93a5a818237442d3cecf776a68e5db777192182146f5daa42e2bf7e1397ff", "36307c5652ae1c62ca73133b5ac0d75ad2fb7e5874994052a33d950f553f7578"]
+---
+
+# techy
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective · Etymology 1 · Record 1
+
+### Pronunciation
+
+- IPA: /ˈtɛki/ — variety unspecified in the source labels
+
+### Forms
+
+- techier — comparative
+- techiest — superlative
+- tech-y — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Technical, of or related to technology.
+
+   **Usage:** informal
+
+   **Example:** Are there any techy types around? My computer has stopped working.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Adjective · Etymology 2 · Record 2
+
+### Pronunciation
+
+- IPA: /ˈtɛtʃi/ — variety unspecified in the source labels
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Alternative spelling of tetchy.
+
+   **Usage:** alt-of; alternative; obsolete
+
+   **Alternative form of:** [tetchy](../3ff/tetchy--fffb344a8bff.md)
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 1 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/techy#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=techy&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

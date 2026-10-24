@@ -1,0 +1,150 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-48fab7a56479b7ec15bd"
+headword: "idiot"
+language: "en"
+source_records: 2
+sense_count: 4
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/idiot#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=idiot&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["2c09d48bcec968032e4f25401f2a9ef9e603331ca4d53d2b4a09e78beeb9d573", "c19ba254fd8444102795b1c739a992a04ebf8f996858ee9d318be6343a0af496"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"raw_context_labels_restored": 4, "source_relation_groups_labelled": 4, "source_topic_labels_restored": 4, "unspecified_pronunciations_labelled": 2}
+editorial_change_count: 14
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "67ae4cc6938812749ed0459dd0f517cde5e23c4f02bf3e4fe5ee3aaae744e217"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 1256, "examples_withheld": 0}
+parent_source_record_sha256: ["764f9d6b74d0b4d33764249f83be2c4a11c85d4e14c62f5d4628b1df5b56ab4d", "a0409b0bcb8fc5628f6843e609daecf0b875956a7cfa4e9ffb8b036b4b9b7fe5"]
+---
+
+# idiot
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Pronunciation
+
+- enPR: ĭdĭət — source labels: UK; US
+- IPA: /ˈɪdiət/ — source labels: UK; US
+- IPA: /ˈɪd͡ʒət/ — variety unspecified in the source labels
+
+### Forms
+
+- idiots — plural
+- idjit — alternative; nonstandard; **Source context (verbatim):** indicating the pronunciation /ˈɪd͡ʒət/
+- idget — alternative; nonstandard; **Source context (verbatim):** indicating the pronunciation /ˈɪd͡ʒət/
+- eejit — alternative; Ireland; Scotland; nonstandard
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A person of low general intelligence.
+
+   **Usage:** derogatory
+
+   **Example:** Only an idiot would fail this exam.
+
+   **Example:** After failing a hat-trick of exams, the teacher called him an idiot.
+
+   **Source synonyms:** imbecile; moron; retard; alcatote (obsolete); asshat (US; vulgar); arsehole (British; vulgar); asshole (US; vulgar); bayard (archaic); berk (British); birdbrain; blither (dated); bobchin (obsolete); bonehead; bozo; buffoon; brickhead; Charlie (Australian; British); chucklehead; chowderhead; chump; clart; clown; der-brain; dill pickle (US; dated); dim bulb; dimwit; dingleberry; dingus; dipshit (vulgar); dipstick; dirtbrain; div; divvo; divvy; dolt; donk (Australian); doodle (dated); doofus; dope; dork; dote (obsolete); dotterel; dullard; dumbass (US; vulgar); dumbbell; dumbo; dumb fuck (US; vulgar); dummy; dunce; dunderhead; dupe; fathead; fenderhead; fiddle (obsolete); fuckwit (vulgar); fuzznut (slang); geck (archaic); gig (Britain; archaic; dialectal); gink; goober (Southern-US); gooseberry (British); gowk; gubbins; gump (US; dated); half-baked (UK; dialectal; informal); ha'p'orth (British; dated); Homer Simpson; ignoramus; imbecile; jamoke; jerk (US); jerkoff (US; vulgar); jolterhead; jolthead; juggins; jughead; knucklehead; lamebrain; mameluke (US (Italian-American); slang); maroon; meathead; mong (British; vulgar); moron; mug (British); muggins (British); mushhead; nimrod; nincompoop (dated); nit; nitwit; not the sharpest knife in the drawer; numskull; numps (obsolete); numpty; nupson (obsolete); oaf; pillock (Australian; British; Irish; New-Zealand); pinhead; plonker (British); prat (British); retard; shit for brains (vulgar); shithead (vulgar); shitwit (vulgar); schmo; schmuck (US); smooth brain; snapperhead; softhead; sohai (vulgar); sot (dated); stupid; sucker; thickhead; tonto (British); tool (Australian); tosser (British; vulgar); tosspot; tubelight (India; derogatory; slang); twat (British; vulgar); twerp; twit; wally (British); wantwit; wazzock (British; Irish); yampy (British)
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A person who makes stupid decisions; a fool.
+
+   **Usage:** derogatory
+
+   **Example:** He thought people who don't like cricket are idiots. He later got into fights with people who like football.
+
+   **Example:** We think that people who cycle without a helmet are idiots.
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. A person of the lowest intellectual standing, a person who lacks the capacity to develop beyond the mental age of a normal four-year-old; a person with an IQ below 30.
+
+   **Usage:** obsolete
+
+   **Source topics (extractor hierarchy; not curated):** human-sciences; medicine; psychology; sciences
+
+   **Source synonyms:** imbecile; moron; retard
+
+### Related words
+
+**Source synonyms:** addle-brain; addlehead; addle pate (obsolete); airhead; baboon; beanbrain; beetlebrain; beetlehead; berk (UK); bimbo (slang); birdbrain; blockhead (informal); blubberbrain; bonehead (slang); Boeotian; boob (informal); bozo; brainlet; brickhead; bubblehead; bubble brain; bufflehead (obsolete); buffoon; Charlie (Britain; often; with "right" and/or "proper"); chowderhead (US; informal); chucklehead (informal); chump (informal); cittern-head (obsolete); clod; clodpate (dated); clot (Britain; slang); clown; crackhead; cretin; cuckoo; deadhead; dimbo; dim bulb; dimbus; dimwit; dingbat (informal); ding dong (informal); dingleberry (slang); dingwad (informal); dip; dipstick; doldrum (obsolete; slang); dolt; donut; doodle (obsolete); doof; doofoid; doofus; dope (slang); dork (US; slang); drivel (obsolete); drongo (Australia; New-Zealand; slang); drool bucket; dullard; dumb bunny; dumbbell; dumb cluck; dumbhead; dumble; dumbling; dumbnut; dumbo; dummkopf; dummy; dunce; dunderhead; dunderpate; eejit (Irish; Scottish; alternative); fathead; featherbrain; fenderhead; fleabrain; fool; fopdoodle (obsolete); galoot; gimboid (Britain; slang); gomer; gonk; goober (Southern-US); goof; goofball; goofy; goon; goose (slang); goosecap; gorbuson (Britain; archaic; dialectal); gudgeon (archaic); halfwit (informal); ha'porth (Britain; dated; slang); hammerhead; idiot; ignoramus; imbecile; inbred; jackaninny; jellybrain; jerk; juggins; jughead; knothead; knucklehead; lackwit; lamebrain; log (figuratively); loggerhead (obsolete); lummox; lunk; lunkhead; maroon (slang); meatball (slang); meathead (slang); mental midget (informal); mome (obsolete); momo (slang); mongoloid; mongtard; monkey; moron (slang); mouth breather (slang); muggins (Britain; slang); mushhead; muttonhead; mutt (US); nimrod (US; informal); nincom; nincompoop; ninny; ninnyhammer; nit (slang); nitwit; noddy (archaic); noodlehead; numbskull; oaf; peabrain; peagoose; pillock (Britain; slang); pigwidgeon (rare); pinhead; plank (Britain; slang); plonker (Britain; slang); prat (Britain; slang); put; putz; retard (slang); sap (slang); saphead; schmo; silly; simp (slang); simpleton; smooth brain; snapperhead (slang); sot (archaic); space cadet (slang); spanner; stupe (slang); stupid; stupid-head; tard (slang); thickhead; thickskull; thicko (Britain; slang); tomfool; tonto (British); toolbox (slang); tosspot; turkey (US; slang); twit; wally; wantwit; wazzer (Britain; slang); wazzock (Britain; slang); witless wonder (slang); yo-yo (informal); zany; Vulgar&#58;; ass (slang; vulgar); assclown (slang; vulgar); asshat (slang; vulgar); asshead (slang; vulgar); asstard (slang; vulgar); asswipe (slang; vulgar); buttbreath (slang; vulgar); dildo (slang; vulgar); dipshit (slang; vulgar); donkey dick (slang; vulgar); Alternative spelling of dumbass.; dumbfuck (slang; vulgar); dumbfucker (slang; vulgar); dumbshit (slang; vulgar); farthead (slang; vulgar); fuck-knuckle (slang; vulgar); fucktard (slang; vulgar); fuckwit (slang; vulgar); jackass (slang; vulgar); peckerhead (slang; vulgar); shitbrain (slang; vulgar); shithead (slang; vulgar); shitneck (slang; vulgar); shitwit (slang; vulgar); twat (Britain; slang; vulgar)
+
+**Source antonyms:** genius; intelligent person
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Adjective · Record 2
+
+### Pronunciation
+
+- enPR: ĭdĭət — source labels: UK; US
+- IPA: /ˈɪdiət/ — source labels: UK; US
+- IPA: /ˈɪd͡ʒət/ — variety unspecified in the source labels
+
+### Forms
+
+- more idiot — comparative
+- most idiot — superlative
+- idjit — alternative; nonstandard; **Source context (verbatim):** indicating the pronunciation /ˈɪd͡ʒət/
+- idget — alternative; nonstandard; **Source context (verbatim):** indicating the pronunciation /ˈɪd͡ʒət/
+- eejit — alternative; Ireland; Scotland; nonstandard
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Idiotic, stupid.
+
+   **Usage:** uncommon
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 2 of 4 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/idiot#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=idiot&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

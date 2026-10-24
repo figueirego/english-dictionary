@@ -1,0 +1,106 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-8fcc75a12d2b3c6ddb8f"
+headword: "RCTA"
+language: "en"
+source_records: 2
+sense_count: 4
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/RCTA#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=RCTA&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["1bd75235bab669e7ec9f173364a64a1c1ed0ca6fc5b36927996391b1317e7409", "85610b6b20960d81ff1bc5eecba4e94701dff062e4d6943d22cb4f31458743a9"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_topic_labels_restored": 3}
+editorial_change_count: 3
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "88fc575ebd65341f0d9a74152c439fb7bf77af1b8bca7ea085874625ea6eab3e"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["1bd75235bab669e7ec9f173364a64a1c1ed0ca6fc5b36927996391b1317e7409", "85610b6b20960d81ff1bc5eecba4e94701dff062e4d6943d22cb4f31458743a9"]
+---
+
+# RCTA
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Forms
+
+- RCTAs — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Initialism of rear cross traffic alert.
+
+   **Usage:** abbreviation; alt-of; countable; initialism; uncountable
+
+   **Source topics (extractor hierarchy; not curated):** automotive; transport; vehicles
+
+   **Alternative form of:** rear cross traffic alert
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Initialism of race change to another&#58; the act of transitioning into a different race from the one one was born into.
+
+   **Usage:** Internet; abbreviation; alt-of; attributive; initialism; often; uncountable
+
+   **Alternative form of:** race change to another
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. Initialism of race change to another&#58; the act of transitioning into a different race from the one one was born into.
+   1. A person who has made such a change&#58; a transracial person.
+
+      **Usage:** Internet; attributive; countable; often
+
+      **Example:** RCTAs seek to change their race. I'm telling my mom I'm an RCTA.
+
+<a id="r2"></a>
+
+## Adjective · Record 2
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Transracial; having changed one's race.
+
+   **Usage:** Internet; uncommon
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 2 of 2 source records; eligible usage examples absent in 3 of 4 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/RCTA#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=RCTA&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

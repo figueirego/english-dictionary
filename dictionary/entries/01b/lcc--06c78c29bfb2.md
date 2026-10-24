@@ -1,0 +1,141 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-06c78c29bfb28e3db5a8"
+headword: "LCC"
+language: "en"
+source_records: 2
+sense_count: 7
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/LCC#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=LCC&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["e1cbd308d586c43079d12629f3a039e016421934eb25a95390dc9d9f9512116f", "e5c9df4ecac08b6c18231432ff2fe2100fdbeda8a63d70a45c8db0e1238a274b"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1, "source_topic_labels_restored": 19}
+editorial_change_count: 20
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "37e54d20307a384f97bcd41cd24f1c5341fc4f6a593574d8102a9e8ad120ff61"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["e1cbd308d586c43079d12629f3a039e016421934eb25a95390dc9d9f9512116f", "e5c9df4ecac08b6c18231432ff2fe2100fdbeda8a63d70a45c8db0e1238a274b"]
+---
+
+# LCC
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Proper noun · Record 1
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Initialism of Library of Congress Classification.
+
+   **Usage:** abbreviation; alt-of; initialism
+
+   **Alternative form of:** Library of Congress Classification
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Initialism of London County Council.
+
+   **Usage:** abbreviation; alt-of; initialism
+
+   **Alternative form of:** London County Council
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. Initialism of Local Coordination Committees.
+
+   **Usage:** abbreviation; alt-of; initialism
+
+   **Alternative form of:** Local Coordination Committees
+
+<a id="r2"></a>
+
+## Noun · Record 2
+
+### Forms
+
+- LCCs — plural
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Initialism of low-cost carrier.
+
+   **Usage:** abbreviation; alt-of; countable; initialism; uncountable
+
+   **Source topics (extractor hierarchy; not curated):** aeronautics; aerospace; aviation; business; engineering; lifestyle; natural-sciences; physical-sciences; tourism; transport; travel
+
+   **Alternative form of:** [low-cost carrier](../28e/low-cost-carrier--a3896316a906.md)
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. Abbreviation of large crude carrier.
+
+   **Usage:** abbreviation; alt-of; countable; uncountable
+
+   **Source topics (extractor hierarchy; not curated):** nautical; transport
+
+   **Alternative form of:** large crude carrier
+
+<a id="r2-s3"></a>
+
+**Source sense R2.S3**
+
+3. Initialism of leaf-and-branch compost cutinase.
+
+   **Usage:** abbreviation; alt-of; countable; initialism; uncountable
+
+   **Source topics (extractor hierarchy; not curated):** biochemistry; biology; chemistry; microbiology; natural-sciences; physical-sciences
+
+   **Alternative form of:** leaf-and-branch compost cutinase
+
+<a id="r2-s4"></a>
+
+**Source sense R2.S4**
+
+4. Initialism of lightweight cellular concrete.
+
+   **Usage:** abbreviation; alt-of; countable; initialism; uncountable
+
+   **Alternative form of:** lightweight cellular concrete
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 2 of 2 source records; eligible usage examples absent in 7 of 7 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/LCC#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=LCC&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

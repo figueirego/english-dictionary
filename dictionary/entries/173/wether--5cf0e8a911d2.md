@@ -1,0 +1,141 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-5cf0e8a911d2525d28be"
+headword: "wether"
+language: "en"
+source_records: 3
+sense_count: 4
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/wether#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=wether&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["d09b626aa63f3b0fcc116e30e7c275ac8bd23f306998e7bd41ee366a750fa31c", "7c6a38cfee26055ffb9264085b1bc650c1aa9f846c6c7d2861c2f9c008602a86", "c89cc649a6a914093a2882b3dd1964dccc578e91c01641bff97cb172dc074709"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "d7d4fc5ed8a6d8d1158649c4c0b3599f1f932a1610cc7c7993b3c8f5b66f9104"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 1046, "examples_withheld": 0}
+parent_source_record_sha256: ["7ab8a72a205deb8b5e89f4d4e1a574a2cc2b8d03b3559d1d147f31aefd77d5ee", "74bbee31966edcce7e4802f7d8d3b23cac62bc49079a4fa58b68bd4cdf5bdfab", "c89cc649a6a914093a2882b3dd1964dccc578e91c01641bff97cb172dc074709"]
+---
+
+# wether
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Etymology 1 · Record 1
+
+### Pronunciation
+
+- IPA: /ˈwɛðɚ/ — source labels: General-American
+- IPA: /ˈwɛðə/ — source labels: Received-Pronunciation
+- IPA: /ˈweðə/ — source labels: Australia; New-Zealand
+- IPA: /ˈwɛðəɾ/ — source labels: Scotland
+
+### Forms
+
+- wethers — plural
+- wedder — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A castrated goat.
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A castrated ram.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Verb · Etymology 1 · Record 2
+
+### Pronunciation
+
+- IPA: /ˈwɛðɚ/ — source labels: General-American
+- IPA: /ˈwɛðə/ — source labels: Received-Pronunciation
+- IPA: /ˈweðə/ — source labels: Australia; New-Zealand
+- IPA: /ˈwɛðəɾ/ — source labels: Scotland
+
+### Forms
+
+- wethers — present; singular; third-person
+- wethering — participle; present
+- wethered — participle; past
+- wethered — past
+- wedder — alternative
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. To castrate a male sheep or goat.
+
+   **Usage:** transitive
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r3"></a>
+
+## Noun · Etymology 2 · Record 3
+
+### Pronunciation
+
+- IPA: /ˈwɛðɚ/ — source labels: General-American
+- IPA: /ˈwɛðə/ — source labels: Received-Pronunciation
+- IPA: /ˈweðə/ — source labels: Australia; New-Zealand
+- IPA: /ˈwɛðəɾ/ — source labels: Scotland
+
+### Senses
+
+<a id="r3-s1"></a>
+
+**Source sense R3.S1**
+
+1. Archaic spelling of weather.
+
+   **Usage:** alt-of; archaic
+
+   **Alternative form of:** [weather](../397/weather--e5e72beb4e3c.md)
+
+## Source gaps
+
+etymology absent in 1 of 3 source records; eligible usage examples absent in 4 of 4 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/wether#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=wether&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

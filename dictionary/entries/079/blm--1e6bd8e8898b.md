@@ -1,0 +1,109 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-1e6bd8e8898b13a4258e"
+headword: "BLM"
+language: "en"
+source_records: 3
+sense_count: 4
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/BLM#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=BLM&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["5889aa3f6f447b8cdbd03164e2bd3db9b7ad06183ca5f78ca41a9a7eb6d47d94", "8bed0457bb9f41a89ee04e8c628ee84a1caf0c4bbb5b57296597d26deba72550", "3160f465530ac8e7c0b45c0f57164dd67c6adde05b9db2f4e187b74af634c573"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 2, "source_topic_labels_restored": 3}
+editorial_change_count: 5
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "06d6d38c3dca6f12da4be9484eef239dddf0c4183cd21f5bf0127290e3e1d297"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["5889aa3f6f447b8cdbd03164e2bd3db9b7ad06183ca5f78ca41a9a7eb6d47d94", "8bed0457bb9f41a89ee04e8c628ee84a1caf0c4bbb5b57296597d26deba72550", "3160f465530ac8e7c0b45c0f57164dd67c6adde05b9db2f4e187b74af634c573"]
+---
+
+# BLM
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Abbreviation of bleomycin.
+
+   **Usage:** abbreviation; alt-of; uncountable
+
+   **Source topics (extractor hierarchy; not curated):** medicine; pharmacology; sciences
+
+   **Alternative form of:** [bleomycin](../319/bleomycin--c64901dcb8a4.md)
+
+<a id="r2"></a>
+
+## Proper noun · Record 2
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Initialism of Bureau of Land Management&#58; an agency within the United States Department of the Interior responsible for administering public lands, created in 1946.
+
+   **Usage:** US; abbreviation; alt-of; initialism
+
+   **Alternative form of:** Bureau of Land Management
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. Initialism of Black Lives Matter&#58; an international human rights movement, originated in 2013 within the African-American community, which campaigns against violence and systemic racism towards black people.
+
+   **Usage:** abbreviation; alt-of; initialism
+
+   **Alternative form of:** Black Lives Matter
+
+<a id="r3"></a>
+
+## Phrase · Record 3
+
+### Senses
+
+<a id="r3-s1"></a>
+
+**Source sense R3.S1**
+
+1. Initialism of black lives matter.
+
+   **Usage:** abbreviation; alt-of; initialism
+
+   **Alternative form of:** [black lives matter](../256/black-lives-matter--958d9b4483ee.md)
+
+## Source gaps
+
+IPA pronunciation absent in 3 of 3 source records; etymology absent in 3 of 3 source records; eligible usage examples absent in 4 of 4 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/BLM#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=BLM&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

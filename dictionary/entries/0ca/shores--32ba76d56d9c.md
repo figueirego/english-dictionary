@@ -1,0 +1,101 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-32ba76d56d9c352eb232"
+headword: "shores"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/shores#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=shores&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["99adb9749a605c6f284b7f7572081939392c482bc4f593f6636ba6fcd9b9124d", "568ca15f1b526d56ffd9ee978cc7eb497475a22b3af8e2e9f39b934e32e3b6a7"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 2, "unspecified_pronunciations_labelled": 6}
+editorial_change_count: 8
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "7fd0459f105b6da649b378ee757d54c02c1ebcc3891e9fef66bd4c5fc8376305"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["99adb9749a605c6f284b7f7572081939392c482bc4f593f6636ba6fcd9b9124d", "568ca15f1b526d56ffd9ee978cc7eb497475a22b3af8e2e9f39b934e32e3b6a7"]
+---
+
+# shores
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Pronunciation
+
+- enPR: shôrz — source labels: General-American
+- IPA: /ʃɔɹz/ — source labels: General-American
+- enPR: shôz — source labels: Received-Pronunciation
+- IPA: /ʃɔːz/ — source labels: Received-Pronunciation
+- enPR: shōrzʹ — variety unspecified in the source labels
+- IPA: /ʃo(ː)ɹz/ — variety unspecified in the source labels
+- IPA: /ʃoəz/ — variety unspecified in the source labels
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. plural of shore
+
+   **Usage:** form-of; plural
+
+   **Form of:** [shore](../2a8/shore--aa3ff1224ffa.md)
+
+<a id="r2"></a>
+
+## Verb · Record 2
+
+### Pronunciation
+
+- enPR: shôrz — source labels: General-American
+- IPA: /ʃɔɹz/ — source labels: General-American
+- enPR: shôz — source labels: Received-Pronunciation
+- IPA: /ʃɔːz/ — source labels: Received-Pronunciation
+- enPR: shōrzʹ — variety unspecified in the source labels
+- IPA: /ʃo(ː)ɹz/ — variety unspecified in the source labels
+- IPA: /ʃoəz/ — variety unspecified in the source labels
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. third-person singular simple present indicative of shore
+
+   **Usage:** form-of; indicative; present; singular; third-person
+
+   **Form of:** [shore](../2a8/shore--aa3ff1224ffa.md)
+
+## Source gaps
+
+etymology absent in 2 of 2 source records; eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/shores#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=shores&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

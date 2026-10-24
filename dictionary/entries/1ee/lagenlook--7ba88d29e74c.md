@@ -1,0 +1,122 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-7ba88d29e74ca806faec"
+headword: "lagenlook"
+language: "en"
+source_records: 2
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/lagenlook#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=lagenlook&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["157bb8fe180bdefac82fca5227f8c37a316b3d02023ab1baee5aba5fdb6f7a7d", "966c6a0a4962d746fc68a00bec81f3bd55d4a810caec5d276db395c865a8ced1"]
+review_status: "evidence-pinned-definition-review; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"diagnostic_labels_separated": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+missing_sense_records: 0
+missing_gloss_senses: 1
+definition_overlay_revision: "definitions-v2"
+definition_ledger_sha256: "ea28b577076c90d7ecf1098a2bbae03dcde27016516f67d2d4e238ed19c5f43c"
+definition_overlay_counts: {"auxiliary_relation_headwords": 0, "auxiliary_relation_senses": 0, "auxiliary_thesaurus_senses": 0, "auxiliary_translation_hub_senses": 0, "definition_filled_headwords": 1, "definition_filled_senses": 1, "ledger_decisions_applied": 1, "part_of_speech_corrected_records": 0, "source_gap_senses": 1, "source_kind_corrected_records": 0, "source_structure_senses": 0, "unresolved_gloss_senses": 0}
+definition_decisions: [{"coordinate": "R2.S1", "id": "9967831:1", "status": "definition"}]
+parent_entry_sha256: "3b69a3c6e7e846ead3b6addcf7d5e765dd300d535f511c0a05da6f24ee5ee9a1"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 126, "examples_withheld": 0}
+parent_source_record_sha256: ["65064f1cc56d76274c16dd1051ed03828cb303a216ef84c226285b56ee24165e", "a968f6c387a250c5b6e19bfcb8c18ceea595ad7a731f8993f155b1c8c55169e6"]
+parent_definition_ledger_sha256: "6892c98637acb8f351c9e4220ebd7e7ec541df93315cb972793c57ddc6876446"
+---
+
+# lagenlook
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Forms
+
+- lagenlook — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A layered clothing style.
+
+   **Usage:** informal
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A style of female fashion drawing on various new romantic and bohemian influences, popular beginning in the 1960s. Compatible with new romanticism, boho and steampunk, but in a more understated style.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Adjective · Record 2
+
+### Forms
+
+- more lagenlook — comparative
+- most lagenlook — superlative
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. (fashion, of clothing) Designed to be worn as part of a layered outfit.
+
+   **Extractor diagnostics (not usage labels):** no-gloss
+
+**Supplemental definition (evidence reviewed; source gap preserved):** The source establishes the exact adjective and the stated meaning. The supplemental description is independently worded and restricted to that documented use; no unique original intended meaning is claimed.
+
+**Definition sources:** [English Wiktionary&#58; lagenlook](https://en.wiktionary.org/w/index.php?title=lagenlook&oldid=93627372) — 93627372; CC-BY-SA-4.0; [Irene Seiberling, profile of milliner Hrycay, Regina Leader-Post](https://leaderpost.com/life/fashion-beauty/saskatchewan-milliner-grows-international-reputation-for-her-handcrafted-hats) — Published 2016; source capture pinned; Independently worded factual description; source prose not redistributed; no open text license asserted
+
+**Editorial transformation:** Independently worded supplemental reading definition, limited to the documented meaning. This does not claim recovery of the unknown original wording or unique intended sense.
+
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+Pinned source gaps: 1; supported supplemental definitions: 1; auxiliary source classifications: 0; unresolved lexical gloss gaps: 0. Original source-gap counts and fingerprints remain unchanged. See [the immutable decision ledger](../../DEFINITIONS.md).
+
+Source-structure defects resolved without adding definitions: 0.
+
+0 source records without senses; 1 source senses with absent, empty or blank glosses. Source-gap notices are editorial labels, not definitions.
+
+IPA pronunciation absent in 2 of 2 source records; eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/lagenlook#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=lagenlook&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

@@ -1,0 +1,145 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-6b632decb6d981b627b9"
+headword: "CID"
+language: "en"
+source_records: 2
+sense_count: 8
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/CID#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=CID&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["348321d7882ef2b5701f8724c56a0890791aa67f2108bba3de4905457347d95b", "25f5c5b274cd5a6ba8b7e7b9c63f3ca9f787725f13b913cca8ad0b57aa5c9c0a"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_topic_labels_restored": 15}
+editorial_change_count: 15
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "79fcaa173b4cec0e6738182a52110eb38bbfb9acb0763b3263becaeaa3a51d9c"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["348321d7882ef2b5701f8724c56a0890791aa67f2108bba3de4905457347d95b", "25f5c5b274cd5a6ba8b7e7b9c63f3ca9f787725f13b913cca8ad0b57aa5c9c0a"]
+---
+
+# CID
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Forms
+
+- CIDs — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. caller identification; a feature that identifies the phone number of the caller.
+
+   **Usage:** countable; uncountable
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Abbreviation of combat identification; compare IFF.
+
+   **Usage:** abbreviation; alt-of; countable; uncountable
+
+   **Alternative form of:** combat identification
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. Acronym of center/centre instrument display.
+
+   **Usage:** abbreviation; acronym; alt-of; countable; uncountable
+
+   **Alternative form of:** center/centre instrument display
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. Initialism of criminal investigation/investigative division/department.
+
+   **Usage:** abbreviation; alt-of; countable; initialism; uncountable
+
+   **Alternative form of:** criminal investigation/investigative division/department
+
+<a id="r1-s5"></a>
+
+**Source sense R1.S5**
+
+5. Initialism of cubic inches displacement; cubic inches of displacement.
+
+   **Usage:** abbreviation; alt-of; countable; initialism; uncountable
+
+   **Source topics (extractor hierarchy; not curated):** automotive; transport; vehicles
+
+   **Alternative form of:** cubic inches displacement
+
+<a id="r2"></a>
+
+## Proper noun · Record 2
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Scotland Yard's Criminal Investigation Department
+
+   **Usage:** UK; initialism
+
+   **Source topics (extractor hierarchy; not curated):** government; law-enforcement
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. U.S. Army Criminal Investigation Command
+
+   **Usage:** US; initialism
+
+   **Source topics (extractor hierarchy; not curated):** government; law-enforcement; military; politics; war
+
+<a id="r2-s3"></a>
+
+**Source sense R2.S3**
+
+3. Former name of NCIS (Naval Criminal Investigation Division).
+
+   **Usage:** US; initialism
+
+   **Source topics (extractor hierarchy; not curated):** government; law-enforcement; military; politics; war
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 2 of 2 source records; eligible usage examples absent in 8 of 8 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/CID#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=CID&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

@@ -1,0 +1,122 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-cc3a3db92f3fc5be10f0"
+headword: "puddle jump"
+language: "en"
+source_records: 2
+sense_count: 8
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/puddle%20jump#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=puddle%20jump&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["19246421eb87151da9d5425565045be04310c7a8c8abc3bdca0a007198c653e7", "c7ff52999dbaee9992a64a1722e50b4c39c69340406f82135f52ff975b73aaf0"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "b8546a57a70030235a5f9a464133a11da7e4cda847bb4a7e064397e057b3ee51"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["19246421eb87151da9d5425565045be04310c7a8c8abc3bdca0a007198c653e7", "c7ff52999dbaee9992a64a1722e50b4c39c69340406f82135f52ff975b73aaf0"]
+---
+
+# puddle jump
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Forms
+
+- puddle jumps — plural
+- puddle-jump — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A short airplane flight (in a puddle jumper).
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A jump over or into a puddle.
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. A short trip by boat, especially one that remains close to shore.
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. A small difference.
+
+<a id="r2"></a>
+
+## Verb · Record 2
+
+### Forms
+
+- puddle jumps — present; singular; third-person
+- puddle jumping — participle; present
+- puddle jumped — participle; past
+- puddle jumped — past
+- puddle-jump — alternative
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. To take a short flight (on a puddle jumper).
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. To jump over or into puddles.
+
+<a id="r2-s3"></a>
+
+**Source sense R2.S3**
+
+3. To take a short trip by boat, especially one that remains lose to shore
+
+<a id="r2-s4"></a>
+
+**Source sense R2.S4**
+
+4. To move a small distance; to go from one small thing to another.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 2 of 2 source records; eligible usage examples absent in 8 of 8 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/puddle%20jump#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=puddle%20jump&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

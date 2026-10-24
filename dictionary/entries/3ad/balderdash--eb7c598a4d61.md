@@ -1,0 +1,126 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-eb7c598a4d614a5f6b53"
+headword: "balderdash"
+language: "en"
+source_records: 2
+sense_count: 4
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/balderdash#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=balderdash&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["fde1321c095a227bfce76223986d101003dbbcb2c27e7043026d08df8f31ac15", "0d1834d61a1fab2b4386f0cbfb3e36e5990e86f21ca9806214eed5190c189e20"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 4}
+editorial_change_count: 4
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "7e98e2f2912223ac64667745b868bf692ba8d71a66ab4589b0e00ab0044e6e24"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 244, "examples_withheld": 0}
+parent_source_record_sha256: ["987bdcd91d78a718faad8b05b08c7458b413b8cef675cd59e88c7ee3003ae523", "0b63cf00ab6ece6f67095984b18d1158096e54e90ba40f9eb75aa90798df5dd2"]
+---
+
+# balderdash
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Pronunciation
+
+- IPA: /ˈbɔːldə.dæʃ/ — source labels: UK
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Senseless talk or writing; nonsense.
+
+   **Usage:** uncountable
+
+   **Source synonyms:** bunk; drivel; folderol; piffle; poppycock; rubbish; twaddle; absurdity; all my eye; all my eye and Betty Martin; apple grease (archaic; slang); applesauce (US; dated; slang); bafflegab; balderdash; balls (UK; vulgar); baloney (Australia; US); banana oil (dated); Bandini; baragouin; batcrap; batshit; bilgewater; blah; blah-blah; blah-blah-blah; blather; blatherskite; bobbins (UK); bollocks (UK; vulgar); bosh; BS; bull; bullcrap (vulgar); bulldust; bull feathers (euphemistic); bullshit (vulgar); bullspeak; bunk; bunkum; bushwah; clamjamfrey; claptrap; cobblers (UK); codswallop; crap (vulgar); crock (vulgar); crock of shit (vulgar); double Dutch; double talk; doublespeak; dribble; drivel; eyewash; fiddle-faddle; flapdoodle; flim-flam; flizz (Multicultural-London-English); flummery; folderol; foolishness; footle; framis; fuckery (Jamaica; Multicultural-London-English; vulgar); fuckry (Jamaica; Multicultural-London-English; vulgar); fudge (dated); galimatias; Gallophone; garbage (US); garble; gash (UK; slang; vulgar); gibber; gibberish; gobbledygook; gossip; Greek; guff; gup (India); hoax; hocus-pocus; hogwash; hokum; hooey (US); horse cock (US; vulgar); horsefeathers; horse hockey (Canadian); horse piss (US; vulgar); horse puckey; horseradish; horseshit (US; vulgar); humbug; Irish bull; jabber; jabberwocky; jargon; jibber-jabber; jimjam; jive; junk; lallation; macaroni (Australian); malarkey (Ireland; UK; US); manure; meaninglessness; moonshine; mumbo jumbo; nertz (US); nonsense; pie in the sky; piffle; pigswill; poppycock; prattle; put-on; rhubarb (UK); rhubarb rhubarb (UK); rigmarole; rot; rubbish (UK); ruse; santorum; shit (vulgar); shite (UK; vulgar); skimble-skamble; squit (UK; dialectal); stuff (obsolete); stuff and nonsense; tommy-rot (UK); tosh (UK); trittle trattle; tush (UK); trash (US); tripe (UK); twaddle; wass (Multicultural-London-English); whiff-whaff (UK; obsolete); word salad
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A worthless mixture, especially of liquors.
+
+   **Usage:** archaic; uncountable
+
+   **Source synonyms:** stuff; swill
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. Obscene language or writing.
+
+   **Usage:** obsolete; uncountable
+
+   **Source synonyms:** fuck-ese; obscenity; ordure; ribaldry; smut
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Verb · Record 2
+
+### Pronunciation
+
+- IPA: /ˈbɔːldə.dæʃ/ — source labels: UK
+
+### Forms
+
+- balderdashes — present; singular; third-person
+- balderdashing — participle; present
+- balderdashed — participle; past
+- balderdashed — past
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. To mix or adulterate.
+
+   **Usage:** archaic
+
+   **Source synonyms:** abase; adulter; admix; sophisticate; abase (obsolete); adulter (rare); adulterate; adulterize (uncommon); alloy; balderdash (archaic); corrupt; bastardize; dash (dated); dilute; embase (archaic); sophisticate (figuratively); admix; amalgamate; bemingle; blend; combine; commingle; intermingle; intermix; involve (figuratively); mang (UK; dialectal); meddle (obsolete); ming (archaic); mingle; mix; mix up
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 4 of 4 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/balderdash#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=balderdash&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

@@ -1,0 +1,103 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-6471d3bbfa3095524637"
+headword: "eye-watering"
+language: "en"
+source_records: 1
+sense_count: 4
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/eye-watering#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=eye-watering&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["5d6f7fa2f57b07b663b599a2a76740926f97ac2b0f8f7e5a9ed7e4fc1a2d7c92"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 3}
+editorial_change_count: 3
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "203094042eabb6cbeb296af990f804d438066bd0bab04e01821725578969cbf1"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 20, "examples_withheld": 0}
+parent_source_record_sha256: ["a07260e0fe4096143b2adfa48cd436ea9bd4ce3ff6cd835795b0c6cfa1ba8c55"]
+---
+
+# eye-watering
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective
+
+### Forms
+
+- more eye-watering — comparative
+- most eye-watering — superlative
+- eyewatering — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Having an odour, vapours or smoke which causes irritation to the eyes.
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Having an extremely bad odour.
+
+   **Usage:** figuratively
+
+   **Source synonyms:** foul-smelling
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. So expensive that (figuratively) it would make one's eyes water.
+
+   **Usage:** figuratively
+
+   **Source synonyms:** 5-star; big-ticket; chargeful (obsolete); cheap at half the price (humorous); costful (archaic); costly; cost-prohibitive (euphemistic); fancy; dear (Ireland; UK); dearthful (Scotland; obsolete); dispendious (archaic); ex (Singapore); expenny (slang); expensive; exy (Australia; slang); high-cost; lickpenny (obsolete); million-dollar (figuratively); high-priced; princely; out of sight; overdear; pricey; ruinous; spendy (US; regional); spenno; spenny (Australia; UK; informal); splurgy (US; slang); steep
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. Of a shocking or surprising nature.
+
+   **Usage:** figuratively
+
+   **Source synonyms:** astounding; astonishing; awesome; random; shocking; spontaneous; sudden; surprise; heartstopping; surprising; unbelievable; unexpected; unpredictable; wonderful
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; eligible usage examples absent in 4 of 4 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/eye-watering#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=eye-watering&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

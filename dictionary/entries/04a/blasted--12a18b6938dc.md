@@ -1,0 +1,166 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-12a18b6938dcb92f71dc"
+headword: "blasted"
+language: "en"
+source_records: 3
+sense_count: 7
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/blasted#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=blasted&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["d8c825ce3213b95be8f0db9d39b8a727392dc3251ad474dd2c6dac0c50200dfb", "437cc2fbdaa961b94dd6a3d6a143b6b9af5040a9145cd86fea8978b38df303a4", "d519c0e6608e481bab1547a295de82185ed0ec5d5e214827f68945ac553fa9f9"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1, "raw_context_labels_restored": 1, "source_relation_groups_labelled": 1, "source_topic_labels_restored": 7}
+editorial_change_count: 10
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "48c601c23e2286f7385d38a2477192fd98990cd74c1eb3fc8a24bb4536907c0a"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["d8c825ce3213b95be8f0db9d39b8a727392dc3251ad474dd2c6dac0c50200dfb", "437cc2fbdaa961b94dd6a3d6a143b6b9af5040a9145cd86fea8978b38df303a4", "d519c0e6608e481bab1547a295de82185ed0ec5d5e214827f68945ac553fa9f9"]
+---
+
+# blasted
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Verb · Record 1
+
+### Pronunciation
+
+- IPA: /ˈblɑː.stɪd/ — source labels: UK
+- IPA: /ˈblæs.tɪd/ — source labels: Canada; US
+- IPA: /ˈblaː.stɪd/ — source labels: Australia
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. simple past and past participle of blast
+
+   **Usage:** form-of; participle; past
+
+   **Form of:** [blast](../260/blast--982d3cec0c8e.md)
+
+<a id="r2"></a>
+
+## Adjective · Record 2
+
+### Pronunciation
+
+- IPA: /ˈblɑː.stɪd/ — source labels: UK
+- IPA: /ˈblæs.tɪd/ — source labels: Canada; US
+- IPA: /ˈblaː.stɪd/ — source labels: Australia
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Subjected to an explosion.
+
+   **Usage:** not-comparable
+
+   **Example:** The remains of the blasted tank were testament to the power of the landmine it had hit.
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. Subjected to violent gusts of wind; storm-damaged.
+
+   **Usage:** not-comparable
+
+   **Example:** a blasted tree
+
+<a id="r2-s3"></a>
+
+**Source sense R2.S3**
+
+3. Whose branches bear no leaves; leafless.
+
+   **Usage:** not-comparable; bush; etc; bush; etc
+
+   **Source topics (extractor hierarchy; not curated):** government; heraldry; hobbies; lifestyle; monarchy; nobility; politics
+
+   **Source context (verbatim):** of a tree
+
+<a id="r2-s4"></a>
+
+**Source sense R2.S4**
+
+4. Accursed; damned.
+
+   **Usage:** colloquial; not-comparable
+
+   **Example:** I've tried for 2 hours to make this blasted part fit, and it still won’t go in.
+
+<a id="r2-s5"></a>
+
+**Source sense R2.S5**
+
+5. Intoxicated, drunk.
+
+   **Usage:** not-comparable; slang
+
+   **Example:** Dude, we got blasted last night.
+
+### Related words
+
+**Source synonyms:** exploded — subjected to explosion; damned — cursed; drunk — intoxicated
+
+<a id="r3"></a>
+
+## Adverb · Record 3
+
+### Pronunciation
+
+- IPA: /ˈblɑː.stɪd/ — source labels: UK
+- IPA: /ˈblæs.tɪd/ — source labels: Canada; US
+- IPA: /ˈblaː.stɪd/ — source labels: Australia
+
+### Forms
+
+- more blasted — comparative
+- most blasted — superlative
+
+### Senses
+
+<a id="r3-s1"></a>
+
+**Source sense R3.S1**
+
+1. Damned; extremely.
+
+   **Usage:** colloquial
+
+   **Example:** That dog is so blasted stubborn.
+
+## Source gaps
+
+etymology absent in 3 of 3 source records; eligible usage examples absent in 2 of 7 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/blasted#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=blasted&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

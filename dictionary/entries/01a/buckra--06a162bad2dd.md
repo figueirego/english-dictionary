@@ -1,0 +1,108 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-06a162bad2ddff1f5e88"
+headword: "buckra"
+language: "en"
+source_records: 2
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/buckra#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=buckra&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["0d67df8ec9d6f1df3764cfb89a95f22b963db2597d536a1d5034b8f9f35a8902", "9f12aee6c82f26aa96277a3924e21343205150e4123ab6110b2eaa61eef6d0ef"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "90475ad948d0f03127e0e3dac06d3657295f9073ad08d94337f0be98a553abfa"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 198, "examples_withheld": 0}
+parent_source_record_sha256: ["49d633e93a472b070973b998a061e6c90b3a4e142d6c2e958df6474a418b99f7", "5a8a0d8f67a8fcbd8130a18ca8783ea2763da81ec81399cede2e3c299a5e9d2c"]
+---
+
+# buckra
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Forms
+
+- buckras — plural
+- backra — alternative
+- bakra — alternative
+- buccra — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A white person.
+
+   **Usage:** Caribbean; derogatory
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A poor white person.
+
+   **Usage:** archaic; dated; derogatory; African-American Vernacular
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Adjective · Record 2
+
+### Forms
+
+- backra — alternative
+- bakra — alternative
+- buccra — alternative
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. White.
+
+   **Usage:** archaic; not-comparable; African-American Vernacular
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/buckra#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=buckra&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

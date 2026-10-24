@@ -1,0 +1,65 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-13f2f0734aa96477c4c7"
+headword: "blow me up"
+language: "en"
+source_records: 1
+sense_count: 1
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/blow%20me%20up#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=blow%20me%20up&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["463510638ec21ff38f68c5e4dc5e4a774b9f1d5c0915445a2e820671f0921adb"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "42be3dbbeece8db09fef21d26204a2f422f665d1b59aff764282e4e53e8386f9"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["463510638ec21ff38f68c5e4dc5e4a774b9f1d5c0915445a2e820671f0921adb"]
+---
+
+# blow me up
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Interjection
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. An expression of surprise.
+
+   **Usage:** UK; archaic; slang
+
+   **Source synonyms:** adzooks (archaic); ay; caramba; mirabile dictu; chihuahua; begorra (Ireland; dated); bleeding heck; bleeding Nora; bless my heart; bless my soul; bless us; blige (UK); blimey; bloody hell; bloody Nora; blow me (UK; dated); blow me backwards (UK; dated); blow me down; blow me over (UK; dated); blow me pink (UK; dated); blow me tight (UK; dated); blow me up (UK; dated); blow my buttons (UK; dated); butter my butt and call me a biscuit; by all that is holy; by Allah; by cracky; by George; by God; by golly; by gosh; by gum; by gummy; by jingo; by Jove; by juckies; by Jupiter; by thunder; by the living jingo; byrlady (obsolete); Christ; Christ alive; Christ almighty; Christ on a bike; Christ on a cracker; Christ on a raft; Christ on a stick; Christ on a crutch; coo; cor (UK); cor blimey (UK); cor lummy (UK); cowabunga (humorous); crikey (Australia; New-Zealand; UK); criminy; cripes; crivvens (Scotland; UK); chuffing hell (UK); dear God; dear me; dearie me; deary me; dear Lord; diggety; eep; egad; egads; ermahgerd; fancy that; flaming Nora (UK); flipping heck; flipping Nora (UK); fuark; fuck me; fucking hell; fucking Nora (UK); gad so; Gadsbodikins (archaic); gadsbud (archaic); gadzooks (archaic); gaw; gee (US; dated); gee whiz (US; dated); gee willikers (US; dated); geeminy; geez; geez Louise (US); geshmak; get out of town; glory be; God Almighty; God in heaven; God's teeth; good golly; golly; golly gee willikers; golly gosh; good God; good gracious; good gravy; good grief; good heavens; good Lord; goodness; goodness gracious; goodness gracious me; goodness me; googly-moogly; gorblimey; Gordon Bennett (UK); gosh; gosh all hemlock; gracious; gramercy; great balls of fire; great Caesar; great Caesar's ghost; great googly moogly; great Scott; gyatt (African-American-Vernacular-English; slang); hallo; hello; heavens; heavens above; heavens to Betsy; heavens to Murgatroyd; hell's bells; hey; heyday (obsolete); hold up; holy buckets; holy cannoli; holy cow; holy crap; holy crap on a cracker; holy cricket; holy crickets; holy crud; holy dignity; holy doodle; holy fuck; holy fuck knuckles; holy fudge (euphemistic); holy guacamole; holy Hannah; holy hell; holy kamoley; holy kamoly; holy macaroni; holy mackerel; holy magnum; holy moley; holy moly; holy man; holy Moses; Holy Mother; Holy Mother of God; holy ravioli; holy shit; holy stromboli; holy smoke; holy Toledo; hooly dooly; hot damn; I'll be; I'll be a dirty bird!; I'll be a monkey's uncle; I'll be a son of a bitch; I'll be a son of a gun; I'll be blowed; I'll be bound; I'll be buggered; I'll be damned; I'll be danged; I'll be darned; I'll be dashed; I'll be dipped; I'll be dipped in shit; I'll be hanged; I'll be hornswoggled; I'll be jiggered; I'll be shot; imagine that; I'm blowed (UK; dated); I say; Janey Mack (Ireland); Jaysus; Jeebus; jeepers; jeepers creepers; jeez; jeez Louise; jeezy peeps (Scotland); jeezy-peezy; Jerusalem crickets; Jesum Crow; Jesus; Jesus Christ; Jesus fuck; Jesus H. Christ; Mary and Joseph; Jesus Murphy (Canada); Jiminy Cricket; jings (Scotland); jinkies; Judas Priest; jumping Jehoshaphat; jumping Jesus; Jupiter; knock me down with a feather; knock me over with a feather; land sakes; lauks; lawks; lawks a-mercy; lawl; leapin' lizards; Lord; Lord be praised; Lord love a duck; lordy; mama mia; mamma mia; man alive; mercy sakes; Mother of God; mother of Pearl; my; my conscience (obsolete); my giddy aunt (Britain; dated); my heavens; my sainted aunt (Britain; dated); my sainted uncle (Britain; dated); my God; my goodness; my gosh; my Lord; my my; my word; no way; O gemini; ods bodikin (archaic); odsfish; odzookens (archaic); oh; oh em gee; ohmigod; oh my; oh my days; oh my God; oh my Goddess; oh my goodness; oh my goodness gracious; oh my gosh; oh my hell; oh my heck; oh my fuck; oh my life; oh my Lord; oh my stars; oh my word; oi; OMG (Internet; slang); omigod; omigosh; peas and rice; please; praise the Lord; rah (Multicultural-London-English); ruddy hell (UK); ruddy Nora (UK); sacré bleu; sakes alive; 'sblood (archaic); 'sdeath (archaic); shart (obsolete); 'sheart (obsolete); sheesh; shit fire and save matches; shitting Nora (UK); shiver my timbers; shut my mouth; shut the front door; slap my ass and call me Judy; slap my ass and call me Sally; snakes alive; sodding hell; son of a gun; stone me; stone the crows (rare); strewth; strike me pink; 'struth (archaic); suffering centipedes; suffering Moses; suffering Sappho; suffering succotash; sweet Grandma on stilts; sweet Jesus; sweet Mary; sweet mother of God; sweet mother of Jesus; waow; well; I never; what; what do you know (often; sarcastic); whoa; whoah; wow; wowee; wowzers; ye gods; yikes; yikes bikes; you don't say (often; sarcastic); yowzah; zoiks; zoinks; ZOMG (Internet; slang); ZOMFG (Internet; slang); zooterkins (archaic); zound (archaic); zounds (archaic); zowie
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; etymology absent in 1 of 1 source records; eligible usage examples absent in 1 of 1 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/blow%20me%20up#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=blow%20me%20up&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

@@ -1,0 +1,159 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-1f5fd208e76f827c0ec0"
+headword: "St. John"
+language: "en"
+source_records: 1
+sense_count: 13
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/St.%20John#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=St.%20John&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["8ff75531d0d845e26609c436ca781ce7a35a26d451120b784fd0df3b96fda5fa"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "049e554fb5871c46c475ad6fb1b223dbf680e66ea6078108aee105889f9357ac"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["8ff75531d0d845e26609c436ca781ce7a35a26d451120b784fd0df3b96fda5fa"]
+---
+
+# St. John
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Proper noun
+
+### Pronunciation
+
+- IPA: /ˌseɪnt ˈd͡ʒɒn/ — source labels: Received-Pronunciation
+- IPA: /sən(t)ˈd͡ʒɒn/ — source labels: Received-Pronunciation
+- IPA: /ˈsɪnd͡ʒən/ — source labels: Received-Pronunciation; name
+- IPA: /ˌseɪnt ˈd͡ʒɑn/ — source labels: General-American
+- IPA: /ˈsɪnd͡ʒən/ — source labels: General-American; name
+
+### Forms
+
+- St John — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Alternative form of Saint John.
+
+   **Usage:** alt-of; alternative
+
+   **Alternative form of:** [Saint John](../20f/saint-john--83ff8096fefa.md)
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. An English surname from Old French.
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. A male given name transferred from the surname.
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. A locale in the United States.
+   1. An unincorporated community in Florida.
+
+<a id="r1-s5"></a>
+
+**Source sense R1.S5**
+
+5. A locale in the United States.
+   1. A town in Lake County, Indiana, partly within St. John Township; named for early settler John Hack.
+
+<a id="r1-s6"></a>
+
+**Source sense R1.S6**
+
+6. A locale in the United States.
+   1. A township in Lake County, Indiana.
+
+<a id="r1-s7"></a>
+
+**Source sense R1.S7**
+
+7. A locale in the United States.
+   1. A city, the county seat of Stafford County, Kansas; named for Kansas Governor John St. John.
+
+<a id="r1-s8"></a>
+
+**Source sense R1.S8**
+
+8. A locale in the United States.
+   1. A city in St. Louis County, Missouri.
+
+<a id="r1-s9"></a>
+
+**Source sense R1.S9**
+
+9. A locale in the United States.
+   1. An inactive township in New Madrid County, Missouri.
+
+<a id="r1-s10"></a>
+
+**Source sense R1.S10**
+
+10. A locale in the United States.
+   1. An unincorporated community in Pulaski County, Missouri.
+
+<a id="r1-s11"></a>
+
+**Source sense R1.S11**
+
+11. A locale in the United States.
+   1. A minor city in Rolette County, North Dakota.
+
+<a id="r1-s12"></a>
+
+**Source sense R1.S12**
+
+12. A locale in the United States.
+   1. A town in Whitman County, Washington; named for early settler E. T. St. John.
+
+<a id="r1-s13"></a>
+
+**Source sense R1.S13**
+
+13. A locale in the United States.
+   1. An unincorporated community in the town of Woodville, Calumet County, Wisconsin.
+
+## Source gaps
+
+etymology absent in 1 of 1 source records; eligible usage examples absent in 13 of 13 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/St.%20John#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=St.%20John&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

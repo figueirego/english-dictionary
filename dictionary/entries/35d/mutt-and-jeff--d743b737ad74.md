@@ -1,0 +1,110 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-d743b737ad7482b81f52"
+headword: "Mutt and Jeff"
+language: "en"
+source_records: 3
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Mutt%20and%20Jeff#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Mutt%20and%20Jeff&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["dac1d336bd9c8e01a63bff84aadcb3c64ca922f1e261d1a4a5e760c59fe36917", "8b1f5a97bfd376767d74acbbe829f608d9f9d7a6e3fcaafd5eb8f251f4ae073d", "75fde0c34311d498d92efa37ca363af6d0dea0392237730fe0322d9e31a5b9e6"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "0eafbcaab2480e023253e33bef6bb2a590bfabb8cd274807c6e214aa1f8cbb28"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 3, "etymology_sections_withheld": 3, "etymology_utf8_bytes_withheld": 315, "examples_withheld": 0}
+parent_source_record_sha256: ["a091c6997c075a6799428eadf0406a00615c53251b64d21246a362942267dabe", "49c55344afadf55b78138836f6527da7a607ca2c7f58429d6086b5e6a1642cbf", "46d181bd8f4e55f494b2cd6197134855e87105096814a9e47d450b668988925a"]
+---
+
+# Mutt and Jeff
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Proper noun · Record 1
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Names given to a pair of companions, usually male, of whom one is tall and the other short.
+
+   **Usage:** US; plural; plural-only; slang
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Noun · Record 2
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Synonym of good cop bad cop.
+
+   **Source synonyms:** good cop bad cop (synonym; synonym-of)
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r3"></a>
+
+## Adjective · Record 3
+
+### Forms
+
+- more Mutt and Jeff — comparative
+- most Mutt and Jeff — superlative
+
+### Senses
+
+<a id="r3-s1"></a>
+
+**Source sense R3.S1**
+
+1. Deaf.
+
+   **Usage:** Cockney; comparable; slang
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 3 of 3 source records; eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Mutt%20and%20Jeff#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Mutt%20and%20Jeff&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

@@ -1,0 +1,99 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-2679ea4b6f73c148d024"
+headword: "overrespect"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/overrespect#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=overrespect&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["c873c1f1aec40cc4b751b94f31635bfc952367f3ce4c400cecb83f61658249ce", "674351f4509320fc0b0bb55219153bdbee797ef2d85b8300762a603ea02cb7ed"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "fbf367919cd9f1afac865cbd7dc64fde0e4a3e5c5d27756d6d89278f5a7c401b"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 42, "examples_withheld": 0}
+parent_source_record_sha256: ["013794063cc4db44503332a62225dc052460048c1b4666c2ce3ac5fd2d9c083c", "343c3d2e6091e6eaca8eeab1bde264338e843b27ee210edbed89da1d646c7b44"]
+---
+
+# overrespect
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Verb · Record 1
+
+### Forms
+
+- overrespects — present; singular; third-person
+- overrespecting — participle; present
+- overrespected — participle; past
+- overrespected — past
+- over-respect — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. To show excessive respect for (something or someone).
+
+   **Usage:** transitive
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Noun · Record 2
+
+### Forms
+
+- over-respect — alternative
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Excessive respect.
+
+   **Usage:** countable; no-plural; uncountable
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/overrespect#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=overrespect&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

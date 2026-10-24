@@ -1,0 +1,96 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-a76bc0cbe144ee9fedd9"
+headword: "maladministration"
+language: "en"
+source_records: 1
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/maladministration#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=maladministration&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["4ace6e3e85b9ee22c0ba8370919d46a90c81b7c4fa1d40433ea9be4bc6f5110e"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1, "source_topic_labels_restored": 2}
+editorial_change_count: 3
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "33234cd1a6cf78b60a22ebe7eb591b4af742339177fcb5e8b9c2ed42d287c8fc"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 80, "examples_withheld": 0}
+parent_source_record_sha256: ["7c9401271f5047d64054988d0e474f4c29bf6f868dbc9f11d54058e53bb5cb24"]
+---
+
+# maladministration
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Pronunciation
+
+- IPA: /ˌmælədˌmɪnɪˈstɹeɪʃn̩/ — source labels: Received-Pronunciation
+- IPA: /ˌmælədˌmɪnəˈstɹeɪʃən/ — source labels: General-American
+
+### Forms
+
+- maladministrations — plural
+- maleadministration — alternative
+- male-administration — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Faulty, improper, or inefficient administration or management, especially by a government body; (countable) an instance of this.
+
+   **Usage:** uncountable
+
+   **Example:** To combat maladministration and improve government efficiency, the ombudsman was established to function as an independent watchdog.
+
+   **Source topics (extractor hierarchy; not curated):** government
+
+   **Source synonyms:** misadministration; mismanagement; misgovernance
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. An act of incorrectly administering a religious rite; also, a religious group that permits such a practice.
+
+   **Usage:** countable; obsolete
+
+   **Source topics (extractor hierarchy; not curated):** Christianity
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 1 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/maladministration#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=maladministration&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

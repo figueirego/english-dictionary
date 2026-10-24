@@ -1,0 +1,293 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-3183caf91d0b8562e3fb"
+headword: "Brandon"
+language: "en"
+source_records: 3
+sense_count: 29
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Brandon#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Brandon&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["781542dce36d7ec4f0d1207706c63d4bb9d4f52d0f71634083c3bff42d28d575", "31322894d64519a6e294c293f8c5d0d0d44637cf4e2c235d0c1d08747833c51c", "32513f7d1428e3c9cffc245ef26dc1188ac3f0ca5f231bd2608d0c61612f07cd"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_topic_labels_restored": 2}
+editorial_change_count: 2
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "a7dcd18e04cb82fce30ce90f6493b6967d770ad8458e59db8fa58cbdc32d79cd"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 3, "etymology_sections_withheld": 3, "etymology_utf8_bytes_withheld": 436, "examples_withheld": 0}
+parent_source_record_sha256: ["6678d5f59a88831048edf1e1f20d09f9aaf6066653ea6a8117933061604330b2", "14937d1c58fe8b31f118ac12547ee307435cd32f403735b7ae50f6549ceff790", "deec5f1ce34717e56ce470e26c25a4128c241f63da390e64069a2d044a5700d2"]
+---
+
+# Brandon
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Proper noun · Etymology 1 · Record 1
+
+### Pronunciation
+
+- IPA: /ˈbɹændən/ — source labels: US
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. An English habitational surname from Old English from any of several places of that name.
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A male given name transferred from the surname, of 1980s and 1990s American and Canadian usage.
+
+   **Example:** Let's go, Brandon!
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. Any of some towns and villages in England&#58;
+   1. A village in Brandon and Byshottles parish, County Durham (OS grid ref NZ2339).
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. Any of some towns and villages in England&#58;
+   1. A small village in Hough-on-the-Hill parish, South Kesteven district, Lincolnshire (OS grid ref SK9048).
+
+<a id="r1-s5"></a>
+
+**Source sense R1.S5**
+
+5. Any of some towns and villages in England&#58;
+   1. A hamlet in Ingram parish, Northumberland (OS grid ref NU0417).
+
+<a id="r1-s6"></a>
+
+**Source sense R1.S6**
+
+6. Any of some towns and villages in England&#58;
+   1. A market town and civil parish with a town council in West Suffolk district, Suffolk, on the border with Norfolk (OS grid ref TL7886).
+
+<a id="r1-s7"></a>
+
+**Source sense R1.S7**
+
+7. Any of some towns and villages in England&#58;
+   1. A small village in Brandon and Bretford parish, Rugby borough, Warwickshire (OS grid ref SP4076).
+
+<a id="r1-s8"></a>
+
+**Source sense R1.S8**
+
+8. A village in Saône-et-Loire department, Bourgogne-Franche-Comté, France.
+
+<a id="r1-s9"></a>
+
+**Source sense R1.S9**
+
+9. A coastal village in County Kerry, Ireland.
+
+<a id="r1-s10"></a>
+
+**Source sense R1.S10**
+
+10. A number of places in the United States&#58;
+   1. A census-designated place in Kiowa County, Colorado.
+
+<a id="r1-s11"></a>
+
+**Source sense R1.S11**
+
+11. A number of places in the United States&#58;
+   1. An unincorporated community and census-designated place in Hillsborough County, Florida.
+
+<a id="r1-s12"></a>
+
+**Source sense R1.S12**
+
+12. A number of places in the United States&#58;
+   1. A minor city in Buchanan County, Iowa.
+
+<a id="r1-s13"></a>
+
+**Source sense R1.S13**
+
+13. A number of places in the United States&#58;
+   1. A charter township in Oakland County, Michigan.
+
+<a id="r1-s14"></a>
+
+**Source sense R1.S14**
+
+14. A number of places in the United States&#58;
+   1. A minor city and township in Douglas County, Minnesota.
+
+<a id="r1-s15"></a>
+
+**Source sense R1.S15**
+
+15. A number of places in the United States&#58;
+   1. A city, the county seat of Rankin County, Mississippi.
+
+<a id="r1-s16"></a>
+
+**Source sense R1.S16**
+
+16. A number of places in the United States&#58;
+   1. A census-designated place in Madison County, Montana.
+
+<a id="r1-s17"></a>
+
+**Source sense R1.S17**
+
+17. A number of places in the United States&#58;
+   1. An unincorporated community in Perkins County, Nebraska.
+
+<a id="r1-s18"></a>
+
+**Source sense R1.S18**
+
+18. A number of places in the United States&#58;
+   1. A town in Franklin County, New York.
+
+<a id="r1-s19"></a>
+
+**Source sense R1.S19**
+
+19. A number of places in the United States&#58;
+   1. An unincorporated community in Ashe County, North Carolina.
+
+<a id="r1-s20"></a>
+
+**Source sense R1.S20**
+
+20. A number of places in the United States&#58;
+   1. An unincorporated community in Knox County, Ohio.
+
+<a id="r1-s21"></a>
+
+**Source sense R1.S21**
+
+21. A number of places in the United States&#58;
+   1. A city and township in Minnehaha County, South Dakota.
+
+<a id="r1-s22"></a>
+
+**Source sense R1.S22**
+
+22. A number of places in the United States&#58;
+   1. An unincorporated community in Hill County, Texas.
+
+<a id="r1-s23"></a>
+
+**Source sense R1.S23**
+
+23. A number of places in the United States&#58;
+   1. A town and census-designated place therein, in Rutland County, Vermont.
+
+<a id="r1-s24"></a>
+
+**Source sense R1.S24**
+
+24. A number of places in the United States&#58;
+   1. A village in Fond du Lac County, Wisconsin.
+
+<a id="r1-s25"></a>
+
+**Source sense R1.S25**
+
+25. A city in south-west Manitoba, Canada.
+
+<a id="r1-s26"></a>
+
+**Source sense R1.S26**
+
+26. A rural town in the Shire of Burdekin, Queensland, Australia.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Proper noun · Etymology 2 · Record 2
+
+### Pronunciation
+
+- IPA: /ˈbɹændən/ — source labels: US
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. A surname from Irish \[in turn originating as a patronymic\] from the Gaelic Mac Breandáin.
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. A male given name transferred from the surname, of 1980s and 1990s American usage, variant of Brendan.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r3"></a>
+
+## Proper noun · Etymology 3 · Record 3
+
+### Pronunciation
+
+- IPA: /ˈbɹændən/ — source labels: US
+
+### Senses
+
+<a id="r3-s1"></a>
+
+**Source sense R3.S1**
+
+1. Joe Biden.
+
+   **Usage:** US; derogatory
+
+   **Source topics (extractor hierarchy; not curated):** government; politics
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 28 of 29 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Brandon#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Brandon&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

@@ -1,0 +1,87 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-c9d7ed34ba7890f69090"
+headword: "I'm"
+language: "en"
+source_records: 1
+sense_count: 1
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/I%27m#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=I%27m&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["2625e831d56c21096cc3554be2dc84513698d19640e00a9b1cb7174abc133d2a"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1, "source_relation_groups_labelled": 1}
+editorial_change_count: 2
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "2f1e4e6caca0edf37dd4e0f940058004f81328edcb46a662ed59028441c94445"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 451, "examples_withheld": 0}
+parent_source_record_sha256: ["a724be5d97688f502bb9afc00cd65e60336a547e4743f870e778f3b705da4d07"]
+---
+
+# I'm
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Contraction
+
+### Pronunciation
+
+- IPA: /aɪm/ — source labels: Received-Pronunciation; UK
+- IPA: /aːm/ — source labels: Northumbria; UK
+- IPA: /a(ɪ)m/ — source labels: US
+- IPA: /əm/ — source labels: also; unstressed
+- IPA: /ʌm/ — source labels: also; unstressed
+
+### Forms
+
+- I 'm — alternative; obsolete
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Contraction of I + am.
+
+   **Usage:** abbreviation; alt-of; contraction
+
+   **Alternative form of:** [I](../2a0/i--a83dd0ccbffe.md)
+
+### Related words
+
+**Source synonyms:** am (dialectal; informal); cham (West-Country; obsolete)
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 1 of 1 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/I%27m#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=I%27m&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

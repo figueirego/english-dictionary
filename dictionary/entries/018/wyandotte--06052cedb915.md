@@ -1,0 +1,174 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-06052cedb915a84052cc"
+headword: "Wyandotte"
+language: "en"
+source_records: 2
+sense_count: 10
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Wyandotte#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Wyandotte&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["0604fb1c698d1aace3a97444be392f01a084ea703a3d15d3a8da8c578465591a", "3d804ea1625edd1779307acadab394aabd60b9c1b8bbb9570013e916e9c1de14"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 2, "unspecified_pronunciations_labelled": 4}
+editorial_change_count: 6
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "b1bf3f29fbc60d6f333f990ecd4a52afb3bb509c826359d30782b3cad04a7fe4"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 40, "examples_withheld": 0}
+parent_source_record_sha256: ["9656987e71bbd1cfa1a96989bf41ac2e96384c5fa1c6a47cb83159cebe506f0f", "1aec92c385dbf02e9733db54527156c378a6ddf07bd90b9b15e34a3294282af1"]
+---
+
+# Wyandotte
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Proper noun · Record 1
+
+### Pronunciation
+
+- IPA: /ˈwaɪənˌdɒt/ — variety unspecified in the source labels
+- IPA: /ˈwaɪnˌdɒt/ — variety unspecified in the source labels
+
+### Forms
+
+- Wendat — alternative
+- Wyandot — alternative
+- Wyandott — alternative
+- Guyandotte — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Alternative spelling of Wyandot.
+
+   **Usage:** alt-of; alternative; Native Americans
+
+   **Alternative form of:** [Wyandot](../0b1/wyandot--2c4833f51c7b.md)
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A number of places in the United States&#58;
+   1. An unincorporated community in Butte County, California.
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. A number of places in the United States&#58;
+   1. A former city and district of Kansas City, Wyandotte County, Kansas.
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. A number of places in the United States&#58;
+   1. A neighbourhood of Louisville, Kentucky. Former name&#58; Oakdale.
+
+<a id="r1-s5"></a>
+
+**Source sense R1.S5**
+
+5. A number of places in the United States&#58;
+   1. A city in Wayne County, Michigan.
+
+<a id="r1-s6"></a>
+
+**Source sense R1.S6**
+
+6. A number of places in the United States&#58;
+   1. A township in Pennington County, Minnesota.
+
+<a id="r1-s7"></a>
+
+**Source sense R1.S7**
+
+7. A number of places in the United States&#58;
+   1. A town in Ottawa County, Oklahoma.
+
+<a id="r1-s8"></a>
+
+**Source sense R1.S8**
+
+8. A number of places in the United States&#58;
+   1. Ellipsis of Wyandotte County.
+
+      **Usage:** abbreviation; alt-of; ellipsis
+
+      **Alternative form of:** [Wyandotte County](../000/wyandotte-county--002ce98fcd70.md)
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Noun · Record 2
+
+### Pronunciation
+
+- IPA: /ˈwaɪənˌdɒt/ — variety unspecified in the source labels
+- IPA: /ˈwaɪnˌdɒt/ — variety unspecified in the source labels
+
+### Forms
+
+- Wyandottes — plural
+- Wyandotte — plural
+- Wendat — alternative
+- Wyandot — alternative
+- Wyandott — alternative
+- Guyandotte — alternative
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. A member of the Wyandotte people.
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. A breed of poultry.
+
+   **Usage:** plural always with "-s"
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 10 of 10 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Wyandotte#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Wyandotte&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

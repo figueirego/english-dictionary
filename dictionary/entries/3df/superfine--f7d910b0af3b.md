@@ -1,0 +1,100 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-f7d910b0af3b1707c5f9"
+headword: "superfine"
+language: "en"
+source_records: 1
+sense_count: 5
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/superfine#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=superfine&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["71df75f5db22121f94400b45fa57e2ae039f919398ee23f9b4273dbadff39073"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "4089f937f4cfa625da6176958e274d1dbe301f30d6f16c2c9b9f59ba3f14364e"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 207, "examples_withheld": 0}
+parent_source_record_sha256: ["38b5d4f9373fe5c025094051c708d3ca86e8555c37b015e8a8bbe3764ad33036"]
+---
+
+# superfine
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective
+
+### Forms
+
+- more superfine — comparative
+- most superfine — superlative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Extremely subtle or refined; extremely sensitive to slight impressions or perceptions.
+
+   **Source synonyms:** extrafine
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Extremely refined or sophisticated; very elegant.
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. Having an especially fine size or texture; made of very small particles or threads.
+
+   **Example:** Some recipes call for superfine sugar because it dissolves easier.
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. Of a very high or pure grade or quality.
+
+<a id="r1-s5"></a>
+
+**Source sense R1.S5**
+
+5. Very good, excellent.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; eligible usage examples absent in 4 of 5 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/superfine#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=superfine&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

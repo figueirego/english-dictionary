@@ -1,0 +1,95 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-4457ec6d033a5c1a4860"
+headword: "overcook"
+language: "en"
+source_records: 1
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/overcook#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=overcook&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["387b013ac780e72dcca8e1ae4df77d108a33af8c7164d827db62e77178586fa7"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "45d1c8b1b0393ae31ccbedbb029b261b468b1fdbacdbf0c1952ac0d758b17965"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 18, "examples_withheld": 0}
+parent_source_record_sha256: ["b11ba71ecf9d2a24b2c3295becdf990dcb33a4bfe169a38511d4cd0ad1d5364f"]
+---
+
+# overcook
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Verb
+
+### Pronunciation
+
+- IPA: /oʊ.vɚ.kʊk/ — source labels: US
+
+### Forms
+
+- overcooks — present; singular; third-person
+- overcooking — participle; present
+- overcooked — participle; past
+- overcooked — past
+- over-cook — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. To cook for too long or at too high a temperature.
+
+   **Usage:** transitive
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. To do something to excess; to overdo; to ruin due to excessive effort.
+
+   **Usage:** slang; transitive
+
+   **Example:** The runner overcooked it on the first lap, and ended up finishing last.
+
+### Related words
+
+**Source antonyms:** undercook
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 1 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/overcook#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=overcook&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

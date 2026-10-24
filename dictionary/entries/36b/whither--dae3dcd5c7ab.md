@@ -1,0 +1,291 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-dae3dcd5c7aba60fd983"
+headword: "whither"
+language: "en"
+source_records: 4
+sense_count: 16
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/whither#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=whither&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["39303760758d58657ebfe83dfd969cd46ccc3fbc7ff304f50d19d1e8d657bacd", "fd49540f9b8df654a8dba7532e5ceef45a5319b46f85bf2a8d7bcbc25ecff93d", "9d9517b83b0946a3433910efbcc16ca2caa9567c7ec617dc59fa23f2adff33fe", "929b55bd3cde88c2d04bbaf520aaeb3be3fa9331975cd6c6975acdaf53dd6377"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 2}
+editorial_change_count: 2
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "07c2f82a05859030065f2b0f1a141b117a8608e8c6ad0ece256303fe683d9254"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 4, "etymology_sections_withheld": 4, "etymology_utf8_bytes_withheld": 1512, "examples_withheld": 0}
+parent_source_record_sha256: ["a25f8bccbfe86fedda92c2e1e7c1e73dbd48abcd54ea8ab3904deabe38975f56", "25d7f2b5ecca56e2434041e136b141ed5312eadf214082ae26fac30633f32876", "8150143739abf15db940344af285aeff1b4f6f5b86a52fa20d782f1f56b40aa8", "9630f2077ad768b8d29000ed34b1bd33ecaa049311b629070f5cce8fb5b4f740"]
+---
+
+# whither
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adverb · Etymology 1 · Record 1
+
+### Pronunciation
+
+- IPA: /ˈwɪðəː/ — source labels: Received-Pronunciation
+- IPA: \[ˈwɪðəː\] — source labels: Received-Pronunciation
+- IPA: /ˈʍɪðəː/ — source labels: Received-Pronunciation
+- IPA: \[ˈʍɪðəː\] — source labels: Received-Pronunciation
+- IPA: /ˈwɪðɚ/ — source labels: General-American
+- IPA: \[ˈwɪðɚ\] ~ \[ˈwɪðɹ̩\] — source labels: General-American
+- IPA: /ˈʍɪðɚ/ — source labels: General-American
+- IPA: \[ˈʍɪðɚ\] ~ \[ˈʍɪðɹ̩\] — source labels: General-American
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Interrogative senses.
+   1. To what place; where.
+
+      **Usage:** not-comparable
+
+      **Example:** Whither wilt thou wander, wayfarer?
+
+      **Source antonyms:** whence
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Interrogative senses.
+   1. To what (future) cause, condition or state, reason, etc.; where, where next; also (obsolete) to what extent; how far.
+
+      **Usage:** also; figuratively; humorous; not-comparable
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. Relative senses.
+   1. To which place; also (after a noun denoting a place) to which.
+
+      **Usage:** not-comparable
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. Relative senses.
+   1. To the place in or to which.
+
+      **Usage:** not-comparable
+
+<a id="r1-s5"></a>
+
+**Source sense R1.S5**
+
+5. Relative senses.
+   1. In or to any place to which; to whatever place; wherever.
+
+      **Usage:** not-comparable; generally
+
+      **Source synonyms:** whithersoever
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Noun · Etymology 1 · Record 2
+
+### Pronunciation
+
+- IPA: /ˈwɪðəː/ — source labels: Received-Pronunciation
+- IPA: \[ˈwɪðəː\] — source labels: Received-Pronunciation
+- IPA: /ˈʍɪðəː/ — source labels: Received-Pronunciation
+- IPA: \[ˈʍɪðəː\] — source labels: Received-Pronunciation
+- IPA: /ˈwɪðɚ/ — source labels: General-American
+- IPA: \[ˈwɪðɚ\] ~ \[ˈwɪðɹ̩\] — source labels: General-American
+- IPA: /ˈʍɪðɚ/ — source labels: General-American
+- IPA: \[ˈʍɪðɚ\] ~ \[ˈʍɪðɹ̩\] — source labels: General-American
+
+### Forms
+
+- whithers — plural
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. A place to which someone or something goes; also, a condition to which someone or something moves.
+
+   **Usage:** formal; archaic except literary or poetic
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r3"></a>
+
+## Verb · Etymology 2 · Record 3
+
+### Pronunciation
+
+- IPA: /ˈwɪðəː/ — source labels: Received-Pronunciation
+- IPA: \[ˈwɪðəː\] — source labels: Received-Pronunciation
+- IPA: /ˈʍɪðəː/ — source labels: Received-Pronunciation
+- IPA: \[ˈʍɪðəː\] — source labels: Received-Pronunciation
+- IPA: /ˈwɪðɚ/ — source labels: General-American
+- IPA: \[ˈwɪðɚ\] ~ \[ˈwɪðɹ̩\] — source labels: General-American
+- IPA: /ˈʍɪðɚ/ — source labels: General-American
+- IPA: \[ˈʍɪðɚ\] ~ \[ˈʍɪðɹ̩\] — source labels: General-American
+
+### Forms
+
+- whithers — present; singular; third-person
+- whithering — participle; present
+- whithered — participle; past
+- whithered — past
+- wuther — alternative
+
+### Senses
+
+<a id="r3-s1"></a>
+
+**Source sense R3.S1**
+
+1. To cause (someone) to hurry; to hasten, to hurry.
+
+   **Usage:** Scotland; UK; dialectal; especially; transitive
+
+<a id="r3-s2"></a>
+
+**Source sense R3.S2**
+
+2. To throw (something) forcefully; to hurl; also, to beat, to thrash.
+
+   **Usage:** Scotland; UK; dialectal; especially; transitive
+
+<a id="r3-s3"></a>
+
+**Source sense R3.S3**
+
+3. To shake (vigorously); to tremble.
+
+   **Usage:** Scotland; UK; dialectal; especially; intransitive
+
+<a id="r3-s4"></a>
+
+**Source sense R3.S4**
+
+4. To move quickly, to rush, to whiz; also, to make a rushing sound; to whizz.
+
+   **Usage:** Scotland; UK; dialectal; especially; intransitive
+
+<a id="r3-s5"></a>
+
+**Source sense R3.S5**
+
+5. Of the wind&#58; to blow loudly and vigorously; to bluster; also, of an animal, etc.&#58; to make a loud noise; to bellow, to roar.
+
+   **Usage:** Scotland; UK; dialectal; especially; intransitive
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r4"></a>
+
+## Noun · Etymology 2 · Record 4
+
+### Pronunciation
+
+- IPA: /ˈwɪðəː/ — source labels: Received-Pronunciation
+- IPA: \[ˈwɪðəː\] — source labels: Received-Pronunciation
+- IPA: /ˈʍɪðəː/ — source labels: Received-Pronunciation
+- IPA: \[ˈʍɪðəː\] — source labels: Received-Pronunciation
+- IPA: /ˈwɪðɚ/ — source labels: General-American
+- IPA: \[ˈwɪðɚ\] ~ \[ˈwɪðɹ̩\] — source labels: General-American
+- IPA: /ˈʍɪðɚ/ — source labels: General-American
+- IPA: \[ˈʍɪðɚ\] ~ \[ˈʍɪðɹ̩\] — source labels: General-American
+
+### Forms
+
+- whithers — plural
+- wuther — alternative
+
+### Senses
+
+<a id="r4-s1"></a>
+
+**Source sense R4.S1**
+
+1. A state of rushed action; a haste, a hurry; also, a state of anger or excitement.
+
+   **Usage:** Scotland; UK; dialectal; especially
+
+<a id="r4-s2"></a>
+
+**Source sense R4.S2**
+
+2. A forceful blow or hit.
+
+   **Usage:** Scotland; UK; dialectal; especially
+
+<a id="r4-s3"></a>
+
+**Source sense R4.S3**
+
+3. An act of shaking (vigorously); a shiver, a tremble; also, a slight bout of discomfort or illness.
+
+   **Usage:** Scotland; UK; dialectal; especially
+
+<a id="r4-s4"></a>
+
+**Source sense R4.S4**
+
+4. The sound of something moving quickly; a rush, a whiz.
+
+   **Usage:** Scotland; UK; dialectal; especially
+
+<a id="r4-s5"></a>
+
+**Source sense R4.S5**
+
+5. A gust of wind; a bluster.
+
+   **Usage:** Scotland; UK; dialectal; especially
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 15 of 16 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/whither#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=whither&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

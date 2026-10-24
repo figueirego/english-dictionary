@@ -1,0 +1,83 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-f88eaa931fad7c7b6a9f"
+headword: "object language"
+language: "en"
+source_records: 1
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/object%20language#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=object%20language&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["f0d70c0c308b24a118dc57c05b6766b79cf2c05e4f2ca3e220d760ed00cece3f"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_topic_labels_restored": 13}
+editorial_change_count: 13
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "ab6efa053a1f4b2c6437f018295256ffd2263eaa5eda959ac2f3b889bdb007d6"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["f0d70c0c308b24a118dc57c05b6766b79cf2c05e4f2ca3e220d760ed00cece3f"]
+---
+
+# object language
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Forms
+
+- object languages — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A language or a part of a language that is used to speak about objects but not about sentences or propositions.
+
+   **Source topics (extractor hierarchy; not curated):** human-sciences; philosophy; sciences
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. the language of the headwords in a dictionary (in a French-to-English translation dictionary, French is the object language)
+
+   **Source topics (extractor hierarchy; not curated):** human-sciences; lexicography; linguistics; sciences
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. target language; the language of the object code, the output of a compiler (not necessarily executable machine code)
+
+   **Source topics (extractor hierarchy; not curated):** computing; engineering; mathematics; natural-sciences; physical-sciences; sciences
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; etymology absent in 1 of 1 source records; eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/object%20language#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=object%20language&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

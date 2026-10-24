@@ -1,0 +1,143 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-6d785acc7d4ce49fe4e4"
+headword: "excellent"
+language: "en"
+source_records: 2
+sense_count: 5
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/excellent#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=excellent&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["3c89fd413c05de6131ff3881745378d2f6479c947794036f8129977324f22162", "10b14e461dbea70367352aac8437d118e81efe877ab560900117a349c85ec5d9"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 3}
+editorial_change_count: 3
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "d6967b53437686c34a8d58c9b5e25fbacd2f3bbfb06a7a0d2d4278ae30ffaf4c"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 378, "examples_withheld": 0}
+parent_source_record_sha256: ["eb57f34798acc4b30c7829210ad7f2ba0025238126755ac33f2bc7b545ff187e", "d7bf440b6379f07e110fd91f56bd09addb10b0d75dd22d22c49c0a9f8015614b"]
+---
+
+# excellent
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective · Record 1
+
+### Pronunciation
+
+- IPA: /ˈɛk.sə.lənt/ — source labels: Received-Pronunciation
+- IPA: /ˈɛk.sɪ.lənt/ — source labels: Received-Pronunciation
+- IPA: /ˈɛks.lənt/ — source labels: Received-Pronunciation
+- IPA: /ˈɛk.sə.lənt/ — source labels: Canada; General-American
+- IPA: /ˈɛks.lənt/ — source labels: Canada; General-American
+- IPA: /ˈek.sə.lənt/ — source labels: Australia; New-Zealand
+- IPA: /ˈeks.lənt/ — source labels: Australia; New-Zealand
+
+### Forms
+
+- more excellent — comparative
+- most excellent — superlative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Having excelled, having surpassed.
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Of higher or the highest quality; splendid.
+
+   **Source synonyms:** number one
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. Exceptionally good of its kind.
+
+   **Example:** Bill and Ted had an excellent adventure last week in preparation for their history exam.
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. Superior in kind or degree, irrespective of moral quality.
+
+### Related words
+
+**Source synonyms:** ace (Britain; slang); admirable; amazing; awe-inspiring; awesome (colloquial); badass; broyal; bang on; bang-up; studly; based; beatific; beneship; bitching (slang); blissful; bomb (slang); brilliant; bully; celestial; cher (New-Zealand); choice; chronic (slang); chur (New-Zealand); cock on; commendable; cool (slang); copacetic; crackerjack; cushty (Britain; slang); dank (slang); def (slang); delightful; divine; dope (slang); epic; excellent; exceptional; exemplary; exquisite; extraordinary; fab (slang); fabulous; fantabulosa (Polari); fantastic; fierce (Ireland; slang); finger-lickin' good (figuratively); fire (Internet); fireball (slang); first-rate; fly (slang); frabjous; glorious; gnarly; goated (Internet); great; grouse (Australia; New-Zealand; slang); heavenlike; heavenly; immaculate; impeccable; incredible; kick-ass; kicking (slang); killer (slang); lash (Britain; dialectal); lautitious; lit (slang); magnificent; marvelous; nang (Multicultural-London-English); outstanding; out of sight; phat (slang); peak (Internet); peng (Multicultural-London-English); phenomenal; pog (Internet); poggers (Internet); priceless (figuratively; ironic); pukka (Britain; slang); quality (slang); rad (slang); radical (slang); remarkable; rum (obsolete); sensational; sick (slang); slap-up; slick (slang); spectacular; spiffing; splendid; spot on; stellar; sterling; stunning; super; superb; superior; sweet (slang); swell (slang); terrific; tight (slang); top; top-drawer; top-hole (British; dated); top-notch; top-of-the-range; top-shelf; topping (British; dated); tubular (slang); tuff (Internet); well-done; wicked (slang); wicked pissah (New-England; slang); wonderful; worldie (UK; slang)
+
+**Source antonyms:** poor; terrible; bad; inferior
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Adverb · Record 2
+
+### Pronunciation
+
+- IPA: /ˈɛk.sə.lənt/ — source labels: Received-Pronunciation
+- IPA: /ˈɛk.sɪ.lənt/ — source labels: Received-Pronunciation
+- IPA: /ˈɛks.lənt/ — source labels: Received-Pronunciation
+- IPA: /ˈɛk.sə.lənt/ — source labels: Canada; General-American
+- IPA: /ˈɛks.lənt/ — source labels: Canada; General-American
+- IPA: /ˈek.sə.lənt/ — source labels: Australia; New-Zealand
+- IPA: /ˈeks.lənt/ — source labels: Australia; New-Zealand
+
+### Forms
+
+- more excellent — comparative
+- most excellent — superlative
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Excellently.
+
+   **Usage:** obsolete
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 4 of 5 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/excellent#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=excellent&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

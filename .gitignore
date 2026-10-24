@@ -1,0 +1,7 @@
+.public-export-work/
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.DS_Store

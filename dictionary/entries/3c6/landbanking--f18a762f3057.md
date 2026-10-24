@@ -1,0 +1,97 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-f18a762f305750aff57a"
+headword: "landbanking"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/landbanking#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=landbanking&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["8a3ef5a46eafbd653a7ee6e8bb7d9117ab581a32aa013ef28e18b0287a6a8cb3", "454a78b4966f83fcfef294d18d62742e1125f1a93507cd0597b601e7d22824c6"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "2a530ca23effb08fdc00cadf98c0957b27b8b73c0ba56ecfa1a66c07f5251096"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 156, "examples_withheld": 0}
+parent_source_record_sha256: ["430a3e208016062dbc890f06310e06a36ef93eb6d075292a9632f448e7b628c6", "9515f4f6d2efe41354e01c88199f5a8591236edc19c0ec85a7b484ce80499ba0"]
+---
+
+# landbanking
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Forms
+
+- land banking — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. The practice (by house-building firms or investment firms) of holding areas of land in reserve rather than immediately developing, redeveloping, or selling them.
+
+   **Usage:** uncountable
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Verb · Record 2
+
+### Forms
+
+- land banking — alternative
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. present participle and gerund of landbank
+
+   **Usage:** form-of; gerund; participle; present
+
+   **Form of:** [landbank](../0e3/landbank--38e4ca918c2f.md)
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/landbanking#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=landbanking&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

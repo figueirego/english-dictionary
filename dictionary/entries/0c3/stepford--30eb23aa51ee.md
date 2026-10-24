@@ -1,0 +1,116 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-30eb23aa51ee10b5323b"
+headword: "Stepford"
+language: "en"
+source_records: 2
+sense_count: 5
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Stepford#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Stepford&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["4697639023b5ec94cb1e8efe92f8547eda4a8ffb596aa14e14c70664372fe198", "4cb17a41aafbbbd5b06c9ed2647d04a4a56606cccbdad4351ab5747dc17fe07e"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "e6f2c3e182ff6c3b035c397f727d904fbefd40768c9578b08a9a542e240c9d79"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 547, "examples_withheld": 0}
+parent_source_record_sha256: ["4b6af1481b3251bbd257b96f8bf775790f4fb477db8809eedbea2524a41d9129", "813c029e2d0cc60de4289399dd07d98f2284474005f69691d38296925bf8311c"]
+---
+
+# Stepford
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Proper noun · Etymology 1 · Record 1
+
+### Forms
+
+- Stepfords — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A surname.
+
+   **Usage:** countable; uncountable
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A placename
+
+   **Usage:** countable; uncountable
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. A placename&#58;
+   1. A locality in Dumfries and Galloway council area, Scotland (OS grid ref NX8681).
+
+      **Usage:** countable; uncountable
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Adjective · Etymology 2 · Record 2
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Docile, unthinking and conformist.
+
+   **Usage:** not-comparable
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. Attractive but lacking any character.
+
+   **Usage:** not-comparable
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; eligible usage examples absent in 5 of 5 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Stepford#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Stepford&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

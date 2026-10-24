@@ -1,0 +1,75 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-e460b7268e9d7b67ba86"
+headword: "scientific notation"
+language: "en"
+source_records: 1
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/scientific%20notation#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=scientific%20notation&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["3f9691da5bc8334d2075c22deca1518dcbeb7df945601c1cf390afe5498167fe"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_topic_labels_restored": 4}
+editorial_change_count: 4
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "304b75d2a690344dce2bad3e179f93d01a3fbb00c7c1cda2ff9d344b2866e3e4"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["3f9691da5bc8334d2075c22deca1518dcbeb7df945601c1cf390afe5498167fe"]
+---
+
+# scientific notation
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. a method of writing, or of displaying real numbers as a decimal number between 1 and 10 followed by an integer power of 10
+
+   **Usage:** uncountable
+
+   **Source topics (extractor hierarchy; not curated):** mathematics; sciences
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. an alternative format of such a decimal number immediately followed by E and an integer
+
+   **Usage:** uncountable
+
+   **Source topics (extractor hierarchy; not curated):** mathematics; sciences
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; etymology absent in 1 of 1 source records; eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/scientific%20notation#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=scientific%20notation&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

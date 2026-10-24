@@ -1,0 +1,67 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-b264fe8f253526c304cf"
+headword: "all work and no play makes Jack a dull boy"
+language: "en"
+source_records: 1
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/all%20work%20and%20no%20play%20makes%20Jack%20a%20dull%20boy#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=all%20work%20and%20no%20play%20makes%20Jack%20a%20dull%20boy&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["551ee9ebf76204b0880316ff8092c7595c9d3d709344ba623d62c75a599e21de"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "8edf9f246542c91fac9aee28d3bf6b3b2f559b593958a4484555f47a52ae0e43"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["551ee9ebf76204b0880316ff8092c7595c9d3d709344ba623d62c75a599e21de"]
+---
+
+# all work and no play makes Jack a dull boy
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Proverb
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Too much focus on one's career may lead to one being uninteresting company.
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Too much hard work and not enough leisure time can be unhealthy.
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; etymology absent in 1 of 1 source records; eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/all%20work%20and%20no%20play%20makes%20Jack%20a%20dull%20boy#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=all%20work%20and%20no%20play%20makes%20Jack%20a%20dull%20boy&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

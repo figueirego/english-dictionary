@@ -1,0 +1,93 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-32e01e9d70af809f39d9"
+headword: "vexel"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/vexel#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=vexel&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["af0f1e7cedb48ff2ffe22f2b7162b8c33e22ea1cafd90103a03e5036d627dc8a", "934cd932b1b80acf428ace924a55593a8485483db17c576937000931d6495c3f"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"local_relation_links": 1}
+editorial_change_count: 1
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "893d1033dfc376f84e2d12cf2cabb98e169ebb8edb0af4a3ab6387f071fbaf36"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 128, "examples_withheld": 0}
+parent_source_record_sha256: ["af0f1e7cedb48ff2ffe22f2b7162b8c33e22ea1cafd90103a03e5036d627dc8a", "b55dbfee76dbc6d0dfc8a5c3c818e804947033a54e1230452bd7ea31103e13d4"]
+---
+
+# vexel
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Etymology 1 · Record 1
+
+### Forms
+
+- vexels — plural
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Alternative form of veksel.
+
+   **Usage:** alt-of; alternative
+
+   **Alternative form of:** [veksel](../32d/veksel--cb50a88ab2aa.md)
+
+<a id="r2"></a>
+
+## Noun · Etymology 2 · Record 2
+
+### Forms
+
+- vexels — plural
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. A troublemaker, a person who wants to change things.
+
+   **Usage:** US; obsolete; rare
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 1 of 2 source records; eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/vexel#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=vexel&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

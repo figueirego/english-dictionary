@@ -1,0 +1,89 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-ca6aa24720d6488cd01e"
+headword: "spark plug"
+language: "en"
+source_records: 1
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/spark%20plug#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=spark%20plug&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["ebe9fd98f39e0e677034dd456849f5abd37ed99e5f4858eee101c644c3da05ee"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1, "source_topic_labels_restored": 4}
+editorial_change_count: 5
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "b7861ebf13de179de9c84a2c5d7089173e664eb684cbc1a64da3e582c28bb0ef"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 0, "etymology_sections_withheld": 0, "etymology_utf8_bytes_withheld": 0, "examples_withheld": 0}
+parent_source_record_sha256: ["ebe9fd98f39e0e677034dd456849f5abd37ed99e5f4858eee101c644c3da05ee"]
+---
+
+# spark plug
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun
+
+### Forms
+
+- spark plugs — plural
+- sparkplug — alternative
+- sparking plug — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. The part of some internal combustion engines which forms a high-voltage electric spark which ignites the fuel-air mixture to begin the power stroke. (Petrol engines have spark plugs. Diesel engines do not have them because the heat from their high compression ratios supplies the ignition.)
+
+   **Example:** In the 21st century, it is not unusual for a set of spark plugs to last a decade or longer; gone are the days when changing the plugs annually was common.
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Someone who is a driving force in new endeavours.
+
+   **Usage:** figuratively
+
+   **Example:** Helen is a real spark plug. We're lucky she's on the team.
+
+   **Source synonyms:** straw that stirs the drink; catalyst; instigator; mover and shaker; stimulus
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. A rod (for cylindrical secondaries) or sphere (for spherical secondaries) of fissile material at the center of the secondary of a multistage thermonuclear weapon, which undergoes nuclear fission when compressed to supercriticality by the imploding secondary, helping to raise the secondary to the pressures and temperatures necessary to ignite nuclear fusion in the secondary's fusion fuel.
+
+   **Source topics (extractor hierarchy; not curated):** government; military; politics; war
+
+## Source gaps
+
+IPA pronunciation absent in 1 of 1 source records; etymology absent in 1 of 1 source records; eligible usage examples absent in 1 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/spark%20plug#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=spark%20plug&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

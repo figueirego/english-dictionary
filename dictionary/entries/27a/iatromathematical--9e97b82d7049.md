@@ -1,0 +1,87 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-9e97b82d7049479ce7e6"
+headword: "iatromathematical"
+language: "en"
+source_records: 1
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/iatromathematical#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=iatromathematical&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["f66538f02683abd3625d600cc7a2c24d362ed2175e0df479df90c583dfcb4d54"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "e6c7cb78c27208375735ef7520dc938f64d2b28e94d809995f02e8af52e67f2d"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 27, "examples_withheld": 0}
+parent_source_record_sha256: ["ae3224c0deee67a74e9210048a71b8bc94c8a5879a1e857a1969eaf7916f2618"]
+---
+
+# iatromathematical
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Adjective
+
+### Pronunciation
+
+- IPA: /ʌɪˌat.ɹə(ʊ).ma.θəˈma.ti.kəl/ — source labels: UK
+- IPA: /aɪˌæt.ɹoʊ.mæ.θəˈmæ.tɪ.kəl/ — source labels: US
+
+### Forms
+
+- more iatromathematical — comparative
+- most iatromathematical — superlative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. Pertaining to a practice of medicine in conjunction with astrology.
+
+   **Usage:** obsolete
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. Pertaining to a theory or practice of medicine founded on mathematical principles.
+
+   **Usage:** archaic
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/iatromathematical#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=iatromathematical&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

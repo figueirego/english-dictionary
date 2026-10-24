@@ -1,0 +1,79 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-8d94fe2eebc3f4a9ea87"
+headword: "Camp 8"
+language: "en"
+source_records: 2
+sense_count: 2
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Camp%208#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Camp%208&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["36a38c889e871d1eeda4136e99fb02479c07ee0cf24b417e1072e68d3dfc16c5", "0d7cb3da85610c80ff819b306df15997de28ac682664df19f17de921f9558867"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "22cefd5da4598d092251bdd332c642278a7b275b572ca4e5cb9264555bf0f247"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 1, "etymology_sections_withheld": 1, "etymology_utf8_bytes_withheld": 170, "examples_withheld": 0}
+parent_source_record_sha256: ["62ceee6153916ec093101c461ba80847dce5dc07287f7745f9c572b92434ea7f", "0d7cb3da85610c80ff819b306df15997de28ac682664df19f17de921f9558867"]
+---
+
+# Camp 8
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Proper noun · Etymology 1 · Record 1
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A barangay of Baguio, Benguet, Philippines, situated along Kennon Road.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Proper noun · Etymology 2 · Record 2
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. A barangay of Minglanilla, Cebu, Philippines.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; etymology absent in 1 of 2 source records; eligible usage examples absent in 2 of 2 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Camp%208#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Camp%208&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

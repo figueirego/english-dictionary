@@ -1,0 +1,138 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-c857fa4235995e344087"
+headword: "half-pounder"
+language: "en"
+source_records: 2
+sense_count: 7
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/half-pounder#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=half-pounder&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["bd210b2a889a1a19d0b67520e98cbe71b63e8a874af977450d1295c15e6d34ca", "b32e4d4f5961486571015d2b209e65c81cb24ca4923b3d4573d96795c480ed7a"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {"source_relation_groups_labelled": 1, "source_topic_labels_restored": 15}
+editorial_change_count: 16
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "0c9306e2a7d3b8c462d3484830598dfa30b54b3456aeac04094db5edbbac54cb"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 48, "examples_withheld": 0}
+parent_source_record_sha256: ["cc3c0eb21d042c793b50495fe6511d1a799c8a6f02e0e24e337b981e2fd37994", "623d703a3f110ce0abb924abf7dabe98d286ab6463707c3b12cd42aa0a1b28ff"]
+---
+
+# half-pounder
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Noun · Record 1
+
+### Forms
+
+- half-pounders — plural
+- half pounder — alternative
+- halfpounder — alternative
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A beef hamburger sandwich whose patty weighed approximately half a pound prior to being cooked.
+
+   **Source topics (extractor hierarchy; not curated):** cooking; food; lifestyle
+
+<a id="r1-s2"></a>
+
+**Source sense R1.S2**
+
+2. A burger sandwich with a patty of such an uncooked weight, of an alternative to beef.
+
+   **Source topics (extractor hierarchy; not curated):** cooking; food; lifestyle
+
+<a id="r1-s3"></a>
+
+**Source sense R1.S3**
+
+3. A burger patty of such an uncooked weight.
+
+   **Source topics (extractor hierarchy; not curated):** cooking; food; lifestyle
+
+<a id="r1-s4"></a>
+
+**Source sense R1.S4**
+
+4. A food item similar to a patty of such an uncooked weight, such as a meatball.
+
+   **Source topics (extractor hierarchy; not curated):** cooking; food; lifestyle
+
+<a id="r1-s5"></a>
+
+**Source sense R1.S5**
+
+5. A sandwich weighing approximately half a pound.
+
+   **Source topics (extractor hierarchy; not curated):** cooking; food; lifestyle
+
+<a id="r1-s6"></a>
+
+**Source sense R1.S6**
+
+6. Used other than figuratively or idiomatically&#58; see half, pounder&#58; Anything weighing half a pound.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Adjective · Record 2
+
+### Forms
+
+- half pounder — alternative
+- halfpounder — alternative
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. Having a weight of a 1/2 of a pound.
+
+   **Usage:** not-comparable
+
+   **Source synonyms:** half-pound
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; eligible usage examples absent in 7 of 7 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/half-pounder#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=half-pounder&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.

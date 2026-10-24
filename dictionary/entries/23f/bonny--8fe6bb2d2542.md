@@ -1,0 +1,97 @@
+---
+kind: "dictionary-entry"
+schema_version: 1
+entry_id: "en-8fe6bb2d2542e949eff6"
+headword: "Bonny"
+language: "en"
+source_records: 2
+sense_count: 3
+source_id: "enwiktionary"
+snapshot_id: "enwiktionary-2026-10-01-raw-244dcdc56868"
+source_url: "https://en.wiktionary.org/wiki/Bonny#English"
+history_url: "https://en.wiktionary.org/w/index.php?title=Bonny&action=history"
+license: "CC-BY-SA-4.0"
+raw_sha256: "60a6073c7cd3f77a6f76fac8135dc8e34ca38ce1d12052f855fe36a5a1c2f965"
+source_record_sha256: ["8f015d9fe94c241e3be1db917f8dbec735656aecdf9ed2aa56727331a69f0931", "7a03e6d3dad55971980ea907d2f159a10616e1dc7c6bb7525035925bb8f6b2fd"]
+review_status: "automated-source-preserving-corrections; full-linguistic-review-pending"
+editorial_revision: "corrections-v1"
+editorial_changes: {}
+editorial_change_count: 0
+editorial_patches: []
+relation_link_scope: "exact-headword-entry; not sense-resolved"
+parent_entry_sha256: "dea0946872fc02fcd95308918bd0ff7bc5c9193552b1f43d47e2507619f16fa2"
+parent_edition: "full-0afaa5cfe2c789e2"
+public_export_policy: "public-withheld-etymology-v1"
+public_omissions: {"etymology_records_withheld": 2, "etymology_sections_withheld": 2, "etymology_utf8_bytes_withheld": 46, "examples_withheld": 0}
+parent_source_record_sha256: ["c81a8c7a857971dc05c6446e0a81f52b26422c12d036cbead5c1bc16f14243b0", "abbbfe65861c175641f08668058bcf261f625dae0cefb9933ec209508c8e13dd"]
+---
+
+# Bonny
+
+**Public export:** Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+*English*
+
+This reading view applies documented source-preserving corrections. Source senses and context are not a completed linguistic review. Repeated parent glosses remain source paths, not additional meanings. Related-word links open exact local entries; they do not select a target sense or certify interchangeable usage.
+
+<a id="r1"></a>
+
+## Proper noun · Etymology 1 · Record 1
+
+### Senses
+
+<a id="r1-s1"></a>
+
+**Source sense R1.S1**
+
+1. A female given name from English.
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+<a id="r2"></a>
+
+## Proper noun · Etymology 2 · Record 2
+
+### Forms
+
+- Bonnys — plural
+
+### Senses
+
+<a id="r2-s1"></a>
+
+**Source sense R2.S1**
+
+1. A surname.
+
+   **Usage:** countable; uncountable
+
+<a id="r2-s2"></a>
+
+**Source sense R2.S2**
+
+2. An unincorporated community in Morgan County, Kentucky, United States.
+
+   **Usage:** countable; uncountable
+
+### Etymology
+
+Etymology prose is withheld from this public derivative. Original material is retained only in the local parent edition.
+
+## Source gaps
+
+IPA pronunciation absent in 2 of 2 source records; eligible usage examples absent in 3 of 3 senses.
+
+Missing fields have not been generated or inferred.
+
+## Sources
+
+- [Content licences and source-specific notices](../../../LICENSE.md)
+- [English Wiktionary entry](https://en.wiktionary.org/wiki/Bonny#English)
+- [Wiktionary contributors and revision history](https://en.wiktionary.org/w/index.php?title=Bonny&action=history)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Snapshot: enwiktionary-2026-10-01-raw-244dcdc56868.
+- Adaptation: structured extraction and Markdown formatting; translations and media omitted. The original example filter excludes referenced sense examples and quotation-typed examples. This public derivative additionally withholds all unreviewed etymology prose and two individually identified water examples. Authorship of every remaining unreferenced example is not independently verified.
+- Review status: automated source-preserving corrections applied; complete semantic and human review pending.
